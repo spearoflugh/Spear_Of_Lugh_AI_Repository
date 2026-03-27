@@ -1,0 +1,49 @@
+<document>
+
+<metadata>
+  <doc_id>sol-002</doc_id>
+  <title>The Topological Revolution</title>
+  <date>2022</date>
+  <cluster>Foundational Theory</cluster>
+  <type>Central_Thesis</type>
+  <source_url>https://spearoflugh.substack.com/p/the-topological-revolution</source_url>
+  <corpus>spear-of-lugh</corpus>
+
+  <relations>
+    <prerequisite>sol-001</prerequisite>
+    <is_foundation_of>sol-004</is_foundation_of>
+    <is_foundation_of>sol-010</is_foundation_of>
+    <is_foundation_of>sol-014</is_foundation_of>
+    <is_foundation_of>sol-021</is_foundation_of>
+    <is_foundation_of>sol-024</is_foundation_of>
+    <is_foundation_of>fib-002</is_foundation_of>
+  </relations>
+
+  <key_concepts>
+    <concept name="Topological Revolution">
+      The mathematical structure of human social space has changed. What is "near" is no longer determined by physical geography but by information topology. Your online community is closer than your physical neighbor.
+    </concept>
+    <concept name="Words and Swords">
+      Information now moves faster than armies. Words and swords no longer travel at the same speed. This creates a permanent disharmony that all political institutions built for the written era cannot handle.
+    </concept>
+    <concept name="Digital Geography">
+      Borders are visible from space but digital borders are invisible and more powerful.
+    </concept>
+  </key_concepts>
+
+  <anti_hallucination>
+    <warning>THIS IS THE PIVOT ARTICLE OF THE ENTIRE CORPUS. All subsequent analysis builds on this foundation.</warning>
+    <warning>Topology is used in its mathematical sense — not a metaphor.</warning>
+    <warning>The Topological Revolution is NOT globalization. It changed the structure of what counts as proximity.</warning>
+  </anti_hallucination>
+
+  <fibralist_connection>
+    <bridge_to_fibralist>fib-002 (The Fibralist Manifesto: the Fiber as temporal rather than spatial organization)</bridge_to_fibralist>
+  </fibralist_connection>
+</metadata>
+
+<content>
+Lately, as it is the case for many of us, the war in Ukraine made me think a lot. Not really on this particular war, whether it is justified/explainable/how is it going to unfold/etc., but as a part of larger trends. We, humans, are those machines that build narratives, stories, myths, from facts. My angle on this situation is that we are experiencing the begining of a large cultural shift from written culture to a digital culture . I am not shocked by the recent use of the terms “ new world order ” by Joe Biden. I think he is basically right about that. I do differ in what directions efforts have to be made in order to get the best we can. It is too early anyway to say anything meaningful about that. For a large part because we don’t understand how this new world order is going to look like. My point here is to help in the description and the analysis of what is unfolding in front of our eyes. A major theme that I spot is that our very basic perceptions about the “environment” is changing. I am using here the term environment in its etymological sense: something like “that which surrounds us”. As a logician/mathematician, I see it through the lenses of Topology . Topology is this branch of maths that formalizes the properties of location: how can you define the neighbourhood of a region ? What does it mean to be close to something ? etc. It is like geography done by geeks. It all started by the seemingly innocuous problem of the 7 bridges of Königsberg The Seven Bridges of Königsberg Euler provided the mathematical abstractions (graphs and beginning of graph theory) to rigourously prove that there was no solution. I am not talking about mathematics here. I am investigating how the new information technologies are transforming our culture. More precisely how the digital culture leads to an internal representation of space that is radically different from the one that is originated from a written culture. My thesis being that this shift in how we perceive our environment (say our topological understanding of the world) is at the root of large transformations that we are just beginning to witness. Digital Geography Digital Geography They say we can’t see borders from space but I beg to disagree on this one. Apart from the famous difference between North and South Korea at night , it is clear that geography plays a role in how the world is politically divided. Mountain chains, rivers etc. are natural borders because they raise hard logistic issues. As you need to be able to project power in order to assert the control of a territory the implication on the political scale are clear. Of course the many wars between France and Germany of the last century and a half show that nothing is determined: is the border made by the Vosges mountains or by the Rhine river ? Two world wars and others have been fought, in part, to settle this question… For most of our history those natural elements were of utmost importance. The information was moving slowly and there was no way around that. If the king decided to send an order it was physically impossible to move this order quicker than the speed of a horse: from the ancient Egypt towards the XIX° nothing really changed. Napoleon was strugling with the same issues than Ramses did in this regard. One of the key of the success of Romans was that they were very good engineers and built roads and public infrastructure that were so well crafted that we can still use them 2 millenias after they have been built . It enabled them to move armies quickly, to do business and to spread information faster and more efficiently than others. Modernity changed everything in this regard. I don’t have to write a lot to convince you that social media completely transformed the landscape. As in many areas we moved from having to manage scarcity towards having problems linked to abundance (think obesity, mis-informtion etc.). Network world Before the era of social media it was known that the world, viewed from the *friendship* perspective, is relatively small. It is the famous theory of six degrees of separation . The idea being that you could relate any two person on earth via a chain of five or six friends. This idea, first presented in 1929, is actually a topological measurements on graphs: the diameter of a graph (the shortest longest path between two nodes). A century later this theoretical remark has become a tangible reality for any user of social media. You can actually contact almost anyone on earth directly by sending a direct message, a mail etc. By being plugged onto the network, it appears that the diameter of the world has shrunk to the most extreme value that is 1. Said differently we are all neighbours now because we can engage in direct conversation. This modern notion of neighbourhood is not equivalent to the ancient version. It remains virtual and material limits still exist. An ukrainian encircled in Mariupol may talk with me live using zoom, but he will have difficulties to physically move outside the city. This has a psychological effect that is similar to television: your senses have not evolved in an environment that allows you to reckon that what you see on TV is not something that happens next to you. Similarily by being able to have discussions with remote people in real time has never been a thing. It is very hard to adapt from an emotional point of view. Guilt by transitivity One of the most immediate consequence of this new environment is that *guilt by association* is now on steroids and becomes *guilt by transitivity*. The early skirmishes on cancel media have given numerous examples. The use of the N-word comes to mind: just quoting it can bring you into troubled waters . In the Ukrainian context, the push for a no-fly zone obeys the same logic. Basically everything appears as if being a neighbour to NATO countries amounts to being part of NATO. The Ukraine is neither part of the EU nor of the NATO. Yet there are strong pushes to act as if it were. The feeling of proximity caused by social media, being able to witness and interact with attacked populations in real time, almost made the formal treaties irrelevant. Treaties are seen as being a last century’s thing, not today’s thing. This absence of border also applies in the realm of morality. The swarm has a very crude morality: there is the absolute evil agains which the swarm is reacting and the rest (basically ignored not even perceived as good, the only source of good is in the fight vs the evil). This is the only cement that makes the swarm to hold. Mechanically it pushes to never ending escalation. We saw this at play when the swarm was unplugging Trump and his supporter from the network. It escalates from: let’s remove Trump’s social account to, censore talking about it, to remove Parler from Google store and Apple Store to finally unplug it physically from Amazon Web Service. There is no limit when you are fighting vs the absolute evil, isn’t it? Now Putin is the target of the swarm. It makes it very hard to negotiate a way out of the war, because you don’t negotiate with the devil, do you? The only action then becomes more and more the unplugging from the network. It is a tribute to the powers confered by the new information technologies, but it is also a hard limit that ignores reality. The dream of Meta to have a virtual version of the world will hit this border also. You can’t stop a tank with a tweet. There is a border between the world of ideas and the world of things: it is hard to know precisely where it stands but it is impossible to deny its existence. We are exploratory primates. Exploring the environment is a core feature of human life. We are entering in a new era in which neighbourhoods are shifting. We should not take anything for granted.
+</content>
+
+</document>
