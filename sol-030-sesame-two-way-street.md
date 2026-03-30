@@ -11,6 +11,7 @@
 
   <relations>
     <is_foundation_of>sol-023</is_foundation_of>
+    <related_to>sol-042</related_to>
     <related_to>sol-017</related_to>
     <related_to>sol-016</related_to>
     <related_to>sol-019</related_to>

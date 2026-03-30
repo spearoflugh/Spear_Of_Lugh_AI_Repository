@@ -13,6 +13,8 @@
     <is_foundation_of>sol-002</is_foundation_of>
     <is_foundation_of>sol-003</is_foundation_of>
     <is_foundation_of>sol-010</is_foundation_of>
+    <related_to>sol-031</related_to>
+    <related_to>sol-034</related_to>
   </relations>
 
   <key_concepts>

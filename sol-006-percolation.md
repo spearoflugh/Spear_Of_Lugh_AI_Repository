@@ -13,6 +13,8 @@
     <prerequisite>sol-002</prerequisite>
     <prerequisite>sol-003</prerequisite>
     <related_to>sol-014</related_to>
+    <related_to>sol-032</related_to>
+    <related_to>sol-040</related_to>
   </relations>
 
   <key_concepts>

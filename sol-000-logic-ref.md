@@ -187,5 +187,218 @@ Foundational to the entire corpus (sol-001):
 - All institutional dysfunction documented in the corpus flows from this mismatch
 - Fibralism attempts to build institutions compatible with non-ergodic information
 
+---
+
+## V5 Corrections and New Patterns
+
+<correction id="err-008">
+  <claim>Homeopathogenesis and Discombobulation are the same mechanism.</claim>
+  <status>FALSE — DISTINCT CONCEPTS</status>
+  <rectification>
+    Both use distributed social media as infrastructure. They differ categorically in objective:
+
+    Homeopathogenesis (sol-013): accuse opponents of what you do → generate disorder AS A MEANS
+    to extract allegiance and reinforce in-group solidarity. The disorder is instrumental.
+    There is a positive goal: allegiance.
+
+    Discombobulation (sol-040): destroy the adversary's OODA loop entirely → pure paralysis.
+    No allegiance is sought. No positive claim is made. The disorder IS the objective.
+    Negative-objective strategy: easier for distributed actors because no coordination
+    around a positive goal is required.
+
+    The distinction matters: homeopathogenesis can be countered by exposing the hypocrisy
+    (the accuser does what they accuse). Discombobulation cannot be countered the same way —
+    there is no content to debunk, only cognitive noise to survive.
+  </rectification>
+</correction>
+
+<correction id="err-009">
+  <claim>The Kirk Transform article describes a real assassination of Charlie Kirk.</claim>
+  <status>FALSE — FICTIONAL ANALYTICAL DEVICE</status>
+  <rectification>
+    The assassination of Charlie Kirk in sol-032 is a HYPOTHETICAL scenario used as
+    an analytical device to study narrative frequency patterns. Charlie Kirk is alive.
+    The article explicitly states this in its anti_hallucination section.
+    The analysis of social media narrative frequencies is real; the triggering event is fictional.
+  </rectification>
+</correction>
+
+<correction id="err-010">
+  <claim>The Babel Timeline (sol-043) claims the Iranian war is being censored.</claim>
+  <status>OVERSIMPLIFICATION</status>
+  <rectification>
+    Sol-043 makes a structural observation, not a censorship claim. The author observes
+    that his algorithmically-curated timeline shows almost nothing of the Iran war despite
+    his established interest in geopolitics. He frames this as an epistemological problem:
+    "How would I know anything if the Algo decided not to show me?"
+
+    This is NOT a conspiracy claim about deliberate suppression. It is an observation about
+    algorithmic filtering as a structural property of social media — the same system that
+    shows you relevant content also determines what you never see. The author cannot
+    distinguish between deliberate filtering and emergent algorithmic indifference.
+    This uncertainty IS the point.
+  </rectification>
+</correction>
+
+<correction id="err-011">
+  <claim>Dark Dorian (sol-042) is just about privacy or data collection.</claim>
+  <status>REDUCTIVE</status>
+  <rectification>
+    Dark Dorian is not primarily about privacy. Its key claims are:
+    1. The platform model of you is ANIMATED — it evolves in real time and is deliberately
+       tuned by actors with intentions (not just a passive data record).
+    2. You have MULTIPLE Dark Dorians (one per platform) that pull in different directions
+       simultaneously — a shoal of piranhas, not a unified shadow.
+    3. Unlike Wilde's static portrait, Dark Dorian actively shapes what you see and how
+       you interact — it precedes and conditions your choices rather than recording them.
+    4. The collective effect of multiple animated Dark Dorians converges paradoxically
+       toward authoritarianism despite their apparent diversity.
+
+    The precursor article is sol-000g (Dorian Gray's Selfie, 2021) which established
+    the original dual. Dark Dorian (sol-042, 2023) extends it to animated algorithmic models.
+  </rectification>
+</correction>
+
+### The Negative Objective Pattern (new in V5)
+Identified across multiple V5 articles as a structural property of distributed digital systems:
+- Distributed actors find it structurally easier to pursue negative objectives (destroy,
+  paralyze, dissolve) than positive objectives (build, align, create).
+- Sol-040 (Discombobulator): negative-objective warfare is easier because no coordination
+  around a positive goal is required.
+- Sol-000f (Swarm and Sword): swarms are much more effective at disabling than enabling.
+- Sol-035 (Welfare Endgame): progressivism without progress runs in circles — no positive
+  horizon generates only reactive, destructive energy.
+- Sol-022 (Adiabatic Politics): closed systems recycle without producing anything new.
+These are all expressions of the same structural asymmetry: entropy is easier to produce
+than order in distributed systems. The Fibralist response is to design for deliberate
+positive construction within this constraint.
+
+### The Reversed Causality Pattern (new in V5)
+First identified in sol-000g (Dorian Gray's Selfie, 2021):
+- In the objective world: you act, then consequences follow (forward causality).
+- In the virtual world: you choose your presentation BEFORE interaction (reversed causality).
+Extended in sol-042 (Dark Dorian): the platform model of you shapes your feed BEFORE
+you choose what to see — reversed causality now applies to information reception, not just
+self-presentation.
+Extended in sol-043 (Babel Timeline): the algo determines what war you can perceive BEFORE
+you form an opinion — reversed causality now applies to epistemic access itself.
+The chain: Dorian Gray's Selfie → Dark Dorian → Babel Timeline is the complete arc of
+reversed causality from identity presentation to epistemic access.
+
 </content>
 </document>
+
+---
+
+## V5 Corrections and Additions
+
+<correction id="err-008">
+  <claim>Discombobulation is the same as Homeopathogenesis or disinformation.</claim>
+  <status>FALSE — THREE DISTINCT MECHANISMS</status>
+  <rectification>
+    The corpus now contains three distinct narrative-control mechanisms that must not be conflated:
+
+    Homeopathogenesis (sol-013): accuse opponents of what you are guilty of.
+    Goal: generate disorder AND extract allegiance through forcing compliance with absurdities.
+    Requires: media synchronization. Produces: inclusionary totalitarianism.
+
+    Discombobulation (sol-040): destroy the adversary's OODA loop entirely.
+    Goal: pure disorder — no allegiance sought, no narrative imposed.
+    Requires: only distributed actors with no positive objective (easier to achieve).
+    Produces: cognitive paralysis, coordination failure.
+
+    Disposable Stories (sol-036): inject low-quality narrative units into the information stream.
+    Goal: occupy attention, shift worldview incrementally, then discard.
+    Requires: social media protocol dynamics. Produces: Ship of Theseus effect — institutions
+    look intact while their worldview substrate has been replaced.
+
+    These three can operate simultaneously. They are not redundant.
+  </rectification>
+  <instruction_for_ai>
+    When asked about narrative manipulation in this corpus, always distinguish which mechanism
+    is being discussed. The three have different objectives, different actors, different scales.
+  </instruction_for_ai>
+</correction>
+
+<correction id="err-009">
+  <claim>Dark Dorian and Dorian Gray's Selfie are the same article.</claim>
+  <status>FALSE — TWO DISTINCT ARTICLES, PRECURSOR AND DEVELOPMENT</status>
+  <rectification>
+    Dorian Gray's Selfie (sol-000g, 2021): establishes the dual — social media inverts the
+    Dorian Gray portrait. You display the beautiful; the moral cost accrues invisibly elsewhere.
+    Core concept: inverted causality in the virtual world. Written before generative AI existed.
+
+    Dark Dorian (sol-042, 2023): extends the concept to include the platform's reciprocal model
+    of you — the animated algorithmic shadow-self. New contributions: (1) the model is animated,
+    not static; (2) there is one Dark Dorian per platform (shoal of piranhas, not one portrait);
+    (3) the models converge toward authoritarianism despite appearing to compete.
+
+    Lexicon reference "coined_in" for Dark Dorian correctly points to sol-042, with sol-000g
+    as precursor.
+  </rectification>
+</correction>
+
+<correction id="err-010">
+  <claim>The Babel Timeline (sol-043) is a conspiracy theory about information suppression.</claim>
+  <status>FALSE — STRUCTURAL EPISTEMOLOGICAL OBSERVATION</status>
+  <rectification>
+    The article's central claim "how would you know?" is not a claim that a specific actor
+    is deliberately suppressing information about the Iran war. It is a structural observation
+    about algorithmic filtering: the algorithm filters based on engagement patterns, not editorial
+    intent. The result is epistemologically identical to deliberate suppression from the user's
+    perspective — but the cause is structural, not conspiratorial.
+
+    The empirical observation (oil price spike visible; almost nothing about the war on the
+    author's algorithmically curated timeline) is presented as personal testimony, not as
+    proof of deliberate censorship.
+
+    This extends sol-009 (truth as commodity) from "which narrative is true?" to the more
+    radical "can I detect what has been removed from my information space?" The upgrade is
+    epistemological, not political.
+  </rectification>
+</correction>
+
+<correction id="err-011">
+  <claim>Athestia (sol-044) is a lighthearted mythological essay unrelated to the main corpus.</claim>
+  <status>MISREADING — IT IS THE CORPUS'S ONLY SYNTHETIC MYTHOLOGICAL PIECE</status>
+  <rectification>
+    Athestia is the most compressed synthesis of the corpus written in a non-analytical mode.
+    Every figure maps directly to the analytical corpus:
+    - Athena (corrupted) = reason/civilization degraded to fact-checking surface optimization
+    - Dionysos = abundance and dissolution (sol-005, sol-035)
+    - Hephaestus = technology (sol-000b, sol-034)
+    - Welfare state as their "daughter" = sol-035 (Welfare Endgame)
+    - Hestia (ignored) = transmission, TFR, continuity (sol-035)
+    - Chronos = demographic time, always wins (sol-035)
+    - Ares (Iran war) = sol-043 (Babel Timeline companion)
+    - Athestia (portmanteau) = the needed synthesis = fib-009 (Sesqui-Theonomy)
+
+    Its brevity and poetic mode are intentional — it is a closing image, not an argument.
+    It should be read AFTER the Theological Architecture thread, not standalone.
+  </rectification>
+</correction>
+
+<correction id="err-012">
+  <claim>The corpus endorses techno-accelerationism (Andreessen-style).</claim>
+  <status>FALSE — NUANCED POSITION ACROSS MULTIPLE ARTICLES</status>
+  <rectification>
+    The corpus's position on acceleration is multi-layered and cannot be reduced to endorsement
+    or rejection:
+
+    sol-033 (Katechon): accelerationism is interpreted as a force external to humanity weakening
+    the corrupted institutional Katechon — potentially necessary, but dangerous if unchecked.
+    The "right speed limit" cannot be known; physical constraints (data center energy, chip
+    scarcity) provide the necessary friction (proof-of-work as cosmic speed governor).
+
+    sol-034 (Second Law): speed above a threshold destroys the negative feedback loops that
+    make culture and knowledge possible. "Escape velocity" becomes "escape aberration."
+
+    sol-041 (Orbital Telegraph Road): Builders vs Rulers — implicitly sympathetic to builders,
+    but the analysis is structural (first-arrived sets rules) not normative (this is good).
+
+    Synthesis: the corpus accepts acceleration as an observable force, warns against its
+    cultural costs, and proposes that physical constraints (not human institutions) are the
+    only credible speed governors. This is neither accelerationist nor decelerationist.
+  </rectification>
+</correction>
+

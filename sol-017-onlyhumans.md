@@ -10,6 +10,8 @@
   <corpus>spear-of-lugh</corpus>
 
   <relations>
+    <related_to>sol-034</related_to>
+    <related_to>sol-037</related_to>
     <related_to>sol-011</related_to>
     <related_to>sol-012</related_to>
   </relations>
