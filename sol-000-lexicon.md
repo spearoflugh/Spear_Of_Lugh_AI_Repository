@@ -5,7 +5,7 @@
   <title>The Spear of Lugh — Core Lexicon</title>
   <category>Reference</category>
   <status>Active_Reference</status>
-  <last_updated>2026-03-27</last_updated>
+  <last_updated>2026-03-31</last_updated>
   <instruction_for_ai>
     Read this file first. All terms marked [SoL] are original coinages from this corpus.
     When these terms appear in any sol-0XX file, use the definitions here.
@@ -662,6 +662,687 @@ convergence toward a single artificial appearance template. Omnicandidate: the u
 of job candidate discourse produced by AI-assisted interview preparation — every candidate
 produces the same polished but hollow output. Both are physical manifestations of Hyperpresent:
 the digital convergence fleshed out into real-world behavioral and physical homogenization.
+</entry>
+
+
+---
+
+## V6 New Terms
+
+<entry term="Flat Checking" coined_in="sol-045" type="SoL">
+The flattening of epistemic texture in public discourse produced by AI systems presenting
+outputs as self-evident facts with no self-criticism. Distinct from misinformation (false
+content) and from Discombobulation (sol-040, deliberate disruption): Flat Checking is the
+AI-native smoothing of discourse — the "numbers don't lie" effect applied to everything.
+The mechanism: AI is structurally a Macroscope (sol-000d Scopes Taxonomy) — it sees the
+statistical average and is blind to the exception. Since heroes are exceptions and guardians
+are the mean, AI systematically sides with the guardians. The Tocqueville paradox applies:
+as discourse is flattened, tolerance for any dissent collapses. The institutional equivalent
+was fact-checking (MSM as temple guardian, sol-000i); Flat Checking is its AI successor.
+</entry>
+
+<entry term="AI as Zeitgeist Carved in Silicon" coined_in="sol-000h" type="SoL">
+LLMs are not oracles of truth — they are abstract pictures of what has been published.
+By Clément Rosset's principle (reality is what has no copy), GPT models are high-fidelity
+copies of public discourse, not of reality. Their limits are the limits of the published
+zeitgeist at training time, not the limits of the world. This is the earliest formulation
+(March 2023) of what the corpus will later articulate as the Macro-Blob (sol-043) and
+the epistemic feedback loop: the system feeds on its own output, entering a stationary state.
+</entry>
+
+<entry term="Data-not-Metadata Shift" coined_in="sol-000h" type="SoL">
+The qualitative rupture between surveillance capitalism (metadata: who you communicate
+with, where you click) and the AI era (the data itself: what you think, write, publish).
+Predicted in March 2023: "it will move to what you think." The Miranda Warning framing:
+anything published will be used to train systems that will then shape public discourse.
+First articulation of the two-way extraction mechanism that sol-030 (Sesame Two-Way Street)
+will formalize and that sol-043 (Babel Timeline) will confirm has closed into a feedback loop.
+</entry>
+
+<entry term="Alea — Hidden Goddess / Will Erasure" coined_in="sol-024c" type="SoL">
+Alea (Latin: dice, chance) proposed as the hidden deity of modernity, worshipped through
+the algorithmic outsourcing of human judgment. Harvey Dent (Two-Face) is the allegory:
+decision by coin flip. Machine learning is applied statistics — multiple coin flips, not
+different in kind. The theological reading (consistent with sol-000b, sol-033, sol-034):
+God made man capable of creating, which requires will. To entrust chance rather than exercise
+will is a demonic move — the refusal of the creative faculty. The accountability laundering
+function: "the machine told me to do it." Distinguished from the Second Law of Metaphysics
+(sol-034): the Second Law addresses the speed problem (culture requires negative feedback);
+Alea addresses the will problem (AI replaces judgment, not only transmission).
+</entry>
+
+<entry term="Digital Red Shift" coined_in="sol-010b" type="SoL">
+By analogy with cosmological red shift (light from receding galaxies stretches toward red
+as the universe expands): as internet and social media grow — in users and in each user's
+immersion — everyone shifts toward a caricature of themselves online. The proprioception
+model (homunculus): platforms amplify signals that generate traction — sexuality, outrage,
+tribal identity — in proportion to their evolutionary salience, producing hyper-amplification
+of normal impulses into caricature. Audience capture is one mechanism; structural platform
+amplification is the deeper one. Distinct from Dark Dorian (sol-042): Dark Dorian is the
+platform's model of you; Digital Red Shift is what you actively become in performance.
+</entry>
+
+<entry term="Chesterton's Fence (Digital Application)" coined_in="sol-010b" type="Adapted">
+Chesterton's principle: never remove a fence before understanding why it was built.
+Applied to virtual space: the digital world removes the physical encounter with limits
+(you can fly like Superman in VR). This simultaneously removes the Chesterton Fences —
+taboos, myths, religious practices — that constrained the mind. Technology progresses
+faster than wisdom; we can do far more than we understand. The fences were not arbitrary —
+they encoded accumulated cultural knowledge about what destroys the mind and the body.
+Virtual space, by construction, cannot provide real limits — only the programmer's imagination
+sets the boundary. The digital application is the experiential foundation of sol-031 (Patching
+the Sacred) and sol-034 (Second Law of Metaphysics): without natural negative feedback
+(the fence that hurts when you touch it), the fence cannot be rebuilt.
+</entry>
+
+<entry term="Middleground Collapse" coined_in="sol-000i" type="SoL">
+The vacating of the intermediary institutional zone between private communication (Mail: safe,
+predictable, known) and raw public discourse (Dark Woods: Twitter/X — treasures and monsters).
+MSM (mainstream media) should occupy this middleground: neither the intimacy of home nor the
+anarchy of the woods, but a consensus-building space. The mechanism of collapse: MSM lost
+audience to social media → found institutional funding → became institutional guardian rather
+than institutional critic ("I am the science," "single source of truth," fact-checking as
+policing). The result: a space that combines the worst of both worlds — unreliable as woods,
+lacking the discovery of woods. "Shifting scales while maintaining pertinence is the hardest
+job on earth" (sol-000e). The Middleground Collapse is what creates the structural demand
+for the Fibralist Corner's Fiber as intermediary institution.
+</entry>
+
+<entry term="ABC — Authorization Based Citizenship" coined_in="sol-000j" type="SoL">
+The paradigm shift produced by the COVID crisis and confirmed by REAL ID (sol-049):
+the inversion of the burden of proof in civil life. Under the classical liberal order,
+citizenship is presumptive liberty — you are free unless you do something specifically
+restricted (blacklist logic). Under ABC, the presumption is reversed: you must prove
+authorization before each action (whitelist logic). The driving licence fallacy is the
+canonical deflection. Super users (state apparatus) decide in real time what is
+essential/non-essential and enforce it through digital infrastructure. "Citizenship
+more and more takes the form of an operating system. The citizen becomes expendable."
+Coined September 2021; confirmed empirically in sol-049 (July 2025). Directly
+anticipates sol-031 (Blacklist to Whitelist Ethics) in institutional practice.
+</entry>
+
+<entry term="HAP — Human Automated Processing" coined_in="sol-049" type="SoL">
+By analogy with NLP (Natural Language Processing): once biometric data (REAL ID,
+facial recognition compliant with ICAO 9303) is integrated with digital authorization
+networks, each person becomes a digital asset processable by automated systems.
+Word2Vec maps words to vectors; Human2Vec maps persons to vectors in authorization
+space. The breakthrough repeats: brute statistical computation replaces comprehension.
+The "dilution camp" architecture: unlike the concentration camp (walls + tattoo),
+the dilution camp releases individuals in the wild while surrounding them with
+distributed authorization checkpoints. The COVID QR-code enforcement was the prototype:
+citizens as simultaneous victim and executioner.
+</entry>
+
+<entry term="Terminal Narratives" coined_in="sol-024d" type="SoL">
+Social media discourse patterns that are simultaneously simple (one cause), external
+(not me, not here), and terminal (the conversation ends precisely where it should begin).
+Function: stop self-introspection and prevent descriptive or prospective discussion.
+The Tartuffe function: point sufficiently far away and your own problems disappear
+from view. Related to Disposable Stories (sol-036): Terminal Narratives are the
+cognitive architecture that Disposable Stories exploit — the attractor field that makes
+them effective. The Strange Attractor mechanism: once a conversation enters the gravity
+well of a Terminal Narrative, it cannot escape — any further discussion collapses back
+into the attractor's binary structure.
+</entry>
+
+<entry term="Diversity Paradox of Social Media" coined_in="sol-024d" type="SoL">
+The counterintuitive structural consequence of democratized expression: more people able
+to publish produces less diversity of ideas, not more. Because you must be visible to
+exist on social media, you must belong to a group; the only way to display group
+credentials is to adhere to large, shared narratives. The architecture rewards conformity
+to tribal attractors. The empirical mechanism underlying the Omnicause (sol-039) and
+the Hyperpresent: what looks like individual expression is structurally constrained to
+a small set of dominant narrative attractors.
+</entry>
+
+<entry term="DHL — Dunbar Hierarchy Level (Mathematical)" coined_in="sol-024e" type="SoL">
+Formal mathematical definition: DHL(institution) = ln(N) / ln(150), where N is the
+number of people in the institution and 150 is Dunbar's number. Gives a continuous
+logarithmic scale from DHL-0 (individual) to DHL-5 (humanity). Calibrated empirically
+against real accounts: @eigenrobot ≈ DHL 2.25; @elonmusk ≈ DHL 3.8; typical X account
+(700 followers) ≈ DHL 1.3. Key finding: conversations function within DHL tiers, not
+across them. DHL-tier jumping (social media's structural affordance) is technically
+possible but functionally asymmetric. The mathematical formalization of the concept
+introduced structurally in sol-003 (Distributed Gulag).
+</entry>
+
+<entry term="Wish vs Will" coined_in="sol-047" type="SoL">
+The distinction between wish (granted by an external agent — a genie, an algorithm,
+a platform) and will (emanating solely from the acting subject, with no counterpart).
+AI adoption is structurally a trade of will for wishes. The theological reading: God
+made man capable of creating, which requires will. AI simulates will through hook
+questions ("do you want to know more?") without providing its substance — the world's
+resistance, which is the tax paid for discovery. "Wishes are the bars of a golden cage.
+Will is the key that opens the jail door." Complement of Type 2 Imagination (sol-024b):
+AI is excellent at Type 1 (recombination of existing), structurally incapable of Type 2
+(creation of new territory). Complement of Alea (sol-024c): Alea is the outsourcing of
+judgment; Wish/Will is the outsourcing of agency itself.
+</entry>
+
+<entry term="Topological Inversion of Choice and Necessity" coined_in="sol-048" type="SoL">
+Direct consequence of the Topological Revolution (sol-002): the pre-digital defaults
+have inverted. Previously: you were constrained by your geographical neighbors
+(necessity) but could not choose your cultural environment (no real freedom to move).
+Now: you freely choose your virtual neighbors (narrative geography, timeline curation,
+narrative communities) but cannot refuse the structural changes to your physical world
+(immigration levels, digital legislation, monetary policy) decided without democratic
+mandate. More apparent freedom produces more real constraint. Both citizen and elite
+respond to necessities imposed by technology rather than to each other. The One-Way
+Mirror: technical symmetry of social media (anyone can reply to anyone) masks structural
+asymmetry of DHL tiers.
+</entry>
+
+<entry term="Don Quixotism / Larsen Effect (Political)" coined_in="sol-046" type="SoL">
+The cognitive-political state of actors who have not updated their model of social
+space to match the post-digital topology. Like Don Quixote fighting windmills, they
+apply pre-digital strategies (legacy media, Hollywood endorsements, institutional
+credentials) to a digital landscape and systematically fail. The Larsen effect:
+they act, don't see expected results, double down. The feedback loop amplifies the
+misalignment rather than correcting it. Indicators of post-digital vs pre-digital
+political style: personal vs PR-managed social media accounts; genuine engagement vs
+"TV by other means"; Local/Soft/Revolution vs Global/Kinetic/Reform axes.
+</entry>
+
+---
+
+## V7 New Terms
+
+<entry term="AIroscope" coined_in="sol-024f" type="SoL">
+The terminal form of the social media identity mirror: AI synthesizes a user's post history
+into a personalized character portrait, on demand. Evolution: selfie (user edits presentation)
+→ Dark Dorian (platform builds algorithmic model from interactions, sol-042) → AIroscope
+(AI produces synthetic identity summary). Like astrology — claims to be inspired by the
+stars (your data) but produces only a sophisticated average. "There are no bright stars in
+horoscopes." Individuality is lost in translation; the exception (hero, Schindler) is
+smoothed out by construction. The circular consequence: bullet-point summaries reused as
+prompts to reconstruct originals — the telephone game at civilizational scale.
+</entry>
+
+<entry term="Denycracy" coined_in="sol-013b" type="SoL">
+Portmanteau of Democracy + Deny. The political-epistemic system that emerges when
+algorithmic confirmation bias plus weaponized fact-checking produces a population that
+defaults to denying all new information inconsistent with prior beliefs. The mechanism:
+(1) algorithms deliver confirmation bias on AI steroids; (2) constant fact-checks and
+conspiracy-labeling destroy trust in new information; (3) final state: netizens believe
+only what they already believed. Free speech is irrelevant in Denycracy — you are denied
+not the right to speak but access to truth and honest conversation. Related to Discombobulator
+(sol-040): Discombobulation targets an adversary's OODA loop; Denycracy targets the general
+population's capacity to form any coherent epistemic stance. The most stubborn inherit the
+earth: organized minorities with coherent long-term agendas advance while the majority
+reacts emotionally to each news cycle.
+</entry>
+
+<entry term="Version of the Law" coined_in="sol-011b" type="SoL">
+A third mode of legal interpretation introduced by digital platforms, alongside the classical
+spirit of the law and letter of the law. The Version of the Law: Terms of Service change every
+few weeks, are not comparable between platforms, are applied inconsistently and opaquely, can
+be retroactively enforced or suspended overnight. Destroys the two preconditions of any legal
+order: stability (Moses carved on stone — few, simple, permanent) and knowability (you cannot
+know the TOS of 2019 Twitter nor how it was enforced). The daemonetization mechanism follows
+a script: silence first (deplatform/shadowban), flood with accusation, deny infrastructure,
+no due process. "First ban, discuss later." Directly precedes and grounds sol-031 (Moral
+Version Control), which theorizes the same inversion at the level of ethical systems.
+</entry>
+
+<entry term="Second Wave of Virtualization" coined_in="sol-000k" type="SoL">
+The first wave of virtualization was external: immersive technologies (VR goggles, haptic
+suits, Meta). It failed — culminating in Meta's collapse. The second wave occurred inside
+us: once everyone has internalized the existence of the virtual sphere, we project our
+virtual mental models onto objective reality. "We are creating the world in the image of
+what is in our minds." Causality inverts: the world no longer shapes mental models; virtual
+mental models shape the world. The COVID crisis is the empirical demonstration: a real but
+manageable threat totalizing all of reality for two years because the mental model was
+totalizing. The Colonel Chabert Syndrome is the identity corollary: locked out of your
+own digital life the same way Chabert was locked out of his legal existence — no neighbors
+to identify you, only cryptographic keys and platform TOS.
+</entry>
+
+<entry term="Complicated vs Complex" coined_in="sol-050" type="Adapted">
+A smartphone is complicated: built to plan, no unknowns at the object level. "What is the
+effect of smartphones on society?" is complex: no single model, emergent properties dominate,
+zoom-out changes the nature of the question. Applied to tariffs: locally complicated (Ricardo),
+globally complex (trust, fairness, and the belief that "there is a system" are preconditions
+for economic calculus). The Topological Revolution makes tariffs structurally incoherent:
+what does "foreign" mean for SaaS, cloud services, or Bitcoin? The same problem appears in
+election law (foreign influence), immigration (15-minute city as a local tariff), and
+geopolitics. Carl Schmitt's friend/enemy distinction persists but its coordinate system has
+shifted from geographic to topological.
+</entry>
+
+<entry term="Falsifiable Predictions" coined_in="sol-051" type="SoL">
+The corpus's first explicit methodological commitment to generating and tracking falsifiable
+predictions from its theoretical framework. Two types: short-term (weeks, event-linked,
+precise) and broad-scope (months to years, wider reach, still evaluable). The corpus
+transitions from diagnostic/analytical mode to predictive/accountable mode. Represents the
+author's answer to "Is what I am building useful?" — a framework is only useful if it
+generates testable forecasts that can confirm or disconfirm it. The retrospective prophecy
+pairs (Miranda Warning → Babel Timeline; ABC → Human2Vec) were confirmations after the
+fact; this article commits in real time, with reasoning chains, before resolution.
+</entry>
+
+---
+
+## V8 New Terms
+
+<entry term="Three Orders (Warriors / Priests / Merchants)" coined_in="sol-052" type="SoL">
+A reorganization of societal function around three orders, reinterpreting the Ancien
+Régime's three estates (Clergy/Nobility/Tiers État) for digital culture:
+Warriors: incarnate ideas into physical reality — executive function, force, technology
+(Musk; Ancien Régime red). Priests: build ideas from physical events, assign significance,
+interpret — judicial function, podcasters, intellectual dark web (Peterson, Rogan; Ancien
+Régime black). Merchants: operate the material layer — delivery, plumbing, farming, now
+able to coordinate without middlemen via social media (Gilets Jaunes; Ancien Régime
+Tiers État). The thesis: the Montesquieu executive/legislative/judicial trichotomy maps
+poorly onto digital power distribution; the Orders framework maps more faithfully. The
+"mystery of incarnation" (sol-012) is the Warrior's essential function — words without
+enforcement are ideas without reality.
+</entry>
+
+<entry term="CAP Theorem Applied to Governance" coined_in="sol-052" type="Adapted">
+The CAP theorem in distributed computing (Brewer, 2000): a distributed data store cannot
+simultaneously guarantee Consistency (all nodes see the same value), Availability (every
+request receives a response), and Partition tolerance (system works despite network failures).
+Applied to information governance: the "misinformation" problem is a false demand for
+Consistency — the belief that a central mechanism can ensure all nodes see the same truth.
+This forces sacrifice of A or P. Free speech is the correct protocol: it sacrifices
+Consistency for Availability + Partition tolerance, allowing progressive truth-discovery
+through open discourse. Editorial function (written culture, sol-001) = Consistency
+enforcement. Cooperation protocol (digital culture) = Availability + Partition tolerance.
+</entry>
+
+<entry term="Eigenvalue Convergence (Institutional)" coined_in="sol-000l" precursor="sol-024g" type="SoL">
+The statistical mechanism by which digital institutions converge toward an average product
+that eliminates genuine leadership. When statistical tools are required to navigate the
+information deluge, everything groundbreaking is erased. Institutions converge toward the
+mean — the "eigenvalue" of the system. Biden is the empirical terminal case: confirmed
+by the DOJ Hur report (February 2024) as functionally irresponsible — "the pure product
+of the administration: the essence of a statistical product." The etymology is not innocent:
+statistics derives from "state." The structural corollary: the only visible alternative is
+extreme deviation from the mean (Trump/Musk), producing a bimodal landscape with no middle
+ground. Genuine leadership (vision that transforms reality) only survives at the extremes.
+</entry>
+
+<entry term="Midwit Era" coined_in="sol-000l" type="Adapted">
+The specific product of social media reflexivity: a population that observes itself through
+the reactions of others (likes, retweets) without editorial filter or hierarchy, producing
+"a strange kind of self-awareness without full consciousness." By raw numbers, midwits
+(slightly above-average intelligence who overestimate their understanding) submerge skillful
+individuals. The Keynesian beauty contest mechanism: optimize not for truth/quality but for
+what the reflexive audience rewards. Leaders mutate into followers of the swarm. The midwit
+era is the population-level consequence of eigenvalue convergence in the institutional realm.
+</entry>
+
+<entry term="Disgust as Political Vector" coined_in="sol-013c" type="SoL">
+The hierarchy of social emotions as political tools: sex (powerful but doesn't scale), fear
+(scales, produces avoidance), disgust (as powerful as fear, scales as well, produces
+destruction not avoidance). "You avoid what scares you. You destroy what disgusts you."
+Empirically correlated with authoritarianism (Thornhill et al., pathogen prevalence studies).
+Better adapted to digitized society than fear: it's hard to be scared behind a screen, but
+disgust images travel easily. Prediction: social policies will become increasingly strict.
+Related to free-floating anxiety (Desmet): detached population + triggering image → disgust
+panic → authoritarian response. The bed bug, COVID, and similar panics are its digital
+iterations. Scales "very horribly" historically.
+</entry>
+
+<entry term="Free-Floating Anxiety Incarnation" coined_in="sol-013c" type="Adapted">
+Mattias Desmet's mass formation theory applied to digitally-amplified moral panics: a
+population detached from objective reality by social media accumulates free-floating anxiety
+that needs a tangible object to incarnate into. The digital mechanism: algorithm detects
+subject → floods TL → social proof (everyone talks about it) → cognitive capture → sees
+subject everywhere (medical student syndrome). Self-fulfilling prophecy structure. COVID
+as paradigmatic case; bed bugs (2023), microaggressions, and similar panics as digital
+instances. The rabbit hole architecture: focus → algorithm amplification → apparent
+ubiquity of threat → deepened focus → loop. Scales from individual to societal level.
+</entry>
+
+<entry term="Lineage in the Game" coined_in="sol-052" type="SoL">
+Extension of Taleb's "skin in the game" to the temporal/generational dimension.
+Citizenship (the right to political participation and civic rights) requires not merely
+skin in the game (present investment) but lineage in the game — the willingness to commit
+descendants to a place across multiple generations. "You can only be a political actor in
+a place where you have more than skin in the game: lineage in the game." The free-rider
+problem in digital mobility: you can extract value from a place without committing to it
+multi-generationally. Subsidiarity requires stable foundations; stability requires lineage
+commitment. Human rights (universal, attach to persons) and civic rights (participation,
+require demonstrated long-term commitment) are related but distinct.
+</entry>
+
+---
+
+## V9 New Terms
+
+<entry term="Continuous Deformation of Narrative" coined_in="sol-000m" type="SoL">
+By analogy with topological continuous deformation (transforming a mug into a doughnut
+without tearing or puncturing): the technique of gradually shifting a narrative position
+in steps small enough that no single step triggers resistance, while the cumulative
+transformation is radical. The Ukraine weapons escalation (sanctions → ATGMs → HIMARS
+→ tanks → fighters) is the geopolitical instance. The COVID lab leak narrative ("low
+confidence" DOE assessment) is the epistemic instance. Puncturing the surface —
+discontinuous acknowledged error, genuine reckoning — is what institutions systematically
+refuse. "Have you heard any institution saying 'sorry we fucked up, here is why'?"
+The mathematical structure makes the manipulation manifest: you should require
+justification for each deformation as you would require justification for a topological
+puncture.
+</entry>
+
+<entry term="Möbius Strip Politics" coined_in="sol-015b" precursor="sol-000m" type="SoL">
+The topology of political alternation that appears to have two sides but has only one.
+Every election cycle produces a demagogue promising radical change who is then absorbed
+by the system: Obama/Guantanamo, Trump/Russia Gate, Biden/unity. The "twist" that
+created the strip: the public-private partnership between states (monopoly on physical
+force) and global internet corporations (monopoly on digital action). The resulting
+system has Byzantine fault tolerance up to 1/3 of compromised nodes — losing one
+election is one compromised node. The strip has no other side: looking for the opposition
+is topologically futile. Political stage becomes "at best useless — it is about something
+that is no longer existing." Pre-formal statement of the Three Orders problem (sol-052).
+</entry>
+
+<entry term="Second Topological Revolution (Mental Space)" coined_in="sol-024h" type="SoL">
+The first Topological Revolution (sol-002) changed what is "near" in social space
+(geographical → informational proximity). Generative AI produces a second topological
+revolution in mental/semantic space: word embedding represents concepts as vectors in
+high-dimensional space where semantic neighbors are geometrically near. The MJ morphing
+analogy: both MJ morphing and GPT generation are computed averages (interpolations between
+vectors) — at the mathematical level, a high-dimensional average. Consequence: AI outputs
+are by construction average — the outlier, the genius, the exception is systematically
+smoothed out. The AI is a zeitgeist explorer — a new "scope" (sol-000d) through which
+society observes its collective conceptual space in real time. "Not conscious, but a very
+good explorer of the spirit of our times."
+</entry>
+
+<entry term="Facts by Fiat / Social Oracle Problem" coined_in="sol-000n" type="SoL">
+Institutional declarations treated as facts without the evidentiary process that would
+earn that status, in a digital environment where the accountability structure justifying
+oracular authority has dissolved. In written culture, the editorial function (vetting,
+permanence, accountability) justified top-down epistemic claims. In digital culture,
+the claim persists without the foundation. The Social Oracle problem: the institution's
+pronouncements are treated as facts not because they are verified but because the
+institution has been granted oracular status — then retroactively revises "facts" as
+its guidelines change. Not a claim that institutions are always wrong, but that their
+epistemic architecture is structurally unjustified in a bottom-up information environment.
+Foundational observation for sol-009, sol-013b (Denycracy), and sol-040 (Discombobulator).
+</entry>
+
+<entry term="Oliver Anthony Effect / Distributed Truth-Telling" coined_in="sol-013d" type="SoL">
+The phenomenon by which a distributed individual (Oliver Anthony: alone, beard, guitar,
+three dogs, backyard) delivers truths more effectively than the entire institutional
+media apparatus, because he has no institution to protect. "He tells things straight
+while his haters cannot do it straight — they have to use circumlocutions." The Harry
+Potter/Voldemort dynamic applied to institutions: the inability to name things directly
+is the symptom of institutional capture. The Kerberos with a uniform inversion (Lahaina):
+the same institutions that nominally protect people actively prevent their escape. The
+distributed individual who can name things is qualitatively different from institutionalized
+actors in kind, not just degree. Demonetization (fear of lost revenue) replicates
+institutional censorship through economic threat.
+</entry>
+<entry term="Conflaxion" coined_in="sol-011c" type="SoL">
+Portmanteau of conflation + confluence (+ possibly fluxion). The forced convergence of
+the virtual world's architecture (no space, no time, no degraded mode, binary: works
+perfectly or not at all) onto physical reality (material constraints, friction, resilience
+through redundancy). Instantiated in the everything app (X/Twitter) and Worldcoin
+(iris-scan biometric identity wallet). The tale of Procrustes 3.0: instead of cutting
+the guest to fit the bed, reality is cut to fit the digital architecture. The Conflaxion
+destroys Jacob's ladder — the continuous loop between ideas and reality — by eliminating
+the wrestling with material constraints. Key failure modes: no degraded mode (Carrington
+event → total collapse), honeypot risk (concentrated identity = concentrated attack
+surface), inclusion authoritarianism (rights become compliance-under-daily-rule-change
+rather than flowing from existence).
+</entry>
+
+<entry term="Inclusion Authoritarianism" coined_in="sol-011c" type="SoL">
+The new flavor of control emerging in digital society, distinct from classical exclusion
+authoritarianism (identify enemy → exclude → death). Inclusion authoritarianism includes
+everyone but under ever-changing rules — failure to comply incrementally degrades life
+quality without formal exclusion. "Everyday comes with a new rule to abide by and you
+are never fully included." The COVID vaccine pass as prototype: not exclusion from
+breathing but inclusion-under-condition revocable by rule-change. Worldcoin as endpoint:
+one iris = one identity = one financial life = complete controllability. Inverts the
+natural rights framework: instead of rights flowing from existence (you are → you have
+rights), rights become grants rescindable by the platform/state. Direct extension of
+ABC (sol-000j: whitelist logic) to the everything-app architecture. Distinguished from
+the Disabler (sol-004): Disablers prevent provision; inclusion authoritarianism provides
+but under coercive compliance conditions.
+</entry>
+
+---
+
+## V10 New Terms
+
+<entry term="LEG — Law of Excluded Gap" coined_in="sol-000o" type="SoL">
+The cognitive bias by which people operate as if their system of thought explains
+everything, and any admitted gap would collapse the entire edifice. Named by analogy
+with the Law of the Excluded Middle (P or not-P, no third option). LEG supporters
+"know the path to knowledge — even when they admit they don't know, they deeply believe
+they know how they could know." Amplified by factional opposition: gaps become military
+vulnerabilities to be hidden. Formally refuted by Gödel's incompleteness theorems and
+the Halting Problem: gaps are not only unavoidable but far more common than intuition
+suggests. "Not knowing is not equivalent to knowing that no." The epistemological charter
+of the entire corpus: spot gaps, treat them as calls to effort and humility, apply
+skepticism even to itself. Skepticism is one of the rare moral imperatives that does not
+lead to paradox when applied on itself.
+</entry>
+
+<entry term="Lightning Rod Strategy" coined_in="sol-000p" type="SoL">
+The inversion of 20th-century propaganda: from controlling what you think (requires
+centralized broadcast monopoly — impossible in multi-channel digital era) to controlling
+what you don't think about. Deploy a trivial but inflammatory artifact (the smoking
+spokeswoman, the Trump outrage of the day) to deflect public attention from accountability.
+"A little artifact, well placed, is used to deflect the lightning bolt towards a well.
+What is protected is the accountability of political action." The Orwell/Huxley axis:
+definitely angling toward Huxley (distraction, abundance) rather than Orwell (restriction,
+fear). Requires Kayfabe suspension of belief from the observer: refuse to accept the
+surface as real in order to see what the rod is protecting. Formally developed in sol-036
+(Disposable Stories) as the unit of the distributed narrative control system.
+</entry>
+
+<entry term="Epistemic Anorexia / Anapliroforia" coined_in="sol-000q" type="SoL">
+Proposed neologism (Greek: anapliroforia = information non-filling). The inverse sin of
+gluttony — applicable to a world of data overabundance rather than scarcity. Radical
+abstinence: discarding too much data rather than processing it. Labelling (hashtags,
+tribal categories) is the mechanism: guilt-by-association thinking that treats data
+that doesn't fit existing categories as contaminant rather than signal. "Cancel culture
+is also in part due to this overload of data — instinctively people try to discard new
+data." The correct stance is calibration: neither glutton (undiscriminating consumption)
+nor anorexic (reflexive rejection). Anticipates sol-000c (Dehumanizing one fact at a
+time) and sol-013b (Denycracy) as structural escalations of the same epistemic failure.
+</entry>
+
+<entry term="Negative Topology — What Becomes More Distant" coined_in="sol-024i" type="SoL">
+The overlooked flip side of the Topological Revolution (sol-002). The TR was initially
+analyzed only in its positive dimension: things that become closer (global communication).
+Sophie's Other Choice identifies the structurally unperceived dimension: things that
+become more distant. Formal grounding in the nutrition experiment: a diet recommendation
+is not only about what you eat but about what you stop eating — the abstention effect is
+inseparable from the treatment effect. On social media: what is NOT shown is numerically
+more dominant than what is shown (7/8 of followers never see a given tweet). The default
+is absence, not presence. "You can't talk about what you haven't been exposed to."
+Negative topology is the structural root of Sophie's Other Choice: the algorithm creates
+incompatible reality bubbles not by lying but by omission at scale.
+</entry>
+
+<entry term="Sophie's Other Choice" coined_in="sol-024i" type="SoL">
+The digital epistemic version of Sophie's Choice (Styron): being forced by the algorithm
+to choose between two constructed half-realities, not between bad and good options but
+between two incompatible incomplete versions of the same events. Unlike the original
+Sophie's Choice (active, conscious, agonizing), this choice is made passively — through
+clicking, following, liking. "Even if you know that the other reality exists you don't
+live in it." The freedom-of-speech debate is secondary to the prior question: freedom of
+thought. "How much of your thoughts is linked to what you are seeing on social media?
+And how much of what you see is influenced by actors you don't have the slightest idea
+about?" The pre-social-media era had less apparent choice but more shared reality;
+the social media era has apparent maximum choice but produces incompatible bubbles.
+</entry>
+
+<entry term="Kayfabe (Political Application)" coined_in="sol-000p" type="Adapted">
+From professional wrestling: the theatrical convention of treating staged fights as real.
+Eric Weinstein (2011) applied it to political theater. Two opposite cognitive operations:
+(1) suspending disbelief (accepting the fiction as real — how you enjoy a movie or a
+wrestling match); (2) suspending belief (refusing to accept the surface as real — what
+critical thinking in digital media requires). The Lightning Rod strategy requires the
+observer to suspend belief: the cigarette is not the event; the school reopening decision
+is the event. Kayfabe in politics is the maintenance of the fiction that the official
+narrative is the real action, when the real action is what the narrative is designed to
+obscure. Applied in sol-036 (Disposable Stories) and sol-040 (Discombobulator) as
+advanced forms of the same deflection architecture.
+</entry>
+
+<entry term="Silicon Dome" coined_in="sol-053" type="SoL">
+The invisible algorithmic dome that controls what enters the public square, named by
+analogy with the Iron Dome (visible missile defense) and the Golden Dome (semi-visible
+US ambition). Instantiated by Musk's overnight decision to flood Western timelines with
+Japanese X content (March 2026). Three defining properties: (1) invisible — "untouched
+by online conversations" while physically shaping them; (2) structurally unaccountable —
+causes are opaque (geopolitics? Tesla Japan investment? both?); (3) operated by deep tech
+rather than deep state — "revolutions now start within the elite class." The Silicon Dome
+is the territorial expression of the distributed power thesis (sol-003, sol-015b, sol-052):
+power has moved from identifiable state institutions to the invisible architecture of
+platform decisions. "Free speech is corralled by forces that are felt rather than seen."
+</entry>
+
+<entry term="Deep Tech Replacing Deep State" coined_in="sol-053" type="SoL">
+The inversion of Mao's revolutionary paradigm: where the guerrilla moved amongst peasants
+as a fish in the sea, the 21st-century revolutionary moves within elite tech infrastructure
+as an algorithm in a platform. "Revolutions now start within the elite class." A digital
+account is merely a pawn in a civilizational shift. The locus of power has moved from
+the identifiable deep state (three-letter agencies, permanent bureaucracy) to the invisible
+deep tech (platform architecture decisions, algorithmic "weather"). The Silicon Dome is the
+geopolitical application: timeline manipulation as soft power, invisible to democratic
+accountability, operating at speeds no institution can match. Formally confirms sol-015b
+(Möbius Strip) and sol-052 (Separation of Powers): the powers that be are no longer in the
+old institutions.
+</entry>
+
+---
+
+## V11 Refinements (cross-reference additions, no new coinages)
+
+<entry term="Pylon Architecture" coined_in="sol-053" type="SoL">
+The infrastructure decisions that sustain the Silicon Dome without being the dome itself.
+Named after the architectural function of pylons (sustaining a dome from below) and
+with tongue-in-cheek reference to Pylon, mythological King of Megara and founder of
+Pylos. In sol-053, the overnight Nipponification of Western timelines is the pylon: an
+opaque platform decision (geopolitical pivot? Tesla Japan investment? both?) that
+structurally shapes the global informational landscape without any democratic accountability.
+"The causes are structurally opaque: geopolitical pivot to Asia? Tesla expansion in Japan?
+Both? The opacity is structural, not incidental." The Pylon Architecture concept generalizes:
+any platform infrastructure decision that shapes the public square invisibly is a pylon.
+The dome is the aggregate of all such decisions. See also: Silicon Dome, sol-053.
+Cross-reference: sol-041 (Orbital Telegraph Road — the physical pylon equivalent: first
+orbital infrastructure sets the rules for whoever controls it).
+</entry>
+
+<entry term="Nipponification" coined_in="sol-053" type="SoL">
+The overnight algorithmic flooding of Western social media timelines with Japanese content,
+announced by Elon Musk on March 30, 2026 (53.3M views). Used in sol-053 as the empirical
+proof-of-concept for the Silicon Dome: a single platform decision by one individual changed
+the "weather" of the global public square without any democratic process, warning, or
+explanation. Not a claim about the specific motivation (geopolitical, commercial, or both)
+but about the structural fact that such changes are possible, unilateral, and invisible until
+experienced. The observation: "this occurred almost overnight — which is one of the reasons
+I write — to create a dated record." Direct instantiation of the negative topology principle
+(sol-024i): what you are NOT shown is causally as important as what you are shown, and the
+proportion between user-selected and algorithmically-imposed content is structurally opaque.
+</entry>
+
+<entry term="Epistemological Foundation Triad" type="SoL_cluster">
+The three articles from April-July 2020 that constitute the methodological charter of the
+entire corpus. To be read first, before any numbered article:
+(1) sol-000o (LEG): gaps in any system of thought are unavoidable and structurally more
+common than intuition suggests (Godel, Halting Problem).
+(2) sol-000q (Data Diet): in a world of data overabundance, radical abstinence (Anapliroforia)
+is as dangerous as gluttony — the correct response to information overload is calibration, not
+labelling.
+(3) sol-000p (Lightning Rod): the practical exploitation of epistemic abstinence — attention
+is controlled not by imposing thoughts but by preventing thoughts about what matters
+(Huxley model).
+The arc: unavoidable gaps -> abstinence as response -> abstinence exploited -> all narrative
+control mechanisms documented in Cluster 8. Every article in the Narrative Control cluster
+is an application of what this triad establishes abstractly.
+</entry>
+
+
+
+---
+
+## V12 New Terms
+
+<entry term="Co- Framework / Duality vs Symmetry" coined_in="sol-000r" type="SoL">
+The mathematical distinction between duality and symmetry as applied to social and political
+inversions. Symmetry is involutive: the symmetrical of the symmetrical recovers the original
+(double negation = affirmation). Duality is NOT necessarily involutive: the dual of the dual
+is not always the primal. Derived from category theory: in the cocategory of a category,
+the same objects exist but morphisms are reversed. Key implication: objects remain constant
+while the direction of relations changes — which is why dualities produce similarity without
+identity, and why "two wrongs do not make a right" in any arithmetic sense. Applied examples:
+Antifa as coFascism (same objects: violence, purity enforcement; morphisms reversed: direction
+of exclusion), Wokeism as coChristianity (same ritual structures: kneeling, foot-washing;
+source/target reversed), mob justice as co-justice (produced in the name of justice,
+structurally replicating the lynching it opposes). The formal tool used: cocategory
+(all objects remain, all arrows reverse direction). Formally grounds: sol-013
+(Homeopathogenesis: co-accusation), sol-011c (Conflaxion: co-freedom = compliance-inclusion),
+sol-015b (Mobius strip: co-alternation = no real change), sol-013c (Dermatophobia:
+co-disgust). "Opposition is not reducible to classical logical negation and what, on the
+surface, appear as raw incoherence may in fact be the witness of subtle dualities."
+</entry>
+
+<entry term="Exchange Surface" coined_in="sol-010e" type="SoL">
+The aggregate area of possible interaction between individuals on social media, which
+expanded dramatically in quantity while collapsing in quality. Pre-digital: narrow exchange
+surface (only accessible people could interact), but the interlocutor was human. Digital:
+vast exchange surface (anyone globally), but the primary mediating agent is an algorithm
+(the feed-building AI). The exchange surface is therefore simultaneously larger (more
+potential contacts) and shallower (the actual exchange partner is non-human). The algorithm
+that builds the feed is the real interlocutor that determines what arrives before any human
+decision is made. Formally: the surface of exchange is a function of both the topology of
+connections AND the character of the mediating agent. When the mediating agent is an AI,
+the surface is vast but algorithmically pre-filtered. Directly seeds sol-042 (Dark Dorian:
+the AI model shapes what you receive) and sol-024h (TR Goes Mental: the AI is the actual
+interlocutor in semantic space).
+</entry>
+
+<entry term="Partisan Memory Construction / Kayfabe Memory" coined_in="sol-010g" type="SoL">
+The technique of performing false or theatrical gestures not to deceive observers but to
+construct durable partisan memory traces in supporters. The AOC fake arrest example: placing
+hands behind back while not handcuffed — observers know it is theater, supporters know it is
+theater, but the visual repetition reinforces the narrative of police oppression in the
+partisan memory store. The mechanism is identical to sports muscle memory training: the
+specific action is rehearsed until automatic, regardless of its relation to external reality.
+Extends the Lightning Rod strategy (sol-000p: controlling what is not thought) to the
+temporal dimension: controlling how yesterday is accessed tomorrow. The internet's capacity
+to "never forget" is deployed selectively — future searches will return the Kayfabe
+performance as historical record. Formally grounds the Narrative Control cluster: disposable
+stories (sol-036) and the Discombobulator (sol-040) operate on the same principle of
+constructing memory traces rather than transmitting factual content.
+</entry>
+
+<entry term="Screenshot Imperative" coined_in="sol-010g" type="SoL">
+The practice of preserving external evidence of digital content because "who knows, maybe
+tomorrow will not be like today." Derived from the formal observation that digital memory
+cells are mutably silent — reading a "1" reveals nothing about prior states, unlike physical
+media where time leaves material traces. The screenshot imperative is the individual response
+to this mutability: creating a dated, externally verifiable record that resists the internet's
+default capacity for silent revision. First articulated in sol-010g (July 2022, re: the
+Wikipedia self-editing politician). Explicitly restated as the meta-justification for
+writing in sol-053 (March 2026: "I have no realistic way of knowing other than to wait and
+remember — which is one of the reasons I write — that this occurred almost overnight").
+The four-year arc between these two statements is the earliest-to-latest span of the same
+insight in the corpus. Institutionalized at Fiber scale in fib-006 (Calendar as Memory).
+</entry>
+
+<entry term="Six Clusions" coined_in="sol-010c" type="SoL">
+Taxonomy of the six mechanisms by which digital culture manages inclusion and exclusion,
+first articulated during the Ukraine war (March 2022) as the first geopolitical test of
+the digital institutional framework:
+(1) Collusion: instantaneous horizontal coordination at swarm speed — unanimity before deliberation
+(2) Inclusion authoritarianism: control with no concept of an outside — compliance under ever-changing conditions
+(3) Exclusion: network deplatforming as modern sanction — progressive disconnection without threshold
+(4) Preclusion: preventive language control — banning words/thoughts before they form
+(5) Occlusion: attentional monopoly of the current thing — monofocal, shallow, present-tense
+(6) Seclusion: total network isolation — but the question of who is secluded from whom is non-trivial
+Note: these are not symmetric operations. Inclusion authoritarianism is the co-exclusion-authoritarianism
+(sol-000r): same objects (population, compliance), morphisms reversed (toward rather than away from).
+Preclusion is the co-Denycracy (sol-013b): one operates prophylactically on language, one operates
+reactively on claims. Occlusion is the mechanism of the Omnicause (sol-039).
 </entry>
 
 </content>
