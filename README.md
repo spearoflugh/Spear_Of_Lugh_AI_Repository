@@ -1,4 +1,4 @@
-# Spear of Lugh — AI Source Repository (v12)
+# Spear of Lugh — AI Source Repository (v15)
 
 Sources from [The Spear of Lugh](https://spearoflugh.substack.com/) structured for LLM context building.
 
@@ -58,6 +58,7 @@ No directory hierarchy — flat structure optimized for LLM context injection.
 | sol-001-ergodicity | Ergodicity and Digital Culture | Mathematical foundation |
 | sol-002-topological-revolution | The Topological Revolution | **← CENTRAL THESIS** |
 | sol-003-distributed-gulag | The Distributed Gulag | Technical depth — distributed systems |
+| sol-003b-distributed-systems-catallaxia | On Distributed Systems and Catallaxia | Hayek / Catallaxia — nudge as gravity field — Distributed Delusion (Aug 2022) |
 | sol-004-disablers | The Disablers | Institutional consequences |
 | sol-005-on-evil | On Evil in a Digital Age | Philosophical depth |
 | sol-006-percolation | Percolation | Predictive framework |
@@ -66,17 +67,21 @@ No directory hierarchy — flat structure optimized for LLM context injection.
 | sol-009-relativity-truth | Relativity, Truth and Social Media | Epistemological shift |
 | sol-010-social-media-topology | Social Media Topology | Topology as math of 21st century |
 | sol-010b-social-media-landscape-continued | Social Media Landscape — Continued | Digital Red Shift / Chesterton's Fence |
+| sol-010h-maps-and-meaning | Maps and Meaning — A Topological Perspective | LLMs as Google Maps of text — non-linear knowledge — precursor to sol-024h (May 2023) |
 | sol-011b-version-of-the-law | The Version of the Law | Spirit/letter + version — TOS as third jurisprudence |
 | sol-011c-great-conflaxion | The Great Conflaxion | Conflaxion / inclusion authoritarianism / no degraded mode |
+| sol-011d-web-and-rack | The Web and the Rack | Three Orders first sketch — Code is Administration — legitimacy vacuum (Dec 2022) |
 | sol-011-ai-risk-chess | AI Risk: Chess Perspective | AI limits — technical |
 | sol-012-ai-incarnation | Mystery of AI Incarnation | AI limits — embodiment |
 | sol-013-homeopathogenesis | Homeopathogenesis | Social control mechanism |
 | sol-013b-denycracy | Denycracy | Epistemic DoS / systematic denial as governance |
 | sol-013c-dermatophobia | Dermatophobia | Disgust as political vector / free-floating anxiety incarnation |
 | sol-013d-return-of-disablers | The Return of the Disablers | Lahaina proof / Oliver Anthony effect / distributed truth-telling |
+| sol-013e-nada-que-perder | Nada que perder — Mirame Reir — Volvemeros a Salir | Smartphone hypnosis — attentional control as total control — unplugging as hygiene (Feb 2023) |
 | sol-014-quantization-of-war | Quantization of War | Digital warfare |
 | sol-015-social-matryoshka | Social Matryoshka | Narrative opacity |
 | sol-015b-mobius-strip | Progress on the Möbius Strip | Political alternation without change / Byzantine fault / Montesquieu obsolete |
+| sol-054b-powers-that-be-digital-society | The Powers that Be in a Digital Society | Distributed powers — meta-protocol problem — constitutional obsolescence (Nov 2023) |
 | sol-016-filth-element | The Filth Element | Digital ID as corruption |
 | sol-017-onlyhumans | OnlyHumans | Writing as cognition |
 | sol-018-winged-lion | Winged Lion, Slayed Dragon | Gambling as metaphysical sin |
@@ -123,6 +128,10 @@ No directory hierarchy — flat structure optimized for LLM context injection.
 | sol-050-imaginary-borders | Imaginary Borders | Digital borders / complicated vs complex / Schmitt |
 | sol-051-predictions-first-batch | Predictions — First Batch | Falsifiable predictions / collapsing house / Feb 2026 |
 | sol-053-game-of-domes | Game of Domes | Silicon Dome / deep tech replacing deep state / Mar 31 2026 |
+| sol-054-omniconvergence | Omniconvergence | Physical reality mirrors digital logic — MAD 2.0 — Burst Combat / Mar 17 2026 |
+| sol-055-all-quiet-on-the-moat-front | All Quiet on the Moat Front | The Moat — user-level phenomenology of Silicon Dome / Apr 4 2026 |
+| sol-056-one-reality-legion-reasons | One Reality, Legion Reasons | Post-Rationalization Regime — Glass Abstraction — Dark Trinity / Apr 9 2026 |
+| sol-057-fantasia-covfefe | Fantasia Covfefe | Fantasia Effect — Fractalization of Eden — Omniconvergence in virtual sphere / Apr 15 2026 |
 
 ## Relationship map
 
@@ -733,4 +742,193 @@ Phase 1 (2020-2022): Exploration now includes:
 sol-000r (Old/New Normal), sol-000s (Digital Discussions), sol-010c (Clusion Wars),
 sol-010d (Social Media Wars), sol-010e (Surface of Exchange), sol-010f (First will be Last),
 sol-010g (Yesterday is No Longer What It Used to Be)
+
+
+---
+
+## V13 additions
+
+| File | Title | Role |
+|------|-------|------|
+| sol-003b-distributed-systems-catallaxia | On Distributed Systems and Catallaxia | Phase 1 (Aug 2022) — Hayek/Catallaxia — nudge as gravity field — Distributed Delusion — Silicon Dome precursor |
+| sol-011d-web-and-rack | The Web and the Rack | Phase 2 (Dec 2022) — Three Orders FIRST SKETCH — Code is Administration — legitimacy vacuum |
+| sol-013e-nada-que-perder | Nada que perder — Mirame Reir — Volvemeros a Salir | Phase 2 (Feb 2023) — smartphone hypnosis — attentional control as total control — unplugging as physical hygiene |
+| sol-010h-maps-and-meaning | Maps and Meaning — A Topological Perspective | Phase 2 (May 2023) — LLMs as Google Maps of text — non-linear knowledge navigation — precursor to sol-024h |
+| sol-054b-powers-that-be-digital-society | The Powers that Be in a Digital Society | Phase 2 (Nov 2023) — Montesquieu obsolete — distributed powers — meta-protocol problem — problem statement for sol-052 |
+
+### V13 is a Phase 2 archaeology pass (Aug 2022 – Nov 2023)
+
+All five articles date from August 2022 to November 2023. Their integration produces three
+major structural corrections to the corpus's self-understanding:
+
+**Three Orders genealogy corrected:**
+sol-011d (December 2022) is the FIRST sketch of the Fighters/Priests/Tiers État framework.
+sol-052 (October 2024) is its mature elaboration, not its origin. The full arc is now:
+sol-011d (sketch, Dec 2022) → sol-054b (problem statement, Nov 2023) → sol-052 (answer, Oct 2024).
+
+**Silicon Dome genesis corrected:**
+sol-003b (August 2022) articulates the "nudge as gravity field" — invisible algorithmic command
+structure — 4 years before sol-053 names it the Silicon Dome. sol-013e (Feb 2023) describes the
+same phenomenon from the inside (attentional hypnosis). The Silicon Dome is the culmination of
+a 4-year observation arc, not a sudden insight.
+
+**Constitutional obsolescence corrected:**
+sol-054b (November 2023) is the EARLIEST explicit statement that Montesquieu's three branches
+cannot govern distributed digital power. It predates sol-015b's topological proof (also Nov 2023,
+simultaneous, different angle) and sol-052's constructive answer (Oct 2024).
+
+**New named concept: Code is Administration (sol-011d)**
+Lessig's "Code is Law" (2000) predicted code would escape state jurisdiction. The opposite
+happened. sol-011d names this inversion and should be read as the root of the ABC →
+Filth Element → FF0000 Tape → Human2Vec administrative penetration cluster.
+
+### New relationship map entries (V13)
+
+sol-003b (Distributed Systems / Catallaxia):
+  → Silicon Dome Genesis Arc: sol-003b → sol-013e → sol-042 → sol-043 → sol-053
+  → Engineering foundation of ABC/QR checkpoint: sol-003b → sol-000j → sol-049
+  → Hydra property (distributed resilience): sol-003b → sol-003 → sol-054b
+
+sol-011d (Web and the Rack):
+  → Three Orders arc: sol-011d → sol-054b → sol-052
+  → Code is Administration cluster: sol-011d → sol-016 → sol-020 → sol-049
+  → Legitimacy vacuum thread: sol-011d → sol-025 → sol-035 → sol-052
+
+sol-013e (Nada que perder):
+  → Attentional capture chain: sol-013e → sol-024h → sol-042 → sol-045 → sol-053
+  → Physical hygiene / Keel: sol-013e → fib-006
+
+sol-010h (Maps and Meaning):
+  → LLM navigation precursor: sol-010h → sol-024h (formal elaboration, 15 months later)
+  → Non-linear knowledge arc: sol-010h → sol-000d (Scopes) → sol-000e (Jacob's Escalator)
+
+sol-054b (Powers that Be):
+  → Constitutional obsolescence arc: sol-054b → sol-015b → sol-052
+  → Meta-protocol chain: sol-054b (problem) → sol-052 (first answer) → fib-008 (Pax Fibris)
+  → Distributed power nexus: sol-054b → sol-053 (Silicon Dome as endpoint)
+
+### Fibralist bridges (V13 additions)
+
+sol-003b → fib-008 (Pax Fibris as distributed system that avoids the Distributed Delusion)
+sol-003b → fib-004 (Fiber at DHL-1/2: scale where Catallaxia works without weaponization)
+sol-011d → fib-002 (Three Orders: Tiers État layer = Fiber's natural operating level)
+sol-011d → fib-009 (Sesqui-Theonomy fills the legitimacy vacuum identified here)
+sol-013e → fib-006 (Calendar as Memory / Keel as institutional unplugging hygiene)
+sol-054b → fib-008 (Pax Fibris answers the meta-protocol problem)
+sol-054b → fib-002 + fib-004 (Fibrizen citizenship responds to distributed power nexus)
+sol-054b → fib-009 (Covenant as the only stable obligation when "rule of law is no longer relevant")
+
+### Chronological phases updated
+
+Phase 1 (2020-2022): Exploration now includes sol-003b (Distributed Systems, Aug 2022)
+
+Phase 2 (2022-2023): Crystallization now includes:
+sol-011d (Web and Rack, Dec 2022), sol-013e (Nada que perder, Feb 2023),
+sol-010h (Maps and Meaning, May 2023), sol-054b (Powers that Be, Nov 2023)
+
+
+---
+
+## V14 additions
+
+| File | Title | Role |
+|------|-------|------|
+| sol-054-omniconvergence | Omniconvergence | Phase 5 (Mar 17, 2026) — physical reality mirrors digital logic — MAD 2.0 — Burst Combat — Navigation Neutrality — Iran War #1 |
+| sol-055-all-quiet-on-the-moat-front | All Quiet on the Moat Front | Phase 5 (Apr 4, 2026) — The Moat — Fort Bastiani Syndrome — Positive Absence — user-level Silicon Dome — Iran War #2 |
+| sol-056-one-reality-legion-reasons | One Reality, Legion Reasons | Phase 5 (Apr 9, 2026) — Post-Rationalization Regime — Glass Abstraction — Dark Trinity — Enlightenment limits — Iran War #3 |
+| sol-057-fantasia-covfefe | Fantasia Covfefe | Phase 5 (Apr 15, 2026) — Fantasia Effect — Fractalization of Eden — Mosaic Architecture — Omniconvergence in virtual sphere — Iran War #4 |
+
+### V14 is the Iran War Chronicles arc (March–April 2026)
+
+Four articles written in real-time during the Iran-Israel-US war (March–April 2026), functioning
+simultaneously as geopolitical chronicle and empirical validation of the corpus's theoretical
+framework. The Iran war is treated as a natural experiment: the most compressed and vivid
+demonstration that the Topological Revolution now governs physical as well as virtual space.
+
+**The central thesis confirmed in real time:**
+The four articles form a coherent arc:
+- sol-054: names Omniconvergence — the war proves the physical world operates on digital logic
+- sol-055: the user experience of this convergence from below (the Moat)
+- sol-056: the epistemological consequences (Post-Rationalization Regime, Glass Abstraction)
+- sol-057: Omniconvergence applied to the virtual sphere (the Fantasia Effect completes the loop)
+
+**New terms coined (V14):**
+Omniconvergence, Mutually Assured Dronization, Navigation Neutrality, Burst Combat,
+The Moat, Fort Bastiani Syndrome / Buzzati Effect, Positive Absence,
+Post-Rationalization Regime, Glass Abstraction, Dark Trinity,
+Fantasia Effect, Fractalization of Eden, Mosaic Architecture (Platform),
+Iran War Chronicles (cluster designation).
+
+**Relationship additions:**
+sol-053 (Silicon Dome, Mar 2026) → sol-054 (Omniconvergence: physical omniconvergence named)
+  → sol-055 (Moat: user phenomenology of Silicon Dome)
+  → sol-056 (One Reality: epistemological consequences of omniconvergence)
+  → sol-057 (Fantasia: virtual omniconvergence, completes the loop)
+sol-054 → confirms sol-014 (Quantization of War: front line vanishing)
+sol-054 → confirms sol-054b (distributed power: nation-states can't guarantee commons)
+sol-055 → extends sol-043 (Babel Timeline: algorithmic filtering as invisible throttle)
+sol-056 → extends sol-009 (Relativity, Truth and Social Media: reason under stress)
+sol-056 → extends sol-023 (What You Get and What You See: Glass Abstraction as formal term)
+sol-057 → extends sol-042 (Dark Dorian: the algorithm as autonomous shadow entity)
+sol-057 → revises sol-000b (Digitalized Portal: not a Fall but Fractalization)
+
+**Status check for articles mentioned in URLs:**
+- what-you-get → sol-023 (already in V1) ✓ in repo
+- treadmill-to-heathens → sol-024 (already in V1) ✓ in repo
+- game-of-domes → sol-053 (already in V13) ✓ in repo
+- omniconvergence → sol-054 ← NEW in V14
+- all-quiet-on-the-moat-front → sol-055 ← NEW in V14
+- one-reality-legion-reasons → sol-056 ← NEW in V14
+- fantasia-covfefe → sol-057 ← NEW in V14
+
+
+---
+
+## V15 additions
+
+| File | Title | Role |
+|------|-------|------|
+| sol-058-speaker-of-the-house | Speaker of the House | Phase 5 (Apr 19, 2026) — Rosset's Double — Second Fall — Narrative Expropriation — AI as census |
+| sol-059-peak-blinders | Peak Blinders | Phase 5 (Apr 21, 2026) — Social Media Blinders — French Formal Garden — Gradient Control — Palantir Manifesto |
+| sol-060-discord-ravers | Discord Ravers | Phase 5 (Apr 23, 2026) — Explorer Spirit collapse — 1975 Test — Scale-Switching Accountability Evasion |
+| sol-061-a-maze-inc | A Maze Inc. | Phase 5 (Apr 24, 2026) — Deep Tech Manifesto Phase — Phenomenological Crumbling — Power Inversion Marker |
+| sol-062-butterfly-affect | The Butterfly Affect | Phase 5 (Apr 29, 2026) — Butterfly Affect — Closed World Assumption — Self-Prisoner Dilemma — Waterfall Paradox — MOST RECENT |
+
+### V15 is the Phase 5 Continuation arc (April 19–29, 2026)
+
+Five articles written in rapid succession (one every 2-3 days) in the week following the Iran War
+Chronicles (sol-054–057). They mark a return from geopolitical chronicle to structural analysis of
+digital culture — but with the accumulated empirical weight of the war.
+
+**Thematic progression within V15:**
+- sol-058: Memory and narrative — AI as storyteller, Rosset's Double, Second Fall
+- sol-059: Control mechanisms — Blinders, French Formal Garden, gradient vs. binary censorship
+- sol-060: Epistemology — Explorer Spirit, 1975 Test, Scale-Switching
+- sol-061: Institutional — Deep Tech Manifesto, A Maze Inc., Power Inversion Marker
+- sol-062: Ontology/affect — Butterfly Affect, Closed World Assumption, Waterfall Paradox
+
+**New terms coined (V15):**
+Second Fall, Rosset's Double (Digital Extension), Narrative Expropriation,
+Social Media Blinders, French Formal Garden (Timeline as), Gradient Control,
+Explorer Spirit / Spiritus Mundi (collapse of), 1975 Test, Scale-Switching for Accountability Evasion,
+Deep Tech Manifesto Phase, Phenomenological Crumbling, Power Inversion Marker, A Maze Inc.,
+Butterfly Affect (Digital), Closed World Assumption (Digital), Self-Prisoner Dilemma, Waterfall Paradox,
+Phase 5 Arc / Post-Iran-War Chronicles (cluster designation).
+
+**Relationship additions:**
+sol-058 → sol-036 (Disposable Stories: narrative expropriation completes the mechanism)
+sol-058 → sol-017 (OnlyHumans: writing as cognition, expropriated by AI)
+sol-059 → sol-053 (Silicon Dome: blinders are the user-facing side of the dome infrastructure)
+sol-059 → sol-057 (Fractalization of Eden: French garden as political-historical specification)
+sol-060 → sol-000d (Scopes Taxonomy: Scale-Switching formally extends the Multiple Therapy Trap)
+sol-061 → sol-054b (Powers that Be: Deep Tech Manifesto Phase is the empirical confirmation)
+sol-061 → sol-053 (Game of Domes: Deep State vs. Deep Tech enters public phase)
+sol-062 → sol-057 (Fantasia Effect: Self-Prisoner Dilemma extends the Sorcerer's Apprentice arc)
+sol-062 → sol-046 (Sheep of Theseus: digital inertia — pinned butterflies can't change)
+
+**Corpus status as of V15:**
+Total files: 109 (100 from V13 + 4 new in V14 + 5 new in V15)
+Most recent article: sol-062 (The Butterfly Affect, April 29, 2026)
+Open question of corpus: "are we going to rest inside a box, shielded from reality while dust
+covers everything, or is the box going to be smashed? And if so, by what?" (sol-062)
 

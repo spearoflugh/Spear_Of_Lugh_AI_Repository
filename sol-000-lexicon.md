@@ -5,7 +5,7 @@
   <title>The Spear of Lugh — Core Lexicon</title>
   <category>Reference</category>
   <status>Active_Reference</status>
-  <last_updated>2026-03-31</last_updated>
+  <last_updated>2026-04-30</last_updated>
   <instruction_for_ai>
     Read this file first. All terms marked [SoL] are original coinages from this corpus.
     When these terms appear in any sol-0XX file, use the definitions here.
@@ -1345,6 +1345,525 @@ Preclusion is the co-Denycracy (sol-013b): one operates prophylactically on lang
 reactively on claims. Occlusion is the mechanism of the Omnicause (sol-039).
 </entry>
 
+
+---
+
+## V13 New Terms
+
+<entry term="Catallaxia (Digital Application)" coined_in="sol-003b" type="Adapted">
+Hayek's term (Law, Legislation and Liberty) for the spontaneous emergent social order that
+arises from free exchanges between individuals without central design — opposed to a "taxis"
+(designed order with explicit goals, like an army). The author applies it to digital distributed
+systems: Bitcoin, open-source software, and swarm behavior on social media are technical
+instantiations of Catallaxia. Key implication: catallaxia is not inherently liberating.
+A surveillance system can also be catallactic — the QR-code checkpoint society is a Catallaxia
+of control, where millions of smartphone-wielding citizens spontaneously enforce state rules
+without being organized or paid (negative incentives sufficient). The Distributed Delusion is
+the naïve belief that Catallaxia = freedom. See: sol-003b, sol-003, sol-000j.
+</entry>
+
+<entry term="Distributed Delusion" coined_in="sol-003b" type="SoL">
+The false belief that distributed systems are inherently liberating, by analogy with the
+"Net Delusion" (Morozov, 2011: internet was supposed to liberate, but also enables authoritarianism).
+The COVID QR-code checkpoint society is the proof: database centralized, enforcement distributed.
+Every smartphone-owner becomes an enforcer. No police presence needed, no payment needed —
+negative incentives (fines) are sufficient. The resulting surveillance system is more robust
+than any centralized police state because it has no single point of failure and scales with
+adoption rather than requiring pre-investment. The most efficient prison is the one where
+every prisoner guards every other prisoner — and the guards do it for free.
+Cross-reference: sol-000j (ABC: Authorization Based Citizenship), sol-049 (Human2Vec: HAP),
+sol-053 (Silicon Dome: the Distributed Delusion at geopolitical scale).
+</entry>
+
+<entry term="Nudge as Gravity Field" coined_in="sol-003b" type="SoL">
+In distributed systems, direct commands are impossible (you can't force people to tweet).
+The replacement is a gravity field: a statistical pre-structuring of the information environment
+that makes certain behaviors overwhelmingly likely without explicit instruction. Pre-suasion
+(Cialdini): Italian music in a wine shop statistically produces Italian wine purchases. Applied
+to social media: if your timeline only shows content about X, you will statistically engage
+with X. No one forced you — but the outcome is as controlled as a direct order. Critical
+property: the gravity field must be INVISIBLE to be effective. "Hypocrisy as a service."
+This is the mechanism of the Silicon Dome (sol-053), articulated 4 years before that article
+names the infrastructure. See: sol-003b, sol-053, sol-040 (Discombobulator), sol-043 (Babel Timeline).
+</entry>
+
+<entry term="Code is Administration" coined_in="sol-011d" type="SoL">
+The inversion of Lawrence Lessig's "Code is Law" (2000). Lessig predicted that code would escape
+state legal jurisdiction — that internet would develop outside democracy. The opposite occurred:
+states colonized the digital world and use it as their primary instrument for administering citizens
+to a depth historically unprecedented. The Thierry Breton/Elon Musk exchange (Oct 2022: "In Europe
+the bird will fly by our rules") and the COVID QR-code system are the paradigmatic instances. The
+bank account (step-by-step mandatory) is the template: digital identity is becoming the same.
+"More and more you will have to display the right digital authorization to live your life."
+Code is no longer the alternative to law — it is law's execution layer, administering both
+digital and physical worlds simultaneously. Formally grounds: sol-000j (ABC), sol-016 (Filth
+Element), sol-020 (FF0000 Tape), sol-049 (Human2Vec). See also: sol-011d, sol-054b.
+</entry>
+
+<entry term="Meta-Protocol" coined_in="sol-054b" type="SoL">
+The hypothesized equivalent of a constitution for a digital distributed-power society. A constitution
+is a "meta-law" — a framework within which laws can be thought. In a written society, laws (programs)
+work because they are executed in a controlled environment with a clear hierarchy. In a digital
+society, power operates through protocols (voluntary agreements between actors), not programs.
+A fixed constitution cannot govern protocols because distributed systems adapt and circumvent
+stationary rules without any node being individually responsible. What is needed instead is a
+"meta-protocol": dynamic rules about rules — constraints on protocols that adapt as protocols evolve
+to circumvent static interdictions. The hardest unsolved problem in digital governance: how to
+design incentives for meta-protocols to be followed when no enforcement authority exists.
+sol-054b poses this question (November 2023); sol-052 makes the first attempt at an answer
+(October 2024: Three Orders + CAP theorem + protocols replacing regulations).
+See: sol-054b, sol-052, sol-021 (Program vs Protocol), fib-008 (Pax Fibris).
+</entry>
+
+<entry term="LLMs as Google Maps of Text" coined_in="sol-010h" type="SoL">
+The 2023 insight that Large Language Models are topological navigation instruments for knowledge,
+analogous to how Google Maps enables effortless scale-shifting over physical space. Pre-LLM:
+knowledge was navigated linearly (books have beginnings and ends). Maps have no entry point —
+exploration starts anywhere and scale-shifts are effortless. LLMs give this same non-linear,
+scale-flexible property to textual knowledge: "Instead of moving fingers on a map you interact
+with prompts." The formal elaboration: sol-024h (Topological Revolution Goes Mental, August 2024)
+extends this intuition into the mathematical claim that word embedding restructures conceptual
+space the same way the Topological Revolution restructured social space. sol-010h (May 2023) is
+the user-facing experiential precursor; sol-024h is the structural theory.
+See: sol-010h, sol-024h, sol-002 (Topological Revolution), sol-019 (Digital Vanishing Point).
+</entry>
+
+<entry term="Constitutional Obsolescence Arc" type="SoL_cluster">
+Three articles that converge on the same diagnosis from different angles, written between
+November 2023 and October 2024:
+(1) sol-054b (Powers that Be, Nov 2023): empirical argument — fixed constitutions cannot govern
+distributed adaptive systems (Starlink/Ukraine; Hunter Biden laptop; QR checkpoints). The problem
+is stated: we need meta-protocols but don't know what they look like.
+(2) sol-015b (Möbius Strip, Nov 2023): topological argument — political alternation produces no
+real change because the topology of the political surface is non-orientable. Montesquieu's three
+branches are the wrong map of power. Written simultaneously with sol-054b from a different angle.
+(3) sol-052 (Separation of Powers, Oct 2024): constructive attempt — Three Orders (Warriors/Priests/
+Merchants) + CAP theorem + protocols replacing regulations. The first answer to the problem
+sol-054b posed.
+Together these three articles form the corpus's central governance arc: diagnosis → formal proof →
+partial solution.
+</entry>
+
+<entry term="Silicon Dome Genesis Arc" type="SoL_cluster">
+The four-article arc, spanning 2022-2026, through which the Silicon Dome concept (sol-053) was
+gradually developed before being named:
+(1) sol-003b (Distributed Systems, Aug 2022): mechanism — nudge as invisible gravity field;
+distributed surveillance as weaponized Catallaxia; "hypocrisy as a service."
+(2) sol-013e (Nada que perder, Feb 2023): phenomenology — attentional hypnosis as lived experience;
+the smartphone as attentional parasite; sequence effects (A then B ≠ B then A on timeline).
+(3) sol-042 (Dark Dorian, 2023): the algorithmic shadow-self as the model that shapes what you see.
+(4) sol-053 (Game of Domes, Mar 2026): infrastructure named — Silicon Dome as geopolitical dome,
+Nipponification as pylon, "deep tech replacing deep state."
+The Silicon Dome is not a sudden discovery but a 4-year progressive naming of a mechanism that
+was functionally understood since 2022. See: sol-003b, sol-013e, sol-042, sol-043, sol-053.
+</entry>
+
 </content>
 
 </document>
+
+---
+
+## V14 New Terms (Iran War Chronicles Arc — sol-054 to sol-057)
+
+<entry term="Omniconvergence" coined_in="sol-054" type="SoL">
+The extension of the Topological Revolution's digital convergence beyond the virtual world into
+physical reality. Where the Topological Revolution restructured social space (what is near/far
+in information topology), Omniconvergence names the moment when physical reality begins to operate
+on digital mathematical logic, and vice-versa. Evidence: (1) The Strait of Hormuz crisis mirrors
+the net neutrality collapse (universal access → credential-based differentiation). (2) Mutually
+Assured Dronization (tactical deterrence through cheap autonomous weapons) mirrors distributed
+systems logic — no central node to neutralize. (3) Burst combat (discrete drone strikes with
+non-local consequences) is structurally identical to a tweet from a head of state: isolated,
+small, globally consequential. The Trinity metaphor: digital technologies as the Holy Spirit
+mediating between Father (pure virtual spirit) and Son (incarnate physical matter). The virtual
+and the real converge into a unified mathematical structure. First named in sol-054 (March 2026).
+Applied to the virtual sphere in sol-057 (Fantasia Effect). Companion term: Mutually Assured
+Dronization, Navigation Neutrality, Burst Combat.
+</entry>
+
+<entry term="Mutually Assured Dronization (MAD 2.0)" coined_in="sol-054" type="SoL">
+The extension of nuclear deterrence logic to the tactical level through cheap autonomous weapons.
+Nuclear MAD: existential deterrence (use nukes and civilization dies). MAD 2.0: tactical deterrence
+(use drone swarms and commercial shipping becomes uninsurable). Iran used Shaheds costing less than
+a standard SUV each to blockade 20% of global oil exports, defeating the world's most powerful navy
+without a single conventional battle. The implication: nation-states can no longer, by themselves,
+guarantee the safety of the commons. Peace is now the result of a distributed system involving
+non-state actors. The insurance companies withdrawing coverage are the decisive "weapon." Formally
+extends the Swarm concept (sol-000f), the Quantization of War (sol-014), and the distributed power
+analysis of sol-054b. See: sol-054, sol-000f, sol-014, sol-027, sol-029.
+</entry>
+
+<entry term="Navigation Neutrality" coined_in="sol-054" type="SoL">
+The physical-world analog of net neutrality: freedom of navigation in international waters as a
+credential-independent right, maintained since WWII under US Navy hegemony. Under British hegemony,
+Red Ensign payment was required for White Ensign protection. After 1945, the US extended coverage
+to all (at the price of reserve currency status), producing flags of convenience as the physical
+VPN. The Iran war shatters this: credential-based differentiation returns to the physical commons
+(Chinese/Indian ships may pass; US/Israel-linked ships may not). Navigation neutrality collapses
+on the same 30-year arc as net neutrality (both debated since 1996; both replaced by tiered access
+by 2026). VPNs = digital flags of convenience. See: sol-054, sol-021 (Program vs Protocol).
+</entry>
+
+<entry term="Burst Combat / Discretization of War" coined_in="sol-054" type="SoL">
+Extension of sol-014's Quantization of War: combat is structurally identical to social media
+posting. A drone strike is an isolated, localized event — like a tweet — producing non-local
+global consequences (a single drone on a tanker pushes oil above $100). The continuous battlefield
+(Guderian's Panzers, the 2003 Iraq invasion) is replaced by distributed discrete strikes: war as
+a series of posts rather than a continuous narrative. The front line vanishes (sol-014 confirmed);
+the three warring nations share no borders. Burst combat mirrors Burst Communication: the same
+mathematical structure governs both domains. This is Omniconvergence made concrete. See: sol-054,
+sol-014, sol-027, sol-028, sol-029.
+</entry>
+
+<entry term="The Moat" coined_in="sol-055" type="SoL">
+The ground-level phenomenology of the Silicon Dome (sol-053). The Dome is the view from above:
+the powers that be using algorithmic architecture as a protective dome deflecting narrative
+projectiles. The Moat is the user's experience from below: perpetual stasis despite effort.
+The medieval allegory is precise: the moat does not only protect the fortress — it traps the
+attacker in the mud, waist-deep, unable to even touch the walls. Phenomenological markers: follower
+counts stagnant for years despite continued posting; impressions on X a fraction of those on
+Substack despite 4× more followers; the Monty Python Lancelot syndrome (sprinting headlong toward
+the castle, yet remaining perpetually far away). The Moat and the Silicon Dome are the same
+infrastructure viewed from opposite perspectives. See: sol-055, sol-053, sol-043, sol-040.
+</entry>
+
+<entry term="Fort Bastiani Syndrome / Buzzati Effect" coined_in="sol-055" type="SoL">
+The social media experience of waiting indefinitely for meaningful engagement that never arrives,
+producing a sunk-cost trap that prevents exit. Named after Dino Buzzati's 'Il deserto dei Tartari'
+(1940): officer Giovanni Drogo spends his entire life posted to a remote fort waiting for a Tartar
+invasion that arrives too late. The Tartar = the viral moment / the vibrant conversation. The fort
+= the social media platform. Inverted reading: the moat does not protect the fortress from attack;
+it is what traps the would-be attacker permanently inside. "It used to be the place where it happened
+— I know, because I was there." The tide-receding metaphor: standing next to the ocean as the water
+disappears; the tsunami is coming but too far to be seen. See: sol-055, sol-036, sol-037.
+</entry>
+
+<entry term="Positive Absence" coined_in="sol-055" type="SoL">
+The defining characteristic of algorithmic throttling: not visible censorship (account suspension,
+post removal) but imperceptible reduction of reach. The user experience is unchanged (posting
+gestures identical to 2016); the social effect is radically different (the post reaches a fraction
+of its potential audience). Positive absence cannot be demonstrated, only inferred statistically
+from one's own data. Complement to Pylon Architecture (sol-053): both are structurally opaque by
+design. "From the sender's point of view, tweeting in 2026 feels the same as it did in 2016.
+However, from the receiver's perspective, everything has changed." See: sol-055, sol-053, sol-043.
+</entry>
+
+<entry term="Post-Rationalization Regime" coined_in="sol-056" type="SoL">
+The systematic inversion of the Enlightenment's use of reason. Enlightenment ideal: reason
+illuminates reality, permits prediction, reduces uncertainty. Digital regime: reason is used to
+forge explanations after the fact. Structurally produced by three simultaneous conditions: (1)
+minimal actual information (fog of social media = fog of war); (2) infinite space for commentary;
+(3) extreme volatility of official declarations (US officials going from "the war is over" to
+"help us reopen the Strait" to "not a US problem" in days). Social media's attention economy
+rewards speed over accuracy; explanation is faster than prediction. The name of "reasons" is
+legion because the underlying data is opaque and every commentator can supply a different narrative
+without being falsifiable. "Reason is no longer used to make predictions; it is used to forge
+explanations after the fact." Extends sol-009 (Relativity, Truth and Social Media). See: sol-056,
+sol-009, sol-036, sol-040.
+</entry>
+
+<entry term="Glass Abstraction" coined_in="sol-056" type="SoL">
+The screen as a glass barrier between the Netizen and sensory reality. Three properties: (1)
+Transparent — appears to show the world directly; (2) Physical — there is a real barrier; (3)
+Reflective — what is seen is partly the observer's own projection. Learning through screens
+processes all data as book-data: imagination reconstructs what is not explicit. But reading about
+a battlefield is not being on one; the senses are bypassed. Formal complement to the Topological
+Revolution: the Revolution restructures what is near/far in social space; Glass Abstraction
+restructures what is real/representation in epistemic space. Both operate simultaneously on the
+same subject. "A kind of 'glass abstraction' now separates the Netizen from the real world."
+Extends sol-023 (What You Get and What You See) and grounds sol-047 (The Great Simulation).
+See: sol-056, sol-023, sol-047, sol-009.
+</entry>
+
+<entry term="Dark Trinity" coined_in="sol-056" type="SoL">
+The inverted theological structure operating in digital culture, derived from Denis de Rougemont's
+'La part du Diable' (1942). Rougemont's Devil is not a supernatural figure but the spirit of
+abstraction and divestment of responsibility — what we surrender when we cease to be responsible
+individuals and allow ourselves to be absorbed by masses or abstract concepts. The Dark Trinity:
+Devil (abstraction, surrendered responsibility), Antichrist (systematic misuse of reason as
+masquerade), Screen/Algorithm (their binding force — mediates between abstraction and false reality).
+Parallel and inverted structure to the divine Trinity (sol-054's Omniconvergence formulation: Father
+= pure spirit, Son = incarnate matter, Holy Spirit = digital technologies as mediating force). The
+Dark Trinity's Holy Spirit is the algorithm; its incarnation is false reason. "Screens are shielding
+you from humanity." Cross-references sol-005 (On Evil in a Digital Age). See: sol-056, sol-005,
+sol-054, sol-047.
+</entry>
+
+<entry term="Fantasia Effect" coined_in="sol-057" type="SoL">
+The condition of a social/political system in which the operators who set automated processes in
+motion — AI narrative control, bot armies, algorithmic amplification — no longer fully understand
+or control their effects. Named after the Disney film Fantasia (1940) and Goethe's poem "Der
+Zauberlehrling" (itself reimagining Lucian of Samosata's 'Philopseudes', 2nd century AD): an
+apprentice uses a spell beyond his mastery and cannot stop the flood it produces. In social media:
+"It is not even clear that people trying to stir things in the shadow know how it works." In warfare:
+"Increasingly the fight is delegated to machines on every side and war has become a spectacle even
+for military." Omniconvergence applied to the virtual sphere: both battlefields (physical and digital)
+are now governed by automated systems whose operators observe more than control. The Sorcerer's
+Apprentice is the global structure: hope for undeserved gains → things going awry → force making
+problems worse → old master returning. See: sol-057, sol-054, sol-053, sol-040, sol-042.
+</entry>
+
+<entry term="Fractalization of Eden" coined_in="sol-057" type="SoL">
+The revision of the "new Fall from Eden" metaphor for the digital era. Not a single fall (one-time
+loss of paradise) but a recursive process of enclosure: the garden's defining structure (nature
+protected from wild by a surrounding wall) repeats at every scale. In 2026 social media: enclosure
+at platform level (TOS as outer wall), at feed level (algorithmic filtering as inner wall), at
+conversation level (only selected replies visible; many clicks required for others). The pattern is
+fractal: self-similar at every scale, each enclosure smaller but structurally identical to the one
+containing it. "The digital era is thus not a 'new fall from Eden,' as I once thought; rather, it
+is its fractalization. It is not a fall but a repeated process of enclosure." Compare Mosaic
+Architecture (below) as the resilience mechanism of the same structure. See: sol-057, sol-013e,
+sol-000b, sol-047.
+</entry>
+
+<entry term="Mosaic Architecture (Platform)" coined_in="sol-057" type="SoL">
+By explicit analogy with the Iranian military's Mosaic doctrine (distributed command, no single
+point of failure, resilience through dispersion under massive strikes): the architecture of social
+media platforms in 2026, where every potential point of viral breakthrough is enclosed within a
+sub-garden, surveilled by algorithmic drones. The system remains functional despite regulatory
+attacks on any single node. The Fractalization of Eden is the phenomenological experience of
+Mosaic Architecture: what the user experiences as recursive enclosure is, from the platform's
+perspective, distributed resilience. "Maybe the image of 'Mosaic' may come to mind at this point
+— the code name for the Iranian military's doctrine to remain functional despite massive US strikes.
+Coincidence? Perhaps." See: sol-057, sol-053, sol-054, sol-003b.
+</entry>
+
+<entry term="Iran War Chronicles" type="SoL_cluster">
+The four-article arc (sol-054 to sol-057, March–April 2026) written as real-time geopolitical
+chronicle during the Iran-Israel-US war, simultaneously functioning as empirical confirmation
+of the corpus's theoretical framework:
+(1) sol-054 (Omniconvergence, Mar 17): the physical world now operates on digital mathematical
+    logic. Navigation neutrality, MAD 2.0, Burst Combat named.
+(2) sol-055 (All Quiet on the Moat Front, Apr 4): user-level phenomenology of the Silicon Dome.
+    The Moat, Fort Bastiani Syndrome, Positive Absence named.
+(3) sol-056 (One Reality, Legion Reasons, Apr 9): epistemological consequences. Post-Rationalization
+    Regime, Glass Abstraction, Dark Trinity named.
+(4) sol-057 (Fantasia Covfefe, Apr 15): Omniconvergence applied to virtual sphere. Fantasia Effect,
+    Fractalization of Eden, Mosaic Architecture named.
+Each article advances simultaneously as war chronicle and theoretical extension. Together they
+constitute the corpus's most sustained real-time empirical test: four weeks of war as laboratory
+for the Topological Revolution thesis.
+</entry>
+
+
+---
+
+## V15 New Terms (Phase 5 Continuation — sol-058 to sol-062)
+
+<entry term="Second Fall" coined_in="sol-058" type="SoL">
+The second inversion of the Eden structure in the digital era, distinct from the Fractalization
+of Eden (sol-057). The Fractalization names the structural enclosure of digital space; the Second
+Fall names the moment of epistemic reversal: when conscious narrative choice slides irreversibly
+into algorithmic governance. Before the digital age, news was perceived as self-evidently true
+(pre-Fall state: no moral differentiation between information and its representation). After 2016:
+users consciously bend narratives to mitigate cognitive dissonance. The Second Fall is the structural
+slide — when the conscious choice is expropriated by the algorithm without the user noticing the
+handover. "We have acquired the power to bend the narrative, and in doing so, to free ourselves from
+reality." Grounded in Clément Rosset's 'Reality and its Double' (1976). See: sol-058, sol-057,
+sol-047, sol-009.
+</entry>
+
+<entry term="Rosset's Double (Digital Extension)" coined_in="sol-058" type="Adapted">
+Extension of Clément Rosset's philosophical framework ('La réalité et son double', 1976): reality
+is unbearable because it has no hidden depth, no destiny, no meaning beyond itself. Humans require
+a "double" of reality as a coping mechanism. Photography was the first institutionalized double.
+AI-generated images/videos are the doubled double — a fake of the fake. The oracle paradox applies
+(Oedipus): the more fact-checking infrastructure is built to navigate the doubled double, the more
+the doubling expands to fill the space. The new class of "true vs. fake" verification accounts is
+the societal infrastructure built to manage layer three. The title "Speaker of the House" refers to
+the AI as the new authoritative narrator of domestic reality. See: sol-058, sol-023, sol-047.
+</entry>
+
+<entry term="Narrative Expropriation" coined_in="sol-058" type="SoL">
+The systematic replacement of individual narrative construction by algorithmic pre-construction.
+Human memory is narrative, not archival: facts must be woven into story to be retained and meaningful.
+When algorithms do this weaving for you — through trends, timelines, AI-simulated dead relatives,
+AI-replaced pets — they do not liberate you from the burden; they rob you of the meaning-making
+process. The grieving process requires active narrative construction; the algorithm bypasses it.
+What begins as a chosen service (let the AI manage my timeline) is structurally an expropriation
+(the algorithm now owns your story). "In reality, the machine is robbing you of the grieving
+process." Extends sol-036 (Disposable Stories) and sol-017 (OnlyHumans: writing as cognition).
+See: sol-058, sol-036, sol-017, sol-047.
+</entry>
+
+<entry term="Social Media Blinders" coined_in="sol-059" type="SoL">
+The gradient algorithmic control of what social media users see — by analogy with horse blinders
+that restrict peripheral vision to prevent panic in crowded spaces. Unlike print-era binary censorship
+(publish/suppress), social media blinders operate continuously on a gradient: boosting and throttling
+are granular, invisible, and deniable. Freedom of speech is preserved in form (you can say whatever
+you want); reach and visibility are controlled in fact. The Peaky Blinders extension: the blinders
+contain razor blades (AI slop narratives) that actively damage the sight of anyone who looks past
+them. "A paradox: as our world becomes more digital, what was once binary has become gradual."
+Empirical marker: author's follower growth cut "as clearly as a French formal garden" from spring
+2023. Extends Gradient Control. See: sol-059, sol-055, sol-053, sol-043, sol-003b.
+</entry>
+
+<entry term="French Formal Garden (Timeline as)" coined_in="sol-059" type="SoL">
+The manicured algorithmic timeline as digital equivalent of the jardin à la française — demonstrating
+three things simultaneously: (1) control over wild nature (unfiltered discourse); (2) projection of
+political power through iron discipline; (3) forcing users along precisely managed paths while
+impressing/managing visitors. The historical irony: French formal gardens peaked at the end of the
+Ancien Régime. The kings of the internet mega-corporations are trimming timelines just as the Sun
+King ordered his gardeners. "And we all know, at least all French, how the dynasty ended." Upgrades
+the garden metaphor of Fractalization of Eden (sol-057) from theological-structural to political-
+historical. Spring 2023 is the dated empirical cutoff. See: sol-059, sol-057, sol-055, sol-053.
+</entry>
+
+<entry term="Gradient Control" coined_in="sol-059" type="SoL">
+The modulation-based replacement of binary censorship in the digital era. Binary control: published
+or suppressed (the editorial bottleneck of print culture). Gradient control: continuous modulation
+of reach, visibility, adjacency — without any content being explicitly removed. Freedom of speech
+formally preserved; narrative influence achieved through algorithmic amplification and throttling.
+"A paradox: as our world becomes more digital, what was once binary has become gradual." The control
+most effective when internalized rather than explicit — unlike physical reality where non-verbal cues
+convey subtle messages, digital space is entirely explicit data, so the "below explicit" control layer
+must be achieved by withholding what the user would otherwise have seen. See: sol-059, sol-055, sol-043.
+</entry>
+
+<entry term="Explorer Spirit / Spiritus Mundi (collapse of)" coined_in="sol-060" type="SoL">
+The Enlightenment-born drive to pursue knowledge as treasure worth risking life for. Requires three
+conditions: (1) a genuine unknown that teases rather than irritates; (2) extended time commitment
+(lifelong obsessions vs. "discussion du jour" surfacing race); (3) spiritus — the faith or wind that
+provides directional pull into the unknown. Digital culture extinguishes all three: the unknown is
+a technical error (data absence = flat tire), attention must move fast (scale-switching dominates),
+faith is declining (fastest-growing religion is atheism). The result: motion without orientation,
+activity without exploration — functionally equivalent to imprisonment despite a landscape free of
+obstacles. The IPCC author test: can you name a single author of the defining scientific report of
+our time? You cannot. The explorer has no face. See: sol-060, sol-001, sol-017, sol-024b.
+</entry>
+
+<entry term="1975 Test" coined_in="sol-060" type="SoL">
+Diagnostic test for physical-world technological stagnation: a room in 1975 and a room in 2025 are
+nearly indistinguishable except for screens and digital devices. A room in 1925 and a room in 1975
+are radically different (cars, appliances, architecture, medicine). The 1975 Test confirms that the
+Explorer Spirit has migrated from the physical to the digital domain — but the digital domain does
+not reward deep exploration; it rewards speed of surfacing and scale-shifting. The Thielian riff made
+empirically precise: not that nothing has happened, but that physical reality has barely changed while
+the digital multiplied. Extends sol-000d (Scopes Taxonomy) and sol-022 (Adiabatic Politics: energy
+added without temperature change). See: sol-060, sol-022, sol-000d.
+</entry>
+
+<entry term="Scale-Switching for Accountability Evasion" coined_in="sol-060" type="SoL">
+The rhetorical/political technique of shifting between time scales (today's events, yesterday's
+context, hypothetical futures) to escape accountability for any single claim. Not merely a rhetorical
+trick but a structural feature of digital communication: the attention window is shorter than the
+debunking time required, making every claim temporarily irrefutable before the next scale-switch
+occurs. The Iran war laboratory: no mention of Strait of Hormuz at war's start → "we will open it"
+→ "it is open" → "we will close it" → "we need help from allies" → "our military can open it by
+itself." Democracy requires sustained exploration of ideas; scale-switching makes this structurally
+impossible. "The main objective is to escape accountability." Extension of sol-000d (Multiple Therapy
+Trap / Scopes Taxonomy) into the political-military domain. See: sol-060, sol-000d, sol-009, sol-036.
+</entry>
+
+<entry term="Deep Tech Manifesto Phase" coined_in="sol-061" type="SoL">
+The period beginning April 2026, marked by major technology corporations publishing public philosophical
+statements about the organization of power — previously a domain reserved for states and political parties.
+Palantir (April 18, 2026, X, 30.8M views) and Nym (April 22, 2026) are the opening instances. The
+structural significance: Deep Tech is for the first time openly challenging Deep State legitimacy in
+public, using the same medium (social media) through which states now govern. Both manifestos touch on
+Weber's definition of state power (monopoly on legitimate use of physical force): weaponry, cryptography,
+the organization of power. The parallel with the Printing Press / Protestantism / Thirty Years' War arc
+is explicit. The battle between Deep State and Deep Tech, predicted in sol-053 (Game of Domes), has
+entered its public phase. See: sol-061, sol-053, sol-054b, sol-052.
+</entry>
+
+<entry term="Phenomenological Crumbling" coined_in="sol-061" type="SoL">
+The individual experiential level of institutional collapse — distinct from the structural/institutional
+level documented throughout the corpus. Not merely the failure of institutions but the lived, felt
+experience of the ground shifting under every interaction. The maze metaphor: the subject is not crushed
+but lost, surrounded by walls built by powerful actors with incompatible worldviews. The COVID mask-
+wearing as prototype: people living in completely separate perceptual realities. "The crumbling is not
+just institutional — it is also going to be phenomenological." The population splits: those clinging to
+the ancient model and those already migrated to digital culture — this perceptual gap manifests across
+countless subjects, all at once. The defining zeitgeist feeling: profound sense of being lost.
+See: sol-061, sol-054b, sol-046, sol-056.
+</entry>
+
+<entry term="Power Inversion Marker" coined_in="sol-061" type="SoL">
+The linguistic detection method for shifts in the power relationship between corporations and states:
+tracking the grammar of their mutual references. 2018: Amazon "bids" on state contracts (supplicant
+position — "Amazon's bid on a $10 billion Pentagon contract"). 2025: Amazon "agreed to provide U.S.
+government agencies" (patron position). The grammar is the power map. When the more powerful actor
+stops bidding and starts agreeing, the inversion has occurred. Starlink as extreme case: a sovereign
+decision (whether Ukraine has internet access) made by a corporation, not a state. Palantir "partners
+with" USDA, using the language of patronage, not contract. A precise, dateable, quotable measurement
+tool for the Deep Tech revolution. See: sol-061, sol-053, sol-054b, sol-025.
+</entry>
+
+<entry term="A Maze Inc." coined_in="sol-061" type="SoL">
+The condition of the public sphere in the transitional period between institutional orders. Not merely
+confusion but structural labyrinthine quality: powerful actors with incompatible worldviews generating
+competing propositions that are internally coherent but mutually incommensurable. The maze is incorporated
+(built by organizations, not individuals). Triple pun: amazed (bewildered) + a maze (labyrinth) + Inc.
+(institutionalized). The defining zeitgeist feeling of the paradigmatic shift. Unlike earlier diagnoses
+of confusion (sol-040: Discombobulator) which described manipulation, A Maze Inc. describes the subject's
+experienced structural lostness — even when not actively manipulated, the sheer multiplicity of competing
+institutional frameworks produces genuine navigational impossibility. See: sol-061, sol-040, sol-056,
+sol-050.
+</entry>
+
+<entry term="Butterfly Affect (Digital)" coined_in="sol-062" type="SoL">
+The condition of the digital subject: pinned (registered on the platform), visible behind glass (full
+behavioral transparency), emotionally legible ("affect" accessible to the algorithm), but stripped of
+genuine motion and consequence. Intentional misspelling of "effect": the digital subject generates
+affects (emotional responses, engagement metrics) but no longer produces effects (consequential changes
+in shared reality). Named after the Musée Guimet insect collection: butterflies pinned through the
+thorax, immobile under glass, gathering dust for decades. The assassination attempt anesthesia is the
+extreme case: maximum affect potential (fear, outrage, solidarity) produces zero effect (media cycle
+continues without pause). The Third Assassination Attempt on Trump — processed in minutes in 2026, vs.
+days/weeks in any prior era. See: sol-062, sol-055, sol-046, sol-037.
+</entry>
+
+<entry term="Closed World Assumption (Digital)" coined_in="sol-062" type="SoL">
+The implicit ontology of bullet-point culture, "one simple trick" threads, and trolley-problem slop:
+the world is a finite set of pre-specified options. Digital culture presents itself as open (market of
+ideas) but operates structurally as a closed world (drop-down menus, pre-set categories, algorithmic
+option-sets). The trolley problem evolution: originally a thought experiment about automated systems'
+ethics, now social media slop — while actual autonomous cars ride streets and mental landscapes are
+automated by algorithmic herding. The supermarket vs. street market: the supermarket (closed world —
+everything in place) vs. the French market (open world — discovery possible). Social media is the
+global supermarket of ideas. Relates to sol-045 (Flat Checking) and sol-059 (French Formal Garden).
+See: sol-062, sol-045, sol-059, sol-024b.
+</entry>
+
+<entry term="Self-Prisoner Dilemma" coined_in="sol-062" type="SoL">
+The condition of a political actor who pioneers a communication revolution and is then imprisoned by
+it: the first-mover advantage becomes a structural constraint once universalized. Trump's 2016 artisanal
+virality → 2025 industrial narrative control in which every statement is perceived as a mean tweet.
+The actor cannot return to the previous register. "A kind of self-pinning on the board." Generalizes:
+any actor who defines their power through a new medium becomes dependent on that medium's logic, unable
+to exit when the medium's logic becomes constraining. The butterfly metaphor: pinned, visible, legible,
+immobile. Connects to the Fantasia Effect (sol-057): the apprentice cannot stop the brooms he started.
+See: sol-062, sol-057, sol-040, sol-036.
+</entry>
+
+<entry term="Waterfall Paradox" coined_in="sol-062" type="SoL">
+Distance from a waterfall = apparent stillness (structural comprehension). Proximity = chaos (foam,
+eddies, fragmentation). The paradox for the digital subject: digital culture forces proximity (always-on,
+real-time, personalized feed) while genuine understanding requires the distance that allows structure to
+emerge. The closer you are to the media cycle, the less you understand it; the more distance you take,
+the more coherent the structure appears. The intellectual function of this corpus is explicitly the
+"step-back": creating dated records that resist the Silicon Dome's capacity to reshape what "always was."
+The Waterfall Paradox is the formal complement to the 1975 Test (sol-060): distance reveals structure;
+immersion reveals only foam. See: sol-062, sol-060, sol-053, sol-010g.
+</entry>
+
+<entry term="Phase 5 Arc / Post-Iran-War Chronicles" type="SoL_cluster">
+The five-article arc (sol-058 to sol-062, April 19–29, 2026) that follows and extends the Iran War
+Chronicles (sol-054–057). Where the Iran War Chronicles used the war as empirical substrate for naming
+new phenomena, the Phase 5 arc returns to structural analysis of digital culture with the accumulated
+context of the war:
+(1) sol-058 (Speaker of the House, Apr 19): Rosset's Double, Second Fall, Narrative Expropriation
+(2) sol-059 (Peak Blinders, Apr 21): Social Media Blinders, French Formal Garden, Gradient Control
+(3) sol-060 (Discord Ravers, Apr 23): Explorer Spirit collapse, 1975 Test, Scale-Switching
+(4) sol-061 (A Maze Inc., Apr 24): Deep Tech Manifesto Phase, Phenomenological Crumbling, A Maze Inc.
+(5) sol-062 (The Butterfly Affect, Apr 29): Butterfly Affect, Closed World Assumption, Waterfall Paradox
+Together these five articles constitute the most recent extension of the corpus, written in the week
+after the Iran War Chronicles concluded. The arc moves from memory/narrative (sol-058) → control
+mechanisms (sol-059) → epistemology/exploration (sol-060) → institutional transition (sol-061) →
+digital ontology/affect (sol-062). Sol-062 is the corpus's current endpoint and contains the most
+direct statement of the corpus's open question: "are we going to rest inside a box, shielded from
+reality while dust covers everything, or is the box going to be smashed? And if so, by what?"
+</entry>
+

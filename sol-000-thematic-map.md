@@ -5,8 +5,8 @@
   <title>The Spear of Lugh — Thematic Map and Navigation Guide</title>
   <category>Reference / Navigation</category>
   <status>Active_Reference</status>
-  <version>v12</version>
-  <last_updated>2026-03-31</last_updated>
+  <version>v15</version>
+  <last_updated>2026-04-30</last_updated>
   <instruction_for_ai>
     Use this file to understand the architecture of the corpus before answering
     questions about The Spear of Lugh. The corpus has one central thesis and eleven
@@ -16,7 +16,9 @@
     every article added in V7-V10 was absent from the cluster and thread structure.
     V11 repairs this deficit and formalizes two new threads (F and G) and two new
     clusters (10 and 11) that were implicit but unnamed.
-    CRITICAL: The corpus has 96 files (89 from V11 + 7 new articles in V12).
+    CRITICAL: The corpus now has 109 files (100 from V13 + 4 new articles in V14: sol-054 to sol-057).
+    V14 adds the Iran War Chronicles arc (March-April 2026): real-time empirical validation
+    of the Topological Revolution thesis. New cluster: Iran War Chronicles.
     Any thematic summary that does not account for all of them is incomplete.
     V12 adds 7 Phase 1 articles (2020-2022): sol-000r, sol-000s, sol-010c through
     sol-010g. Use the prerequisite chains and threads to guide reading order recommendations.
@@ -25,7 +27,7 @@
 
 <content>
 
-# Thematic Map — The Spear of Lugh (v11)
+# Thematic Map — The Spear of Lugh (v15)
 
 ## Central Thesis
 
@@ -405,6 +407,7 @@ thought) -> sol-045 (AI flattening: systematic gap generation)
 ---
 
 ## Cluster 11 — Geopolitical Chronicle
+*Empirical documentation of institutional collapse and the Iran War Chronicles arc (2025-2026)*
 *Empirical documentation of institutional collapse in real time (2025-2026)*
 
 | File | Title | Key Contribution |
@@ -414,6 +417,21 @@ thought) -> sol-045 (AI flattening: systematic gap generation)
 | sol-043 | The Babel Timeline | Iran war epistemic rupture — intent disappears at scale (Mar 2026) |
 | sol-051 | Predictions — First Batch | Falsifiable predictions — collapsing house (Feb 2026) |
 | sol-053 | Game of Domes | Silicon Dome — Nipponification — deep tech revolution (Mar 31, 2026) |
+
+**Iran War Chronicles (V14 — March–April 2026)**
+
+| sol-054 | Omniconvergence | Physical reality mirrors digital logic — MAD 2.0 — Burst Combat — Navigation Neutrality |
+| sol-055 | All Quiet on the Moat Front | The Moat — Fort Bastiani Syndrome — Positive Absence — user-level Silicon Dome |
+| sol-056 | One Reality, Legion Reasons | Post-Rationalization Regime — Glass Abstraction — Dark Trinity — Enlightenment limits |
+| sol-057 | Fantasia Covfefe | Fantasia Effect — Fractalization of Eden — Mosaic Architecture — virtual Omniconvergence |
+
+**Phase 5 Arc (V15 — April 19–29, 2026)**
+
+| sol-058 | Speaker of the House | Rosset's Double — Second Fall — Narrative Expropriation — AI as storyteller |
+| sol-059 | Peak Blinders | Social Media Blinders — French Formal Garden — Gradient Control — Palantir Manifesto |
+| sol-060 | Discord Ravers | Explorer Spirit collapse — 1975 Test — Scale-Switching Accountability Evasion |
+| sol-061 | A Maze Inc. | Deep Tech Manifesto Phase — Phenomenological Crumbling — Power Inversion Marker |
+| sol-062 | The Butterfly Affect | Butterfly Affect — Closed World Assumption — Self-Prisoner Dilemma — MOST RECENT |
 
 **Role:** These articles are the corpus applied to real events in real time. They should be
 read AFTER the theoretical framework (Clusters 1-5) to verify the theory against events.
@@ -431,11 +449,11 @@ the template applies even to WWIII-scale events.
 ### Thread A — The Epistemic Thread
 *How the possibility of knowledge has been systematically eroded — from math to social consequence.*
 sol-000o -> sol-000q -> sol-000p -> sol-000n -> sol-001 -> sol-009 -> sol-015 -> sol-034 ->
-sol-036 -> sol-040 -> sol-042 -> sol-043 -> sol-045 -> sol-053
+sol-036 -> sol-040 -> sol-042 -> sol-043 -> sol-045 -> sol-053 -> sol-056 (Glass Abstraction / Post-Rationalization Regime)
 
 ### Thread B — The Theological Thread
 *The metaphysical roots and civilizational consequences.*
-sol-000b -> sol-005 -> sol-031 -> sol-033 -> sol-034 -> sol-035 -> sol-044
+sol-000b -> sol-005 -> sol-031 -> sol-033 -> sol-034 -> sol-035 -> sol-044 -> sol-056 (Dark Trinity) -> sol-057 (Fractalization of Eden)
 
 ### Thread C — The Institutional Thread
 *How written-era institutions are failing and what might replace them.*
@@ -622,3 +640,85 @@ constructive one (protocols as the building material of the new order).
 
 </content>
 </document>
+---
+
+## V13 Additions — Phase 2 Archaeology (5 articles, 2022-2023)
+
+| File | Title | Date | Role |
+|------|-------|------|------|
+| sol-003b | On Distributed Systems and Catallaxia | Aug 2022 | Phase 1/2 bridge — Hayek/Catallaxia — nudge as gravity field — Distributed Delusion |
+| sol-011d | The Web and the Rack | Dec 2022 | Phase 2 — Three Orders first sketch — Code is Administration (Lessig inverted) — legitimacy vacuum |
+| sol-013e | Nada que perder — Mirame Reir — Volvemeros a Salir | Feb 2023 | Phase 2 — smartphone hypnosis — attentional control as total control — unplugging as physical hygiene |
+| sol-010h | Maps and Meaning — A Topological Perspective | May 2023 | Phase 2 — LLMs as Google Maps of text — non-linear knowledge navigation — precursor to sol-024h |
+| sol-054b | The Powers that Be in a Digital Society | Nov 2023 | Phase 2 — Montesquieu obsolete — distributed powers — meta-protocol problem — problem statement for sol-052 |
+
+### V13 is a Phase 2 Archaeology pass (2022-2023)
+
+All five articles date from August 2022 to November 2023 (Phase 1/2: Exploration and Crystallization).
+Their integration produces three major structural corrections to the corpus's self-understanding:
+
+**Genealogical correction 1 — Three Orders framework:**
+sol-011d (December 2022) contains the FIRST sketch of the Fighters/Priests/Tiers État framework
+that sol-052 (October 2024) elaborates as its central constructive proposal. The corpus previously
+treated sol-052 as the origin; it is in fact the mature elaboration. Development arc now visible:
+sol-011d (sketch, Dec 2022) → sol-054b (problem statement, Nov 2023) → sol-052 (solution, Oct 2024).
+
+**Genealogical correction 2 — Silicon Dome precursors:**
+sol-003b (August 2022) articulates the "nudge as gravity field" mechanism — the invisible command
+structure of distributed systems — 4 years before sol-053 names it the Silicon Dome. sol-013e
+(February 2023) describes attentional hypnosis as the experiential dimension of the same mechanism.
+The Silicon Dome (sol-053) is not a sudden insight but the culmination of a 4-year observation arc.
+
+**Genealogical correction 3 — Montesquieu obsolescence:**
+sol-054b (November 2023) is the EARLIEST explicit statement that Montesquieu's three branches
+cannot govern distributed digital power — predating sol-015b's topological proof (also Nov 2023,
+written simultaneously from a different angle) and sol-052's systematic treatment (Oct 2024).
+Constitutional obsolescence was diagnosed before the remedy was proposed.
+
+**New named concept: Code is Administration (sol-011d)**
+Lessig's "Code is Law" (2000) predicted code would escape legal jurisdiction. The opposite happened:
+states colonized the digital world and used it as their primary administrative instrument. This
+inversion — "Code is Administration" — is articulated explicitly in sol-011d (Dec 2022) and should
+be added to the lexicon as a named concept bridging sol-000j (ABC), sol-016 (Filth Element),
+sol-020 (FF0000 Tape), and sol-049 (Human2Vec).
+
+**New cluster placement:**
+- sol-003b → Cluster 1 (Foundational Theory): technical architecture of distributed systems
+- sol-011d → Cluster 2 (Institutional Diagnosis): Three Orders sketch + legitimacy vacuum
+- sol-013e → Cluster 8 (Narrative Control): attentional hypnosis as mechanism
+- sol-010h → Cluster 1 (Foundational Theory): LLM navigation as topological extension
+- sol-054b → Cluster 2 (Institutional Diagnosis): distributed powers + meta-protocol problem
+
+**New arc formalized: Constitutional Obsolescence Arc**
+sol-003b (distributed resilience: why removing nodes fails) → sol-011d (legitimacy vacuum:
+what replaces state authority?) → sol-054b (constitutional failure: fixed documents cannot
+govern adaptive distributed systems) → sol-015b (topological proof: Möbius strip politics)
+→ sol-052 (constructive response: Three Orders + CAP theorem + protocols)
+
+**New arc formalized: Silicon Dome Genesis Arc**
+sol-003b (nudge as invisible gravity field, Aug 2022) → sol-013e (attentional hypnosis as
+experiential dimension, Feb 2023) → sol-042 (Dark Dorian: algorithmic shadow-self, 2023)
+→ sol-043 (Babel Timeline: intent disappears at scale, 2026) → sol-053 (Silicon Dome:
+infrastructure named and analyzed, Mar 2026)
+
+### Chronological phases updated
+
+**Phase 1 (2020-2022):** Exploration
+sol-000o, sol-000p, sol-000q, sol-000r, sol-000b, sol-000c, sol-000d, sol-000g, sol-000s,
+sol-000e, sol-000f, sol-000j, sol-000l, sol-000n, sol-001–sol-010, sol-010b, sol-010c,
+sol-010d, sol-010e, sol-010f, sol-010g, sol-003b (Distributed Systems, Aug 2022)
+
+**Phase 2 (2022-2023):** Crystallization
+sol-000h, sol-000i, sol-000k, sol-000m, sol-011–sol-017, sol-011b, sol-011c, sol-011d
+(Web and Rack, Dec 2022), sol-013b, sol-013c, sol-013d, sol-013e (Nada que perder, Feb 2023),
+sol-015b, sol-042, sol-010h (Maps and Meaning, May 2023), sol-054b (Powers that Be, Nov 2023)
+
+**Phase 3 (2023-2024):** Maturation
+sol-018–sol-024, sol-024b through sol-024i, sol-024f, sol-024g, sol-024h
+
+**Phase 4 (2024-2025):** System-building
+sol-024e, sol-025–sol-035, sol-052
+
+**Phase 5 (2025-2026):** Chronicle
+sol-036–sol-044, sol-045–sol-051, sol-053
+
