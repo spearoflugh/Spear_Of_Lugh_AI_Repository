@@ -1,0 +1,76 @@
+<document>
+
+<metadata>
+  <doc_id>sol-006</doc_id>
+  <title>Percolation — A New Model for Disruption</title>
+  <date>2024-10-17</date>
+  <cluster>Predictive Framework</cluster>
+  <type>Predictive_Model</type>
+  <source_url>https://spearoflugh.substack.com/p/percolation-a-new-model-for-disruption</source_url>
+  <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
+
+  <relations>
+    <prerequisite>sol-002</prerequisite>
+    <prerequisite>sol-003</prerequisite>
+    <related_to>sol-014</related_to>
+    <related_to>sol-032</related_to>
+    <related_to>sol-040</related_to>
+  </relations>
+
+  <key_concepts>
+    <concept name="Percolation Phase Transition">
+      Small parallel changes can suddenly and discontinuously change global system properties. Applied to politics: what appear as sudden collapses were long invisibly prepared.
+    </concept>
+    <concept name="Two Digital Capabilities">
+      1. Real-time statistical trend detection. 2. Mass synchronization without hierarchy. Together these make both surveillance and revolution operate at new scales.
+    </concept>
+  </key_concepts>
+
+  <anti_hallucination>
+    <warning>Percolation is used in its physics sense (threshold phenomena in porous media).</warning>
+    <warning>This article is predictive — written before the 2024-2026 events it describes.</warning>
+  </anti_hallucination>
+
+  <fibralist_connection>
+    <!-- no direct bridge -->
+  </fibralist_connection>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2024-10-17); content block replaced by the verbatim post text.</item>
+  </fact_check>
+</metadata>
+
+<content>
+
+# Percolation - A New Model for Disruption for Digital Cultures
+
+Percolation theory can be seen as the study of how small changes done in parallel changes the overall properties of the whole suddenly. The simplest example is the one of a porous material over which a liquid is poured. Will the liquid go through the material or not ? Turns out that this question is tricky in the following sense: by altering the material in certain ways you can move from no to yes while, from the outside, nothing substantial appears to have changed. It is in this way that I am loosely referring to percolation in this essay. My point is to show that this way of thinking will acquire more and more importance in our digital culture. More precisely, my prediction is: future disrupting events will look like percolation phase transitions. It means that what appear as sudden collapses will be more and more frequent. We already witness some examples of this trend in many different domains.
+
+### Slowly, then all at once
+
+Let us start with a better understanding of the proposal and where does it come from in the first place.
+
+In digital culture there are two brand new capabilities:
+
+1. **It has become very easy to detect statistical trends live**. For instance using cellphone data, Google can give you traffic information on Google Maps. This apply accross the board: Ukraine war has shown that you can’t concentrate troops without your opponent knowing about it, no matter how many precautions you take. During covid crisis, it was very simple to know whether or not the population were following political decisions.
+2. **It has become very easy to synchronize events over large areas**. The first example of mass synchronization event were the “flash mobs” events that blossomed after 2000s. Before the digital age it required a nation-state apparatus to synchronize across large areas. Typically armies are massive bodies that act in a synchronized way: it was done through chain of command and top down  scheme. With the rise of social media and various messenger applications this capability is now avalaible to anyone. [Embedded video]
+
+Capability number one is used by institutions to destroy everything of importance that threaten it. Capability number two is used by people wanted to topple down/ break current institutions. Here I am using the term “institution” very loosely. I mean by this term: the current state of affairs. For instance the front line in a war can be seen as an “institution” from this point of view.
+
+Historically if you wanted to topple down large institutions, like political power, it implied large operations: basically you waged war, or did a revolution/civil war. To do that you had to gather troops, material (guns, powder etc.) and go for it. For instance the American Civil War battles: you can “follow” the troops movement by the dates of the battles. To follow up on this particular example the wars of the modern times, say post industrial revolution, continued to be fought following this model. The implementation changed as technology evolved. For instance the Blitzkrieg tactic was a blend of hardware and software capabilities: one army create local superiority using armored vehicles to punctunre the front lines. It is done in parallel in many points of the front line. It gives the impression that the front line has collapsed, so the staff orders a withdrawal, mess ensues. Repeat this operation few times and the defending army becomes completely uncoordinated. This is what happened during the battle of France early summer 1940. This tactic has been refined up to its limit afterwards with a culminating point at the first and second gulf war. But the idea remained: you accumulate enough firepower in a small area so that you can go through lines of resistance. Fast forward 2022 and the Ukraine war. Russian army tried to storm Ukraine more or less along those lines. Yet things had changed. Point 1 and 2 in particular. Point 1 meant that Ukrainians had much more information and data from the battlefield than it was ever the case. Point 2, instead of a disorderly withdrawal, Ukraine fought an “in-depth” defense in which modern information technologies were instrumental. The 2022 Battle of Kyiv  is an example in which a long column of Russian armored vehicles was wipped out off the map by coordinated multiple attacks.
+
+### Under the Radar
+
+What I am talking about can be seen as an accelerated version of Timur Kuran’s theory of preference falsification: on the surface level, because of social pressure, people don’t admit certain truths. Typically the polls for Trump were vasty underestimating the fact that many voters would never declare such a choice in public in 2016. One claim made by Kuran was that this preference falsification would lead to surprises. Elections are a major way for these surprises to appear because vote is secret: Brexit and Trump’s first presidential victory may come to mind. What I am advocating here is that new information technologies have made secret coordination way easier than before. Because of the vast increase in the use of social media, we can expect much more surprises of this kind than what was the case.
+
+I defend the thesis that it can become a tactics on its own. Let’s go back to the Ukrainian war again. In the middle of 2024 summer, Ukrainians *surprised*  the world with a new kind of offensive in the Kursk Oblast. Instead of concentrating armored forces —that would have been spotted, targeted and degraded by Russian forces— they infiltrated moslty light troops in a relatively quite area. Then the reinforcements were sent. So the scheme was inverted: instead of using heavy equipments first, and troops second (to occupy conquered territory), they sent light forces to secure strategic points, then heavy forces later. Just like a liquid infiltrating a porous material slowly until the porosity of the material shifts.
+
+### Battles to come
+
+The strategy of percolation that I have just described is not limited to military operations. This is also how modern censoreship works. In a written based culture censoreship was clear: when the editorial boards are controlled, then the information space is under control. It does no longer work in a digital based culture since anyone can publish information and reach a global audience without having to be filtered out by editors. The powers that be continued to use old-style censoreship in the form of “fact checking” which is a kind of post publication editorial effort to regain control of the information space. It doesn’t really work. Increasingly they changed and have adopted tactics more fit to the spirit of the times: they target large communication nodes. The legal warfare waged against the likes of Alex Jones (fined over to a trillion of dollars), Elon Musk (by Brazilian courts -they are saving democracy sic- or European Union bureaucrats) or Pavel Durov (arrested in Paris after which Telegram policy “evolved”) are witnesses of this shift in tactics.
+
+So far Goliath does not seem to have found a counter-tactics to the percolation model. Of course there will be ways to counter this tactics. After all this the eternal story of the sword vs the shield across history. But I don’t thing that centralised power structures like the nation state can do it. My bet is that percolation is the way by which revolutions will be done. Think colour revolution but at a meta level. Colour revolutions change who is in charge. Next wave of revolutions *will change what being in charge means in the first place*.
+
+</content>
+
+</document>
