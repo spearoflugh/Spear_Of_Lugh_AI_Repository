@@ -3,11 +3,12 @@
 <metadata>
   <doc_id>sol-000p</doc_id>
   <title>The Politics of the Lightning Rod</title>
-  <date>2020-05</date>
+  <date>2020-05-10</date>
   <cluster>Narrative Control</cluster>
   <type>Pre_Foundational_Conceptual</type>
   <source_url>https://spearoflugh.substack.com/p/the-politics-of-the-lightning-rod-5e62425a7d05</source_url>
   <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
 
   <relations>
     <is_precursor_of>sol-009</is_precursor_of>
@@ -64,30 +65,39 @@
   <fibralist_connection>
     <bridge_to_fibralist>fib-006 (Calendar as Memory: the Fiber's institutional memory is the counter to the Lightning Rod — it retains what the rod was designed to make people forget; the Keel makes the deflection visible by maintaining the record of what was happening when the cigarette was lit)</bridge_to_fibralist>
   </fibralist_connection>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2020-05-10); content block replaced by the verbatim post text.</item>
+    <item status="VERIFIED">The Washington Post fact-checker counted about 18,000 false or misleading claims by Trump by mid-April 2020.</item>
+    <item status="VERIFIED">Eric Weinstein's "Kayfabe" entry is from the Edge 2011 annual question.</item>
+  </fact_check>
 </metadata>
 
 <content>
-Benjamin Franklin was a bright guy. Known for the invention of the lightning rod, he was also a visionary in public policies. He founded both the University of Pennsylvania and Philadelphia's first fire department. A man in full, if ever this expression had an incarnation: from ideas to practical problem solving passing by management of communities. The politics of the XXIst century pay a huge tribute to this visionary in the most unexpected way.
 
-## Look! A distraction.
+# The politics of the lightning rod
 
-Information control has changed. From trying to control what you think, the propaganda machine has switched its focus on how to control what you don't think about. The fight between Orwell and Huxley on how most efficiently to control minds is definitely angling towards Huxley's Brave New World style.
+Benjamin Franklin was a bright guy. Known for the invention of the lightning rod, he was also a visionary in public policies. He founded both the University of Pennsylvania and Philadelphia’s first fire department. A man in full, if ever this expression had an incarnation: from ideas to practical problem solving passing by management of communities. The politics of the XXIst century pay a huge tribute (and E. musk too) to this visionary in the most unexpected way.
 
-With the rise of horizontal communication, it has become more and more apparent that there are no ways to efficiently control minds because there are so many channels of communications. The situation is, in this regard, very much different from the one around the Second World War. Nazi's and Communist propaganda of the 30s were revolving around the control of radio broadcasts, newspapers and later TV channels. The top-down nature of information broadcast (purely because of technological limitations) made it easy to restrict access to information.
+#### Look ! A distraction.
 
-With the multiplication of social networks, blogs, YouTube, purely internet-based journalism, etc. there are no limits either in the multiplicity of information sources or in their provenance. It is therefore almost impossible to control where people are going to gather news, and what they are going to talk about. The logical conclusion, if you want to exert a modicum of control, is to flip the table around and focus on what they should not talk/think about. This is where the strategy of the lightning rod comes from.
+Information control has changed. From trying to control what you think, the propaganda machine has switched its focus on how to control what you don’t think about. The fight between Orwell and Huxley on how most efficiently to control minds is definitely angling towards Huxley’s Brave new world style.
 
-## The law of Action-Deflection
+With the rise of horizontal communication, it has become more and more apparent that there are no ways to efficiently control minds because there are so many channels of communications. The situation is, in this regard, very much different from the one around the second world war. Nazi’s and Communist’s propaganda of the 30s were revolving around the control of radio broadcasts, newspapers and later TV channels. The top-down nature of information broadcast (purely because of technological limitations) made it easy to restrict access to information. Note that every information technology revolution has produced, intellectual at first, but real at last, revolutions.
 
-The first name of the French government spokeswoman is "Sibeth," which in French pronounces like "si bête" (literally "so stupid"). This is not a bug but a major feature. I am just taking the last controversy, few hours fresh, as a representative example. It is about the fact that she smoked during a TV interview (it was a remote interview). Clearly it is a non-event. Half the world is under some form of house arrest. France is going to lift the lockdown the next day with very difficult decisions (what and how schools are going to reopen, what about the public transportation policy etc.), but everyone is talking about that superficial micro-event.
+With the multiplication of social networks, blogs, YouTube, purely internet based journalism, etc. there are no limits neither in the multiplicity of information sources nor in their provenance. It is therefore almost impossible to control where people are going to gather news, and what they are going to talk about. The logical conclusion, if you want to exert a modicum of control, is to flip the table around and focus on what they should not talk/think about. This is where the strategy of the lightning rod comes from.
 
-This is an epitome of the lightning rod strategy: a little artifact, well placed, is used to deflect the lightning bolt on the surface of the building it protects towards a well. What is protected in the field of politics is the accountability of political action (or lack thereof).
+#### The law of Action-Deflection
 
-Trump is black belt 7th Dan in this lightning rod way of deflecting conversations. The technique has been witnessed thousands of times. It is difficult to make correct forecasts, but I can be pretty sure that during the next press conferences, there will be a new collection of remarks/mistakes/misrepresentations by the president of the US.
+The first name of the french government spokeswoman is “Sibeth”, which in french pronounces like “si bête” (litteraly “so stupid”). This is not a bug but a major feature. I could make a comprehensive list of all the controversies in which she is involved. There is even a section devoted to those in her french wikipedia page. I am just taking the he last one, few hours fresh, as a representative example. It is about the fact that she smoked during a TV interview (it was a remote interview). Clearly it is a non-event. Half the world is under some form of a house arrest. France is going to lift the lockdown the next day with very difficult decisions (what and how schools are going to reopen, what about the public transportation policy etc.), but everyone is talking about that superficial micro-event.
 
-## Kayfabe and the suspension of belief
+This is an epitome of the lightning rod strategy: a little artifact, well placed, is used to deflect the lightning bolt on the surface of the building it protects towards a well. What is protected in the field of politics is the accountability of political action (or lack of thereof).
 
-In an answer to the 2011 Edge.org question of the year, E. Weinstein proposed that the notion of Kayfabe (faked wrestling fights) is a useful concept to think about politics today. One important underlying point is that a spectator of professional wrestling must "suspend their disbelief" in order to enjoy the show. When you go to the movie theater, you have to let your scientific lenses at the door to go beyond the incoherence of the surface of the story to get the message. The lightning rod strategy, on the other hand, implies that you need to suspend your belief when witnessing a political discourse. You cannot fake to believe what is said if you want to understand anything about what's really going on.
+Trump is black belt 7th Dan in this lightning rod way of deflecting conversations. The technique has been witnessed thousands of times. It is difficult to make correct forecasts, but I can be pretty sure that during the next press conferences, there will be a new collection of remarks/ mistakes/misrepresentations (intended or unintended) by the president of the US.
+
+#### Kayfabe and the suspension of belief
+
+In an answer to the 2011 Edge.org’s question of the year, E. Weinstein proposed that the notion of Kayfabe (faked wrestling fights) as a useful concept to think nowadays the political theater. One important underlying point is that a spectator of professional wrestling match must “suspend their disbelief” in order to enjoy the show. When you go the movie theater, you have to let your scientific lenses at the door to go beyond the incoherence of the surface of the story to get the message. The lightning rod strategy, on the other hand, implies that you need to suspend your belief when witnessing a political discourse. You cannot fake to believe what is said if you want to understand anything about what’s really going on.
+
 </content>
 
 </document>

@@ -3,11 +3,12 @@
 <metadata>
   <doc_id>sol-024h</doc_id>
   <title>Topological Revolution Goes Mental</title>
-  <date>2024-08</date>
+  <date>2024-08-23</date>
   <cluster>AI and Technology</cluster>
   <type>Theoretical_Extension</type>
   <source_url>https://spearoflugh.substack.com/p/topological-revolution-goes-mental</source_url>
   <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
 
   <relations>
     <prerequisite>sol-002</prerequisite>
@@ -64,28 +65,43 @@
   <fibralist_connection>
     <bridge_to_fibralist>fib-006 (Keel as non-average identity: the Fiber's cultural identity is precisely what cannot be represented as a vector average — it is the outlier that the semantic topology cannot capture because it is not in the training distribution of the current era)</bridge_to_fibralist>
   </fibralist_connection>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2024-08-23); content block replaced by the verbatim post text.</item>
+  </fact_check>
 </metadata>
 
 <content>
-New information technologies are generating a cultural revolution. As we are living through it, it is hard to discern its features. One of them is the change in what we consider *close to us*. This transformation of the notion of neighborhood comes from the fact that instantaneous global communication abilities have more or less erased natural obstacles. Anyone can directly talk, even have a video call, to anyone on earth. I called this the *Topological Revolution*.
 
-Generative AIs are at the origin of another topological revolution: in the mental space. This other topological revolution might be even more destabilizing than the topological revolution in the acquaintance space.
+# Topological Revolution Goes Mental
 
-## Morphing
+New information technologies are generating a cultural revolution. As we are living through it, it is hard to discern its features. One of them is the change in what we consider *close to us*. This transformation of the notion of neighborhood comes from the fact that instantaneous global communication abilities have more or less erased natural obstacles. Anyone can directly talk, even have a video call, to anyone on earth. I called this the *The Topological revolution*
 
-When the clip of M. Jackson — *Black or White* — was published, it was at the pinnacle of what technology could deliver. The morphing between images, changing characters between sexes and races, was using top ranked computers to be produced. At the time I was just starting to study computer science. I remember having been shocked to see how simple it was in my first courses on image processing. A friend of mine even wrote a morphing program in an afternoon. It was not as smooth as in the M. Jackson clip but you could see that it was just an issue of raw computing power.
+[Linked post: The Topological Revolution]
 
-For your computer an image is just a large array of integers. Each pixel is colored using three integers that give the values in red/green/blue. The morphing displayed in M. Jackson's video clip is obtained by computing intermediate images in which you compute the interpolation — a kind of average — between the values for each pixel in the original image and the corresponding pixel in the target image. The more intermediate images you can compute the smoother the morphing. There are a lot of pixels in an image, so it requires a lot of computing power. But conceptually it doesn't go much further than computing *a lot* of averages. An average fourth grader with a calculator and enough time can do it.
+Generative AIs are at the origin of another topological revolution: in the mental space. This other topological revolution  might be even more destabilizing than the topological revolution in the acquaintance space.
 
-Believe it or not, it is more or less the same thing that generative AIs are doing. The engine that makes GPTs work is called "word embedding." The idea is to represent words and sentences as vectors in a very large dimensional space. If you craft a *good* embedding then the words "Coke" and "Pepsi" will be very close to one another in this space. A program looking for something to drink can easily search in the *neighborhood* of those vectors. Likewise the fact that you ask the question in English or French is not relevant: the embedding is about semantics not syntax. All sodas rest in the same area of the semantic space. The secret is to build this embedding correctly and to have enough computing power to do it. You can move from one idea (one vector) to another idea (another vector) by interpolating between the vectors. The result will be a morphing between the two ideas. Just like in the M. Jackson clip, but at the semantic level.
+[Embedded video]
 
-## Archetypes
+### Morphing
 
-There is another dimension on which AIs operate: they learn by ingesting material created by humans. Grok feeds on Twitter — it is closer to "what people think" than models built on news articles which go through the editorial filter. What does it mean in concrete terms?
+When the clip of M. Jackson —*Black or White*— was published, it was at the pinnacle of what technology could deliver. The morphing between images, changing characters between sexes and races, was using top ranked computers to be produced. At the time I was just starting to study computer science. I remember having been shocked to see how stupid it was in my first courses on image processing. A friend of mind even wrote a morphing program in an afternoon. It was not as smooth as in the clip of M. Jackson but you could see that it was just an issue of raw computing power. For your computer an image is just a large array of integers. Each pixel is colored using three integers that give the values in red/green/blue. The morphing displayed in M. Jackson's video clip is obtained by computing intermediate images in which you compute the interpolation, say a kind of average, between the values for each pixel in the original image and the corresponding pixel in the target image. The more intermediate images you can compute the smoother the morphing. There are a lot of pixels in an image, so it requires a lot of computing power (more if you want more Intermediate images of course). But conceptually it doesn't go much further than computing *a lot* of averages. An average(!) fourth grader with a calculator and enough time can do it.
 
-When you send a prompt to generate a text, a picture or a video, the generative AI uses its learning material and its vector representation to produce the result. You can see AI-generated images moving from one another — just like in the M. Jackson clip, but the evolution is a random walk through the model's representation space. Now when you send a prompt to an AI that is sensing the pulse of the conversation, what you get are the archetypes of our times. A visual representation of the zeitgeist.
+Believe it or not, it is more or less the same thing that Generative AI are doing. Well, it is a little bit more complex but the idea is very similar. The engine that make GPTs to work is called "word embedding". The idea is to represent words and sentences as vectors in a very large dimensions space. How does it help? Consider this example : if you craft a *good* embedding then the words "Coke" and "Pepsi" will be very close to one another in this space. Now if you write a program looking for something to drink it will be easy to search in the *neighborhood* of those vectors. Likewise the fact that you ask the question in English or french is not relevant: the embedding is about semantics not syntax or idioms. This way even if the words is spelled differently the machine will "understand" what you are looking for, because all sodas will rest in the same area of your huge semantic space. The secret is to build this embedding correctly and to have enough computing power to do it. Now you see that you can move from one idea (one vector) to another idea (another vector). You can do it by interpolating between the vectors. The result will be a morphing between the two ideas. Just like in M. Jackson clip, but at the semantic level.
 
-This is my answer to the question "is AI conscious?": no it is not, but it is a very good explorer of the spirit of our times. It is not surprising that it gets the temperature of the air — it is built this way. It doesn't stop me from admiring the results. Moreover it adds a new "scope" for society to observe itself. What is going to emerge from the use of this new introspective tool is anyone's guess at this point. The only thing we can be sure of is that it is going to be both impossible to forecast and impossible to dodge.
+### Archetypes
+
+There is another dimension on which AIs operate: they learn by ingesting material created by humans. This is why Grok bears great promises with relation to chat GPT in my opinion. As I remarked earlier, the only part of the internet where new fresh human material is available are the social media:
+
+[Linked post: Miranda Warning]
+
+Grok feeds on Twitter. This it is closer to "what people think" than models built on the internet. Typically those internet models gather news articles. I am not even touching on the bias issues (there is enough material for many Ph. D.s). But it looks sensible to think that Grok is going to capture the zeitgeist much faster because X users are not going through the editorial filter of news articles.
+
+What does it mean in concrete terms?
+
+When you send a prompt to generate a text, a picture or a video, the generative AI is going to use the learning material and its vector representation to produce the result. Look at the following video. You can see the images moving from one another in it. Just like in the M. Jackson video clip, but the evolution is not between target images, it is a random walk through the space of this model representation. Now when you send a prompt to an AI that is sensing the pulse of the conversation what you get are the archetypes of our times. A visual representation of the zeitgeist. The following is a production of Grok, presumably following the prompt “Darkhorse podcast”.
+
+The 239th episode was tackling with the question: is the AI conscious? This is my answer to this question : no it is not, but it is a very good explorer of the spirit of our times. It is not surprising that it gets the temperature of the air, it is built this way. It doesn’t stop me from admiring the results. It is very impressive. Moreover it adds a new “scope” for the society to observe itself. What is going to emerge from the use of this new introspective tool is anyone’s guess at this point. The only thing that we can be sure is that it is going to be both impossible to forecast and impossible to dodge.
+
 </content>
 
 </document>

@@ -3,11 +3,12 @@
 <metadata>
   <doc_id>sol-031</doc_id>
   <title>Patching the Sacred — from Hippocrates</title>
-  <date>2025</date>
+  <date>2026-02-13</date>
   <cluster>Philosophical Depth</cluster>
   <type>Philosophical_Analysis</type>
   <source_url>https://spearoflugh.substack.com/p/patching-the-sacred-from-hippocrates</source_url>
   <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
 
   <relations>
     <is_foundation_of>sol-032</is_foundation_of>
@@ -45,10 +46,67 @@
   <fibralist_connection>
     <bridge_to_fibralist>fib-009 (Sesqui-Theonomy: the fibralist oath is explicitly designed to resist moral version control — it is sworn to ancestors and descendants, not to a terms-of-service)</bridge_to_fibralist>
   </fibralist_connection>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2026-02-13); content block replaced by the verbatim post text.</item>
+    <item status="CORRECTION">Date was "2025"; the article was published on 13 February 2026.</item>
+    <item status="VERIFIED">The WMA Declaration of Geneva (1948) was amended in 1968, 1983, 1994 and editorially revised in 2005, 2006 and 2017 — seven versions.</item>
+  </fact_check>
 </metadata>
 
 <content>
-You’ve probably heard of the Hippocratic Oath—that solemn vow doctors are supposed to take. The first weird thing about it? There isn’t just “one” oath. The version from the World Medical Association’s Declaration of Geneva—basically the modern Hippocratic Oath—has actually gone through seven different iterations between 1948 and 2017. Talk about the “ version of the law ” rather than the letter or spirit of the law. Sure, those changes happen a bit less frequently than the updates to your average social media platform’s terms of service, but honestly, it’s a closer race than you’d think. In reality, the evolution of the Hippocratic Oath serves as a perfect, illuminating example of what happens to tradition in the digital era. Let’s dive deeper into this allegory. Hypotheology In the original version of the Hippocratic Oath, things were crystal clear from the jump. It was deeply rooted in the divine: “I swear by Apollo Healer, by Asclepius, by Hygieia, by Panacea, and by all the gods and goddesses, making them my witnesses, that I will carry out, according to my ability and judgment, this oath and this indenture.” — Wikipedia, Hippocratic Oath The first modern update in 1948 stripped away the gods—because we’re “over” that, right? Well, the fact that the text began changing every ten years after remaining intact for two millennia might be a hint that the religious substrate wasn’t so useless after all. The Digital Shift: Privacy and Definition The 1968 update is particularly telling. It focused heavily on strengthening confidentiality. The astute reader will notice this happened exactly as medical records were being migrated into… computers. As we move forward, we see a shifting definition of “life” itself, primarily to open the door for abortion and euthanasia. I won’t dwell on the philosophical “progress of progressives” reflected in these edits; instead, I’ll stick to the digital perspective. This subtle redefinition of life mirrors the ascent of digital life. Everyone knows life on social media isn’t “real life”—but could a “non-real life” even exist in the first place? Later amendments shifted the definition of the origin of life. If you remember the COVID-19 crisis and the pivot in the definition of “vaccine” in September 2021, you won’t be shocked: there were precedents. Coding Discrimination: Blacklists vs. Whitelists The 1994 amendment is fascinating when viewed through the lens of IT. It transformed the non-discrimination statement from a simple, broad expression into an explicit list of prohibited biases (race, gender, etc.). In computer science terms, this is a move from a blacklist to a whitelist approach. You move from “you can access anything except X” to “you can only access the specific things granted on this list.” The strange thing is that it is done for a negative thing: “you can’t reject what is explicitly given in that list.” This creates a double negation that is not equal to an affirmation, as logicians could tell you; classical and constructive logic precisely differ on that. The fact that constructive logic is fundamentally linked to computer science is not coincidental. It suggests a world where morality is no longer a “given” truth to be discovered, but a “program” to be built, edited, and compiled. Moral Version Control When ethics are treated like software—subject to patches, versioning, and “bug fixes”—the very concept of a sacred bond evaporates. In this framework, an oath isn’t a permanent weight on one’s soul; it’s just a User Agreement that hasn’t expired yet. If we treat the “spirit of the law” as a legacy system that needs constant updates, we shouldn’t be surprised when the people in charge start treating their integrity like a beta test. This shift from the eternal to the ephemeral explains why the “technicalities” of a contract now consistently trump the “spirit” of a vocation. We saw the rotting fruit of this “Updateable Morality” play out in the headlines just last week. Hypocrite Oath Last week in the media was wild. The release of the Epstein files sparked a wave of commentary and began to have real-life consequences. While there have been no legal repercussions for the time being, several prominent figures have resigned in light of these revelations. At the time of writing, Kathryn Ruemmeler (Goldman Sachs’ top lawyer and former White House Counsel), Jack Lang (former French Minister of Culture and Education), and Lord Mandelson (former UK Ambassador to the EU/First Secretary) have stepped down from various prestigious positions. None of these individuals are medical doctors, yet they all held official roles and operated under the implicit oath of serving the public good. Or did they? It appears they were following a ‘ Hypocrite’s Oath ’ rather than the Hippocratic one. The reaction from the head of the DOJ, Pam Bondi, who cited stock market performance during her hearing , did little to change that assessment. The natural question arising from all this is: is the decay of these oaths a byproduct of our digital era? Oaths—and rules in general—used to be carved in stone. Literally. Today, it is possible to change the Terms of Service (ToS) every Monday, across the entire world at once, with a single click or a swipe of the finger. Likewise, the attention span of the average voter has been reduced to something like the length of a single tweet; as a result, deflecting questions with foolish, unrelated answers now appears to be a viable strategy. Could a former Attorney General in a pre-digital era have answered questions the way Pam Bondi did? The bleak conclusion is that this is the world—both real and virtual—in which we now live. Old oaths have lost their power, and we are in dire need of new ones. It is perhaps no accident that the modern symbol for medicine is so often the Caduceus. Long before it sat on a doctor’s blazer, it was the staff of Hermes: the god of eloquence and negotiation, yes, but also the god of deception and thieves. You have been warned.
+
+# Patching the Sacred: from Hippocrates to Terms-of-Service
+
+You’ve probably heard of the Hippocratic Oath—that solemn vow doctors are supposed to take.
+
+The first weird thing about it? There isn’t just “one” oath. The version from the World Medical Association’s Declaration of Geneva—basically the modern Hippocratic Oath—has actually gone through seven different iterations between 1948 and 2017. Talk about the “version of the law” rather than the letter or spirit of the law.
+
+Sure, those changes happen a bit less frequently than the updates to your average social media platform’s terms of service, but honestly, it’s a closer race than you’d think. In reality, the evolution of the Hippocratic Oath serves as a perfect, illuminating example of what happens to tradition in the digital era.
+
+Let’s dive deeper into this allegory.
+
+### Hypotheology
+
+In the original version of the Hippocratic Oath, things were crystal clear from the jump. It was deeply rooted in the divine:
+
+> “I swear by Apollo Healer, by Asclepius, by Hygieia, by Panacea, and by all the gods and goddesses, making them my witnesses, that I will carry out, according to my ability and judgment, this oath and this indenture.” — *Wikipedia, Hippocratic Oath*
+
+The first modern update in 1948 stripped away the gods—because we’re “over” that, right? Well, the fact that the text began changing every ten years after remaining intact for two millennia might be a hint that the religious substrate wasn’t so useless after all.
+
+#### The Digital Shift: Privacy and Definition
+
+The **1968 update** is particularly telling. It focused heavily on strengthening confidentiality. The astute reader will notice this happened exactly as medical records were being migrated into… computers.
+
+As we move forward, we see a shifting definition of “life” itself, primarily to open the door for abortion and euthanasia. I won’t dwell on the philosophical “progress of progressives” reflected in these edits; instead, I’ll stick to the digital perspective. This subtle redefinition of life mirrors the ascent of digital life. Everyone knows life on social media isn’t “real life”—but could a “non-real life” even exist in the first place?
+
+Later amendments shifted the definition of the *origin* of life. If you remember the COVID-19 crisis and the pivot in the definition of “vaccine” in September 2021, you won’t be shocked: there were precedents.
+
+#### Coding Discrimination: Blacklists vs. Whitelists
+
+The 1994 amendment is fascinating when viewed through the lens of IT. It transformed the non-discrimination statement from a simple, broad expression into an explicit list of prohibited biases (race, gender, etc.). In computer science terms, this is a move from a *blacklist* to a *whitelist* approach. You move from “you can access anything except X” to “you can only access the specific things granted on this list.”
+
+The strange thing is that it is done for a negative thing: “you can’t reject what is explicitly given in that list.” This creates a double negation that is not equal to an affirmation, as logicians could tell you; classical and constructive logic precisely differ on that. The fact that constructive logic is fundamentally linked to computer science is not coincidental. It suggests a world where morality is no longer a “given” truth to be discovered, but a “program” to be built, edited, and compiled.
+
+#### **Moral Version Control**
+
+When ethics are treated like software—subject to patches, versioning, and “bug fixes”—the very concept of a sacred bond evaporates. In this framework, an oath isn’t a permanent weight on one’s soul; it’s just a **User Agreement** that hasn’t expired yet.
+
+If we treat the “spirit of the law” as a legacy system that needs constant updates, we shouldn’t be surprised when the people in charge start treating their integrity like a beta test. This shift from the eternal to the ephemeral explains why the “technicalities” of a contract now consistently trump the “spirit” of a vocation. We saw the rotting fruit of this “Updateable Morality” play out in the headlines just last week.
+
+### Hypocrite Oath
+
+Last week in the media was wild. The release of the Epstein files sparked a wave of commentary and began to have real-life consequences. While there have been no legal repercussions for the time being, several prominent figures have resigned in light of these revelations. At the time of writing, Kathryn Ruemmeler (Goldman Sachs’ top lawyer and former White House Counsel), Jack Lang (former French Minister of Culture and Education), and Lord Mandelson (former UK Ambassador to the EU/First Secretary) have stepped down from various prestigious positions.
+
+None of these individuals are medical doctors, yet they all held official roles and operated under the implicit oath of serving the public good. Or did they? It appears they were following a **‘**Hypocrite’s Oath**’** rather than the Hippocratic one. The reaction from the head of the DOJ, Pam Bondi, who cited stock market performance during her hearing, did little to change that assessment.
+
+The natural question arising from all this is: is the decay of these oaths a byproduct of our digital era? Oaths—and rules in general—used to be carved in stone. Literally. Today, it is possible to change the Terms of Service (ToS) every Monday, across the entire world at once, with a single click or a swipe of the finger.
+
+Likewise, the attention span of the average voter has been reduced to something like the length of a single tweet; as a result, deflecting questions with foolish, unrelated answers now appears to be a viable strategy. Could a former Attorney General in a pre-digital era have answered questions the way Pam Bondi did?
+
+The bleak conclusion is that this is the world—both real and virtual—in which we now live. Old oaths have lost their power, and we are in dire need of new ones. It is perhaps no accident that the modern symbol for medicine is so often the Caduceus. Long before it sat on a doctor’s blazer, it was the staff of Hermes: the god of eloquence and negotiation, yes, but also the god of deception and thieves.
+
+You have been warned.
+
 </content>
 
 </document>

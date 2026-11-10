@@ -3,11 +3,12 @@
 <metadata>
   <doc_id>sol-025</doc_id>
   <title>Pale Glider</title>
-  <date>2025</date>
+  <date>2025-02-03</date>
   <cluster>Institutional Diagnosis</cluster>
   <type>Political_Analysis</type>
   <source_url>https://spearoflugh.substack.com/p/pale-glider</source_url>
   <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
 
   <relations>
     <prerequisite>sol-002</prerequisite>
@@ -42,10 +43,50 @@
   <fibralist_connection>
     <bridge_to_fibralist>fib-002 (Fibralist Manifesto: the Fiber as protocol operating where the Weberian state-program can no longer function)</bridge_to_fibralist>
   </fibralist_connection>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2025-02-03); content block replaced by the verbatim post text.</item>
+    <item status="NOTE">Weber's monopoly-of-legitimate-violence definition is best known from "Politics as a Vocation" (1919); it also appears in Economy and Society (posthumous, 1921–22), which the author cites.</item>
+  </fact_check>
 </metadata>
 
 <content>
-Max Weber has given the most cited definition of the state institution. It is the famous quote: "A state is a human community that (successfully) claims the monopoly of the legitimate use of physical force within a given territory." M. Weber in "Economy and Society" (1922) This is an elegant formulation of a complex institution. It is of course open to interpretation, notably the term "legitimate", but it is not void of a precise content either. Clearly it is not just about ideas —physical force— and is geographically determined —given territory—. New information technologies have a huge effect on both of these terms. They also have an impact on the understanding of the term "legitimate". Just consider all the remarks about the fact that E. Musk is an unelected citizen on one hand, and about deep state on the other hand... Time has maybe come to revisit this definition. Is it still relevant, and if yes for how long? Another related question becomes the one of military action: what does it mean to control a territory in a digital culture? Centralization and Control A key feature of written based culture is its centralization. It can be seen at different scales, and at different levels. The general idea is: as you need editors to vet what is going to be written, because writing is not free, those editorial bodies are points in which the power is centralized. From what is printed in a journal, to the collections of laws and tax receipts passing by property of the land. For instance in France there is the "Journal Officiel" (the official newspaper) that records every action of the french state. In the USA there are a bunch of official newspapers playing this role: federal register, United States Code, Code of Federal Regulations, Congressional Record and the Weekly compilation of Presidential Documents. In a written culture the one controlling the receipts controls the state. Ultimately the IRS can seize your bank account and change the owner of the content of your bank accounts. It is all a matter of scriptures... So the control of a state in a written culture is relatively clear: the ones who control the scriptures are also in control of "legitimacy", because they control what are the laws written in the official document. By extension a military victory is easy to define: something like the control, physical, of the official printing press. Those remarks do not apply to a digital culture anymore. First, unlike in a written culture, the marginal cost of information is zero. Indeed, once you have bought a computer and an access to the network, to produce, to store and to broadcast information doesn't bear any new cost. Second, the geographic boundaries do not naturally exist on the internet (they can artificially be implemented, but also circumvented, e.g. the use of VPN). Think at what "seizing cryptocurrencies" mean in concrete terms: there is no bank CEO to threaten with legal action and jail time. There are no objects to put your hands on either. On top of that, because of the technological progress, everyone can be a content creator too. So what does it mean, in concrete terms, to control a country today? What does it mean to achieve military control of a state, or a win in a war? Is the Weberian view of the state still meaningfull? Technopopulism The experiment that just started with the second Trump administration might teach us one or two things about this issue. In less than three weeks, at the time of writing, it can already be seen that times have changed. A lot. The total disappearance of media as a meaningful political force is the most striking. The agenda is no longer set by the NYT or the WaPo. Trump and Musk directly set the media agenda on social media. Political leaders have been reduced to mere followers: just think at how Starmer reacted to Musk personal feud with UK . It did not worked the other way around. Musk agenda is not dependent on Starmer decisions. Same thing happened in Germany where large demonstrations were held against AfD last weekend . The fact that Musk publicly supported this party and interviewed live its leader were instrumental. The so called fourth power , celebrated during the 1970s, has vanished. This is the most tangible proof that we have shifted from a written culture to a digital culture. Now you may understand the quote “You are the media” under a new light. Social media users are the fourth power of 2025. Are they the fourth horsemen of the apocalypse too? Decay Radio active material decays over time. There is this idea of half-life which is the time needed for half the radioactive material to disintegrate under its own predicament. It looks like the half-life of stories in social media is continually shrinking. Media cycles were measured in months, weeks (for instance the Watergate or JFK'S assassination), then it became days, hours. In this context what does mean the control of a territory? Clearly no one has a upper hand on the global narrative. What is the meaning of a military victory if half an hour later no one pays attention anymore because Kayne West’s wife walked the red carpet naked ? Is the decay of culture an integral part of digital culture? Is the fourth horseman of the apocalypse the digital rapture? Many questions and not the slightest hint at an answer. Definitely in the image of our times.
+
+# Pale Glider
+
+Max Weber has given the most cited definition of the state institution. It is the famous quote:
+
+> "A state is a human community that (successfully) claims the monopoly of the
+>
+> legitimate use of physical force within a given territory."
+>
+> M. Weber in "Economy and Society" (1922)
+
+This is an elegant formulation of a complex institution. It is of course open to interpretation, notably the term "legitimate", but it is not void of a precise content either. Clearly it is not just about ideas —physical force— and is geographically determined —given territory—. New information technologies have a huge effect on both of these terms. They also have an impact on the understanding of the term "legitimate". Just consider all the remarks about the fact that E. Musk is an unelected citizen on one hand, and about deep state on the other hand... Time has maybe come to revisit this definition. Is it still relevant, and if yes for how long? Another related question becomes the one of military action: what does it mean to control a territory in a digital culture?
+
+### Centralization and Control
+
+A key feature of written based culture is its centralization. It can be seen at different scales, and at different levels. The general idea is: as you need editors to vet what is going to be written, because writing is not free, those editorial bodies are points in which the power is centralized. From what is printed in a journal, to the collections of laws and tax receipts passing by property of the land. For instance in France there is the "Journal Officiel" (the official newspaper) that records every action of the french state. In the USA there are a bunch of official newspapers playing this role: federal register, United States Code, Code of Federal Regulations, Congressional  Record and the Weekly compilation of Presidential Documents. In a written culture the one controlling the receipts controls the state. Ultimately the IRS can seize your bank account and change the owner of the content of your bank accounts. It is all a matter of scriptures...
+
+So the control of a state in a written culture is relatively clear: the ones  who control the scriptures are also in control of "legitimacy", because they control what are the laws written in the official document. By extension a  military victory is easy to define: something like the control, physical, of  the official printing press.
+
+Those remarks do not apply to a digital culture anymore. First, unlike in  a written culture, the marginal cost of information is zero. Indeed, once you  have bought a computer and an access to the network, to produce, to store  and to broadcast information doesn't bear any new cost. Second, the geographic boundaries do not naturally exist on the internet (they can artificially be implemented, but also circumvented, e.g. the use of VPN). Think at what "seizing cryptocurrencies" mean in concrete terms: there is no bank CEO to threaten with legal action and jail time. There are no objects to put your hands on either. On top of that, because of the technological progress, everyone can be a content creator too.
+
+So what does it mean, in concrete terms, to control a country today? What does it mean to achieve military control of a state, or a win in a war? Is the Weberian view of the state still meaningfull?
+
+### Technopopulism
+
+The experiment that just started with the second Trump administration might teach us one or two things about this issue. In less than three weeks, at the time of writing, it  can already be seen that times have changed. A lot.
+
+The total disappearance of media as a meaningful political force is the most striking. The agenda is no longer set by the NYT or the WaPo. Trump and Musk directly set the media agenda on social media. Political leaders have been reduced to mere followers: just think at how Starmer reacted to Musk personal feud with UK. It did not worked the other way around. Musk agenda is not dependent on Starmer decisions. Same thing happened in Germany where large demonstrations were held against AfD last weekend. The fact that Musk publicly supported this party and interviewed live its leader were instrumental.
+
+The so called fourth power, celebrated during the 1970s, has vanished. This is the most tangible proof that we have shifted from a written culture to a digital culture. Now you may understand the quote “You are the media” under a new light. Social media users are the fourth power of 2025. Are they the fourth horsemen of the apocalypse too?
+
+### Decay
+
+Radio active material decays over time. There is this idea of half-life which is the time needed for half the radioactive material to disintegrate under its own predicament. It looks like the half-life of stories in social media is continually shrinking. Media cycles were measured in months, weeks (for instance the Watergate or JFK'S assassination), then it became days, hours. In this context what does mean the control of a territory? Clearly no one has a upper hand on the global narrative. What is the meaning of a military victory if half an hour later no one pays attention anymore because Kayne West’s wife walked the red carpet naked? Is the decay of culture an integral part of digital culture? Is the fourth horseman of the apocalypse the digital rapture?
+
+Many questions and not the slightest hint at an answer. Definitely in the image of our times.
+
 </content>
 
 </document>

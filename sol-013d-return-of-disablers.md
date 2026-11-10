@@ -3,11 +3,12 @@
 <metadata>
   <doc_id>sol-013d</doc_id>
   <title>The Return of the Disablers</title>
-  <date>2023-09</date>
+  <date>2023-09-01</date>
   <cluster>Institutional Diagnosis</cluster>
   <type>Empirical_Chronicle</type>
   <source_url>https://spearoflugh.substack.com/p/the-return-of-the-disablers</source_url>
   <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
 
   <relations>
     <sequel_to>sol-004</sequel_to>
@@ -59,44 +60,61 @@
     <warning>"Rich Men North of Richmond" by Oliver Anthony (real name Christopher Anthony Lunsford) was released August 8, 2023 and went viral immediately. The 50M+ views figure is approximately accurate for the two-week window described.</warning>
     <warning>The Hawaiian Electric liability for the fires is referenced — this was an active legal matter at time of writing. The author notes causes "are not yet clear," which is accurate.</warning>
     <warning>The Rolling Stone magazine quote ("appears to allude to Jeffrey Epstein") is from a real Rolling Stone article about the song. The author uses it as an example of institutional circumlocution, not as a claim about Epstein content in the song.</warning>
-    <warning>The French lyric is unattributed — it is either original poetry by the author or a citation from an unidentified French chanson. An AI should not assume it is from a known song.</warning>
+    <warning>CORRECTED IN V16: the French lyric is from Bernard Lavilliers' song "Noir et Blanc" (1986). Lyrics are omitted from this repository for copyright reasons.</warning>
   </anti_hallucination>
 
   <fibralist_connection>
     <bridge_to_fibralist>fib-007 (Defense — distributed Theodore: Oliver Anthony is the cultural equivalent of the distributed defense model; the individual who can speak plainly is the cultural Fiber that institutional capture cannot produce; the Fiber is the institutional form of the Oliver Anthony phenomenon)</bridge_to_fibralist>
   </fibralist_connection>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2023-09-01); content block replaced by the verbatim post text.</item>
+    <item status="CORRECTION">The French verses quoted at the end are from Bernard Lavilliers, "Noir et Blanc" (1986) — not unattributed. Lyrics and translation removed from the content (copyright).</item>
+    <item status="NOTE">The Maui (Lahaina) death toll later settled at about 102; the 114–115 figure was accurate as of early September 2023.</item>
+  </fact_check>
 </metadata>
 
 <content>
-The recent blaze in Hawaii is a tragedy of epic proportions and it is still evolving. At the time of writing the death count is 115. This tragedy and its aftermaths are a striking illustration of the inability of past institutions to function properly in a digitized society. I already posted about this subject.
 
-The TLDR is that nation-states, in this early XXI°, are failing to provide, thus they have switched to restrain and to prevent (in the name of safety). The question of how is it going to unfold in the proximate future has not yet really clear answers. A possible answer that I mentioned was the development of private-based organizations that work globally, driven by religious faith (as it is the last social glue that could work on a global scale).
+# The Return of the Disablers
 
-## Lahaina's Inferno
+The recent blaze in Hawaii is a tragedy of epic proportions and it is still evolving. At the time of writing the death count is still 115 deaths. God only knows what the accurate numbers will turn out to be. This tragedy and its aftermaths are a new striking illustration of the inability of past institutions to function properly in a digitized society. I already posted about this subject.
 
-The recent fire storms in Maui were unheard of. It is not to score a point. But it is during the period of extreme stress that truth is revealed. The first paragraph of the AP article titled "Maui residents who disobeyed barricade survived fires" couldn't make the point more clear:
+[Linked post: The Disablers]
 
-> Those who disobeyed the barricaded road closures during the Maui fires survived the disaster, while many of those who heeded orders to turn around perished in their cars and homes with no way out.
+You can read the post before continuing. The TLDR is that nation-states, in this early XXI°, are failing to provide thus they have switched to restrain and to prevent (in the name of safety). The question of how is it going to unfold in the proximate future has not yet really clear answers. A possible answer that I mentionned was the development of private based organizations that work globally, and that were driven by religious faith (as it is the last social glue that could work on a global scale). I gave the example of what happened during the Afghan debacle and mentioned private based operations to save people from getting enslaved, and worse, by the Taliban. Noting that the US state department actively undermined such efforts…
 
-At least 114 people were killed in the fires. Officials are facing increased scrutiny for the emergency response, including why the emergency sirens were not set off and whether closing the roads prevented people from getting to safety.
+### Lahaina’s Inferno
 
-The reasons why the fire erupted are not yet clear but the incompetence of institutions is not out of question. Yet what is clear is that those same institutions made things worse by closing roads and giving awful advice. People directly died in their cars and in their homes.
+The recent fire storms in Maui were unheard of. It is sad to have to contemplate such catastrophes. It is not to score a point. But it is during the period of extreme stress that truth is revealed. I think that many of the readers will have lived this through the COVID crisis. Many masks fell. The first paragraph of this article from AP, titled “Maui residents who disobeyed barricade survived fires“  couldn’t make the point more clear.
 
-Kerberos was not a dog keeping the entrance of hell. He was wearing a shiny uniform and not letting you leave. Something like "forced inclusion"?
+> Those who disobeyed the barricaded road closures during the Maui fires survived the disaster, while many of those who heeded orders to turn around perished in their cars and homes with no way out, The Associated Press reported.
+>
+> At least 114 people were killed in the fires earlier this month, and the FBI is estimating that up to 1,100 more are unaccounted for. Officials are facing increased scrutiny for the emergency response, including why the emergency sirens were not set off and whether closing the roads prevented people from getting to safety.
 
-## North of Richmond
+The reasons why the fire erupted are not yet clear but the incompetence of institutions are not out of question. Yet what is clear is that those same institutions made things worse by closing roads and giving awful advice. People directly died in their cars and in their homes.
 
-I haven't escaped out of the world and like everyone I have listened to "Rich Men North of Richmond." This simple song with three dogs, a guitar and a weird looking guy in his backyard has been seen more than 50 millions times in less than two weeks. This is the poster child of what "viral" means.
+Kerberos was not a dog keeping the entrance of hell. He was wearing a shiny uniform and not letting you leave. Something like “forced inclusion” ?
 
-But there is much more to it. And it is directly linked to the subject of this post. Oliver Anthony is single-handedly delivering truths more brilliantly and in a more compelling way than all the mass media and politicians united. Rolling Stone magazine may cry harder — the king is naked. In the Rolling Stone magazine you have this line: "and even appears to allude to Jeffrey Epstein." How dumb are they pretending to be? How stupid do they think their audience is? There is this inescapable elegance in Oliver Anthony's performance: he tells things straight while his haters cannot do it straight. They have to use circumlocutions. It appears like they are stuck behind a glass while the beard guy can talk to us directly.
+[Image caption: Kerberos on the door of Hell]
 
-Amongst the many interesting things I have noticed in the reactions: some influencers are being very cautious, many explicitly say that they don't want their channels to be punished. Rappers and YouTubers are afraid of being demonetized if they utter the wrong words. Yes we are there. Censoring and cancel culture work. Oliver Anthony spits truths in your face. There is something of a Harry Potter/Voldemort thing at play here. But for real.
+### North of Richmond
 
-A year and a half has passed since I posted "The Disablers." I see many abstract ideas I had at the time expressed with very simple terms in this song. Of course it resonates. Just like the boy pointing the finger at the naked king, Oliver Anthony just calls a spade a spade. And it is enough to shatter it. Was the solution just to tell the truth? Sounds lame I know but when I see what simple words can do, what can I say?
+I haven’t escaped out of the world and like everyone I have listened to “Rich Men North or Richmond”. This simple song with three dogs, a guitar and a weird looking guy in his backyard  has been seen more than 50 millions times in less than two weeks. This is the poster child of what “viral” means. Has it been boosted by the algo? I don’t know and who really cares? There are zillions of video of “reactions” to the song. It is a genre in itself. I have spent few hours looking at them. This is a totally “social media” oriented thing by the way. Part of this is this is an extension of the selfie’s society, or the modern version of Dorian Gray’s picture.
 
-> Il vivait avec des mots / Qu'on passait sous le manteau / Qui brillaient comme des couteaux. / Il jouait d'la dérision / Comme d'une arme de précision / […] La musique parfois a des accords majeurs / Qui font rire les enfants mais pas les dictateurs / De n'importe quel pays de n'importe quelle couleur / La musique est un cri qui vient de l'intérieur
+[Linked post: Dorian Gray's Selfie]
 
-(He lived by words that were sold under the coat, which shone like knives. He was using derision as a precision weapon. […] Music sometimes has major chords that make children laugh but not dictators — from any country of any color — music is a cry that comes from within.)
+But there is much more to it. And it is directly linked to the subject of this post. As I mentioned in the original post about the “Disablers”, Oliver Anthony is single handedly delivering truths more brillantly and in a more compelling way than all the mass media and politicians united. Rolling Stones may cry harder the king is naked. In the Rolling Stone magazine you have this line “and even appears to allude to Jeffrey Epstein”. How dumb are they pretending to be? How stupid do they think their audience is? There is this inescapable elegance in Oliver Anthony’s performance: He tells things straight while his haters cannot do it straight. They have to use circumlocutions. It appears like they are stuck behind a glass while the beard guy can talk to us directly.
+
+Amongst the many interesting things I have noticed in the reactions is this: some are reacting to the “minors on an island somewhere” with a kind of joy and fear mixed. I have seen several “influencers” being very cautious, many explicitly say that they don’t want their channels to be punished. Rappers and YouTubers are afraid of being demonetized if they utter the wrong words. Yes we are there. Censoring and cancel culture work. Oliver Anthony spits truths in your face. There is something of Harry Potter/Voldemort thing at play here. But for real.
+
+History never repeats but it rhymes they say. It feels weird how it is à propos here - and at so many levels. In “The Disablers” I was using Joe Rogan as an example of how distributed solutions were more efficient than old institutions. You can listen to the show.with Oliver Anthony.
+
+[Embedded media]
+
+A year and half has passed since I posted “The Disablers”. In it I tried to explain with my words what I was feeling about how our society (say the West) is evolving. I see many abstract ideas I had at the time expressed with very simple terms in this song. Of course it resonates. Just like the the boy pointing the finger at the naked king, Oliver Anthony just calls a spade a spade. And it is enough to shatter it. Was the solution just to tell the truth? Sounds lame I know but when I see what simple words can do what can I say?
+
+[Copyright note: song lyrics (Bernard Lavilliers, "Noir et Blanc", 1986) and their translation quoted by the author in the original post — omitted from this AI repository. See the source URL for the full text.]
+
 </content>
 
 </document>

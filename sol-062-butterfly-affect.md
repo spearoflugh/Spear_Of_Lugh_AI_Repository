@@ -8,6 +8,7 @@
   <type>Essay</type>
   <source_url>https://spearoflugh.substack.com/p/the-butterfly-affect</source_url>
   <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
 
   <relations>
     <prerequisite>sol-001</prerequisite>
@@ -125,12 +126,12 @@
   </new_terms>
 
   <context>
-    Written April 29, 2026. Most recent article in the corpus. The title's deliberate misspelling
+    Written April 29, 2026. (Was the most recent article as of V15; see sol-102 for V16.) The title's deliberate misspelling
     ("Affect" not "Effect") is the primary conceptual marker — distinguishing the emotional
     legibility of digital subjects (their affect, accessible to algorithms) from their causal
     power (their effect, nullified by Positive Absence and platform stratification). The Musée
     Guimet reference is autobiographical: the author's childhood visits to the natural history
-    museum near his grandparents' house in Lyon/Villeurbanne area. The museum's closure (19 years
+    museum near his grandparents' house (the Musée Guimet of Lyon, closed in 2007; part of its collections went to the Musée des Confluences, opened in 2014). The museum's closure (19 years
     abandoned, most collections gathering dust) mirrors the social media abandonment of genuine
     discourse. The third assassination attempt on Trump (referenced as occurring the previous
     weekend) functions as the empirical proof of the Butterfly Affect: maximum affect potential,
@@ -140,77 +141,52 @@
     terminus in any single article. Closing the V15 arc (sol-058 to sol-062), this constitutes
     Phase 5's final word.
   </context>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2026-04-29); content block replaced by the verbatim post text.</item>
+    <item status="VERIFIED">The "third assassination attempt" refers to the shooting at the White House Correspondents' Dinner (Washington Hilton, 25 April 2026), which the White House called the third major attempt on Trump.<source>https://www.cp24.com/news/world/2026/04/27/white-house-correspondents-dinner-shooting-suspect-charged-with-attempting-to-assassinate-trump/</source></item>
+    <item status="VERIFIED">Lyon's Musée Guimet closed in 2007 ("nineteen years"); part of its collections moved to the Musée des Confluences (2014).</item>
+    <item status="CORRECTION">The author writes that the trolley problem "was a thought experiment precisely set up to study ethical dilemmas of automated systems". Historically false: Philippa Foot introduced it in 1967 (doctrine of double effect) and Judith Jarvis Thomson named it (1976/1985); its application to autonomous vehicles dates from the 2010s.</item>
+    <item status="CORRECTION">The previous content block was abridged/paraphrased (≈63% of the text); verbatim text restored.</item>
+  </fact_check>
 </metadata>
 
 <content>
 
 # The Butterfly Affect
 
-I am old enough that my childhood memories are filled with artifacts of the late 19th century,
-such as the natural history museum. I spent countless Sunday afternoons wandering the aisles of
-what was then the Musée Guimet — housing a vast insect collection, a direct legacy of the Belle
-Époque frenzy that followed Darwin's 'On the Origin of Species.' Imagine hundreds of butterflies
-under protective glass, each with a pin through its thorax to ensure it no longer moves.
+I am old enough that my childhood memories are filled with artifacts of the late 19th century, such as the natural history museum. The fact that there was such a museum near my grandparents' house was no coincidence. I spent countless Sunday afternoons wandering the aisles of what was then the Musée Guimet. It housed a vast insect collection, a direct legacy of the Belle Époque frenzy that followed the publication of Darwin’s *On the Origin of Species*—a work that fundamentally transformed how humans perceive themselves. Imagine hundreds of butterflies under protective glass, each with a pin through its thorax to ensure it no longer moves. Something like this:
 
-The museum has been closed for nineteen years now — a closure upon a closure. Most of the collections
-remain inside the abandoned building, gathering dust. Those very nice butterflies have stopped flying
-around for more than a century now. Surprisingly, these wanderings into my childhood memories return
-more and more frequently now — especially when I am visiting social media, another place where I spend
-some time.
+The museum has been closed for nineteen years now—a closure upon a closure. While some of the collections made it to the new Musée des Confluences, most remain inside the abandoned building, gathering dust. Those very nice butterflies have stopped flying around for more than a century now. Surprisingly, these wanderings into my childhood memories return more and more frequently now. Especially when I am visiting social media, another place where I spend some time.
 
-## This One Trick
+### This one trick
 
-It is surely the proliferation of threads like "do X with this one simple trick" or "here are the
-5 most important takeaways on Z" that triggered this internal process. They are the social media
-version of self-help books that claim to fix your life with 10 golden rules. Ultimately, they
-presuppose a closed world in which knowing a few fixed heuristics could resolve all uncertainties.
-The entire range of possibilities is laid out right there in front of you — just like the butterflies.
+It is surely the proliferation of threads like 'do X with this one simple trick' or 'here are the 5 most important takeaways on Z' that triggered this internal process. They are the social media version of those self-help books that claim to fix your life with 10 golden rules—and your modest financial contribution to the author's wealth expansion. Ultimately, they presuppose a closed world in which knowing a few fixed heuristics could resolve all uncertainties. The entire range of possibilities is laid out right there in front of you—just like the butterflies.
 
-The trolley problem was a thought experiment precisely set up to study ethical dilemmas of automated
-systems. Now that autonomous cars ride the streets, the thought experiment turns into something else.
-Our mental landscape, social media algorithmic herding included, has also been automated to a large
-extent.
+Other instances is the many trolley problems, or some ‘red/blue button’ social media version controversies.
 
-What was beamed on a large white physical screen is now experienced in a distributed way through
-smartphone screens. Think French garden vs. English garden: the supermarket where nothing is out of
-place and everything is under plastic film, versus the street market where products are spread on
-tables.
+[Embedded X post]
 
-## The Self-Prisoner Dilemma
+The fact that the trolley problem was a thought experiment precisely set up to study ethical dilemmas of automated systems is not coïncidence. Now that automatic cars are riding the streets the thought experiment turns into another thing. Don’t forget also that our mental landscape, for instance social media algorithmic herding, has also been automatized to a large extent.
 
-One of the most striking markers of the second Trump administration is its total shift to digital
-communication. What I want to pinpoint — and yes, the choice of word matters — is that they have
-become prisoners of their own media revolution. They have, in a way, pinned themselves behind glass,
-just like the butterflies in those insect collections.
+Indeed, the digital revolution expands those dilemma on many levels. They are no longer limited to attention-grabbing social media 'slop.' or gotcha posts. Again, this is not accidental; rather, it is the expression of a new digital ethos that is supplanting the older one.
 
-Shitposting and meme-spreading are all fun and games until the rubber hits the road. This style of
-communication lacks permanence. By nature, a meme has a short half-life. Yet heads of state must
-work toward persistence — after all, the word "state" itself comes from the Latin status, a noun
-of action from the past-participle stem of stare, "to stand."
+This was already apparent when the digital revolution began in the 1990s. Back then, it was visible in the 'bullet point culture' of PowerPoint. It felt as though all discussions were converging into a single frame—a never-ending slide of talking points organized into bulleted lists. What was beamed on a large white physical screen is now experienced in a distributed way through smartphone screens. At a first glance it appears comforting because it implies a diversity of viewpoints. Market of ideas and all that. But market is a word that covers many different realities. You have the supermarket where nothing is out of place and everything is under a plastic film and street markets where products are spread on tables. Think french garden vs English garden.
 
-The ongoing war with Iran provides a clear illustration: a war against a large nation of over 90
-million people cannot be won with a few clicks and social media declarations. Yet, the Commander-in-
-Chief can no longer switch gears. Every speech or statement is now perceived as just another "mean
-tweet." This one trick has become the only tool at this administration's disposal. A kind of self-
-pinning on the board. And like butterflies, all moves, statements, and postures are visible to anyone.
+### The self-prisonner dilemma
 
-## Zooming Out
+One of the most striking markers of the second Trump administration is its total shift to digital communication. I am not going to list all the memes and digital controversies this has led to, but the trend is unmistakable. Trump and Vance communicate through social media, in the spirit of social media. This comes with its own share of advantages and disadvantages—enough to fuel several legitimate Ph.D. dissertations in communication. What I want to pinpoint—and yes, the choice of word matters—is that they have become prisoners of their own media revolution. They have, in a way, pinned themselves behind glass, just like the butterflies in those insect collections.
 
-When you look at a waterfall from a distance, you see a seemingly immobile object. The closer you
-get, the more the whirlwinds, foam, and eddies become noticeable. If you step back again, it
-transforms back into a kind of slightly shape-shifting statue. This is the portrait of our mental
-landscape in the digital era.
+​Shitposting and meme-spreading are all fun and games until the rubber hits the road. I won’t lie; this style of communication is refreshing and highly entertaining. The problem is that it creates a style that lacks permanence. By nature, a meme has a short half-life. Yet, heads of state must also work toward persistence. After all, the word itself—’state’—comes from the Latin *status*, a noun of action from the past-participle stem of *stare*, ‘to stand.’ The ongoing war with Iran provides a clear illustration: a war, especially against a large nation of over 90 million people, cannot be won with a few clicks and social media declarations. Yet, the Commander-in-Chief can no longer switch gears. Every speech or statement from the Trump administration is now perceived as just another ‘mean tweet.’
 
-Last weekend saw the third assassination attempt on the President of the United States. Before the
-digital era, such an event would have paused the media cycle for days or weeks. People would have
-stopped to think about what was happening, and it — in an odd way — brought people closer together.
-Think back to the spirit of September 12th. Today, no one batted an eye. Life goes on, just as the
-waterfall flows endlessly. Assassination attempts are now much like butterflies pinned in a box.
-People, too, are like those butterflies; nothing can bring them closer now that they are properly
-registered on the platform.
+This ‘one trick’ has indeed become the only tool at this administration’s disposal—and it shows. It is a kind of self pinning on the board. And like butterflies all moves, statements and postures are visible to anyone. Maybe what is lacking is a sense of perspective.
 
-The dilemma of our digital era now appears clearly: are we going to rest inside a box, shielded
-from reality while dust covers everything, or is the box going to be smashed? And if so, by what?
+### Zooming out
+
+When you look at a waterfall from a distance, you see a seemingly immobile object. The closer you get, the more the whirlwinds, foam, and eddies become noticeable. If you step back again, it transforms back into a kind of slightly shape-shifting statue. This is the portrait of our mental landscape in the digital era that I am trying to paint here. Increasingly, people think in terms of bullet points with a pre-set list of options. Think of the drop-down menus of your favorite applications. Nowadays, these apps are your primary access to the world: you can express yourself, gather information, or order dinner through them. But it is a two-way street; I have discussed this here.
+
+Last weekend saw the third assassination attempt on the President of the United States. Before the digital era, such an event would have paused the media cycle for days or weeks. People would have stopped to think about what was happening, and it—in an odd way—brought people closer together. Think back, for those readers old enough, to the spirit of September 12th—the day of mourning after the attacks. People gathered to face the challenges to come. Today, no one batted an eye. Life goes on, just as the waterfall flows endlessly. Assassination attempts are now much like butterflies pinned in a box. People, too, are like those butterflies; nothing can bring them closer now that they are properly registered on the platform.
+
+​The dilemma of our digital era now appears clearly: are we going to rest inside a box, shielded from reality while dust covers everything, or is the box going to be smashed? And if so, by what?
 
 </content>
 

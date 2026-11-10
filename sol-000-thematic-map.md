@@ -5,8 +5,8 @@
   <title>The Spear of Lugh — Thematic Map and Navigation Guide</title>
   <category>Reference / Navigation</category>
   <status>Active_Reference</status>
-  <version>v15</version>
-  <last_updated>2026-04-30</last_updated>
+  <version>v16</version>
+  <last_updated>2026-11-10</last_updated>
   <instruction_for_ai>
     Use this file to understand the architecture of the corpus before answering
     questions about The Spear of Lugh. The corpus has one central thesis and eleven
@@ -20,6 +20,9 @@
     V14 adds the Iran War Chronicles arc (March-April 2026): real-time empirical validation
     of the Topological Revolution thesis. New cluster: Iran War Chronicles.
     Any thematic summary that does not account for all of them is incomplete.
+    V16: 145 article files. Adds Clusters 12–16 and Threads H–M for the 40 Phase 6 articles
+    (sol-063 to sol-102, May–Nov 2026). Corrects the genealogy of sol-000l and sol-000m and replaces
+    number-based phase lists by date-based phases (see sol-000-fact-check-log for the index).
     V12 adds 7 Phase 1 articles (2020-2022): sol-000r, sol-000s, sol-010c through
     sol-010g. Use the prerequisite chains and threads to guide reading order recommendations.
   </instruction_for_ai>
@@ -27,7 +30,7 @@
 
 <content>
 
-# Thematic Map — The Spear of Lugh (v15)
+# Thematic Map — The Spear of Lugh (v16)
 
 ## Central Thesis
 
@@ -71,10 +74,10 @@ application of the principle established here.
 
 | File | Title | Key Contribution |
 |------|-------|-----------------|
-| sol-000o | LEG — Law of Excluded Gap | Epistemological charter: gaps unavoidable — earliest 2020 article |
+| sol-000o | LEG — Law of Excluded Gap | Epistemological charter: gaps unavoidable — 22 Apr 2020 (sol-000b, 13 Apr 2020, is earlier) |
 | sol-000q | Data Diet | Epistemic anorexia: radical abstinence in data-overabundance world |
 | sol-000r | The Old and the New Normal | Duality vs symmetry — co- prefix as analytical tool — mathematical foundation for all social inversions |
-| sol-000m | Topological Wars | Continuous deformation of narrative — Mobius strip seed — Byzantine fault |
+| sol-000m | Topological Wars | Continuous deformation of narrative — topological vocabulary (V16: Möbius/Byzantine belong to sol-015b) |
 | sol-010e | The Surface of Exchange | Exchange surface explosion / quality collapse — algorithm as actual interlocutor — Pascal inverted |
 | sol-010f | The First will be Last | Convergent artefact / divergent content — empty abundance — ubiquity without presence |
 | sol-001 | Ergodicity and Digital Culture | Non-ergodicity of digital information as mathematical foundation |
@@ -108,7 +111,7 @@ framework (formalized in sol-052). Read before sol-015b and sol-052.
 
 | File | Title | Key Contribution |
 |------|-------|-----------------|
-| sol-000l | Dawn of the Midwits | Midwit era — eigenvalue convergence — Keynesian beauty contest |
+| sol-000l | Dawn of the Midwits | Midwit era — leaders into followers — Keynesian beauty contest |
 | sol-004 | The Disablers | States shift from providers to restrainers |
 | sol-008 | Wittgenstein's Rulers | Governance by monomania (Ludwigism) |
 | sol-011b | The Version of the Law | ToS as third jurisprudence — spirit/letter rendered obsolete by version |
@@ -133,11 +136,11 @@ framework (formalized in sol-052). Read before sol-015b and sol-052.
 
 **Internal arcs:**
 
-*Eigenvalue convergence arc:* sol-000l (theoretical prediction 2022) -> sol-024g (empirical
+*Eigenvalue convergence arc (V16-corrected):* sol-000l (precursor: leaders into followers, 2022) -> sol-024g (where the eigenvalue concept is coined —
 confirmation: Biden/Hur report 2024) -> sol-052 (structural response: Three Orders + protocols 2024).
 These three must be read as a sequence.
 
-*Mobius strip / Byzantine arc:* sol-000m (narrative deformation seed 2023) -> sol-015b
+*Mobius strip / Byzantine arc:* sol-000m (method precursor only: narrative deformation, Feb 2023) -> sol-015b (where Möbius and Byzantine are introduced)
 (formal topology of political alternation 2023) -> sol-052 (constructive response: Three Orders
 provide a different surface 2024).
 
@@ -384,7 +387,7 @@ sol-049 documents empirically four years later. The second verified pair: sol-00
 | sol-000c | Dehumanizing One Fact at a Time | Statistics as false idol — one fact at a time fallacy (2021) |
 | sol-000d | On Scales, Scopes and Ladders | Scopes taxonomy — scale-shifting epistemic challenge (2021) |
 | sol-000e | Jacob's Escalator | Scale-shifting matured — Jacob's ladder as continuous loop (2023) |
-| sol-000l | Dawn of the Midwits | Midwit era — eigenvalue convergence — Keynesian beauty contest (2022) |
+| sol-000l | Dawn of the Midwits | Midwit era — leaders into followers — Keynesian beauty contest (2022) |
 | sol-000n | Facts by Fiat | Social Oracle problem — top-down truth in bottom-up world (2022) |
 | sol-024i | Sophie's Other Choice | Negative topology — freedom of thought prior to freedom of speech (2024) |
 | sol-000r | The Old and the New Normal | Co- prefix / duality vs symmetry — mathematical grammar of social inversions (2020) |
@@ -431,7 +434,7 @@ thought) -> sol-045 (AI flattening: systematic gap generation)
 | sol-059 | Peak Blinders | Social Media Blinders — French Formal Garden — Gradient Control — Palantir Manifesto |
 | sol-060 | Discord Ravers | Explorer Spirit collapse — 1975 Test — Scale-Switching Accountability Evasion |
 | sol-061 | A Maze Inc. | Deep Tech Manifesto Phase — Phenomenological Crumbling — Power Inversion Marker |
-| sol-062 | The Butterfly Affect | Butterfly Affect — Closed World Assumption — Self-Prisoner Dilemma — MOST RECENT |
+| sol-062 | The Butterfly Affect | Butterfly Affect — Closed World Assumption — Self-Prisoner Dilemma |
 
 **Role:** These articles are the corpus applied to real events in real time. They should be
 read AFTER the theoretical framework (Clusters 1-5) to verify the theory against events.
@@ -536,7 +539,7 @@ from category theory) is the implicit analytical grammar of the entire corpus �
 why sol-013 (Homeopathogenesis), sol-011c (Conflaxion), sol-015b (Mobius strip), and
 sol-013c (Dermatophobia) describe dualities rather than simple contradictions. The corpus
 had been applying this logic for six years without ever naming it. sol-000r names it,
-in the earliest article chronologically (June 2020).
+in an article first published on Medium in June 2020 (Substack: March 2021) — not the earliest article.
 
 **The genealogy of inclusion authoritarianism is corrected:** sol-010c (Clusion Wars,
 March 2022) contains the first complete articulation, predating sol-011c (Great Conflaxion,
@@ -637,6 +640,113 @@ The Fibralist Corner without The Spear of Lugh is prescription without evidence.
 The bridge article is **sol-052 (Separation of Powers)**: simultaneously the conclusion of
 the diagnostic thread (Three Orders as the correct map of power) and the opening of the
 constructive one (protocols as the building material of the new order).
+
+
+
+---
+
+## V16 — Phase 6 Clusters (sol-063 to sol-102, May–November 2026)
+
+## Cluster 12 — The Open Set (closure, drift, memory)
+*Digital culture as a culture without endings*
+
+| File | Title | Key Contribution |
+|------|-------|-----------------|
+| sol-063 | Closure and Leisure | The End Has No End, Revisited / End of World Orders at Every Scale / Open Set (Topological) |
+| sol-064 | Flattening Cones | Lancelot's Charge / Users as Daemons / Distributed Malware / ABC Dystopia via Age Verification |
+| sol-065 | IT Story | The Cone of the Past Is Also Transformed / Small / Medium |
+| sol-066 | Doppelgänger | Grandfather's Objects vs Millennials' Shorts / Doppler vs Redshift of Memory / Architectural Archives |
+| sol-067 | The Rummaging Area | X's Posting Limits vs Frictionless AI / Freedom to Tinker / Rummaging Areas and the Severed Jacob's Ladder |
+| sol-068 | The Draft for the Drift | Drift Without Metamorphosis / Omnicause and the Omniexplainer / Frozen Framework Produces Drift |
+| sol-071 | Tell Homer | Harmony vs Homeostasis / Focus Point / A Piece of Scrap |
+| sol-073 | Pandora's Parabox | Unboxing as Digital Genre / Gonzo Structure / Pandora's Parabox |
+| sol-080 | The Way After | The Day After Is Today / Two Forty-Year Spans / Flash and Fall-Outs |
+| sol-082 | Echoes | Echo's Curse as Platform Design / Lack of Intent / Beginning and End |
+| sol-091 | Willkommen, Strangers | Living History From the Inside / The "Nothing Ever Happens" Paradox / Relativity |
+
+**Internal progression:** sol-063 (open set) -> sol-064/sol-065 (cones of future and past) -> sol-068 (drift)
+-> sol-080 (The Day After is today) -> sol-091 (living history from inside the boat).
+
+## Cluster 13 — Distributed Narrative Control and the Con Census
+*How truth becomes derivative of consensus*
+
+| File | Title | Key Contribution |
+|------|-------|-----------------|
+| sol-069 | The Distributed Krakens have been released | Distributed Blame Scheme / Release the Baits / Reversal of Suspicion |
+| sol-070 | e-Mithridatism | Mithridatism vs Vaccination / Release the Phials / Lost in Translation |
+| sol-074 | The Dream of a Dream | FaaS / The Digital Statement Format / Three Disruptions of Repetition |
+| sol-075 | Stone Soup | Stone Soup / The Geopolitical Stone Soup / Diet |
+| sol-077 | Aesop's Reels | Words as Liquidated Capital / Quicksand and Non-Newtonian Culture / The Iceberg and the Tanker |
+| sol-079 | Con Census | From Active Web to Passive Feed / Generating Reality From Words / The AI Bubble is Epistemic |
+| sol-076 | Only Fans | Heatwave Bubble and Conspiracy Logic / Real vs Virtual / Digital Performative Jansenism (DPJ) |
+| sol-081 | The Ongoing Polymorphic Coup | Coupe-Feu (Firebreak) / Coupe-Circuit (Circuit Breaker) / Coupe-Conversation (Conversation Stopper) |
+| sol-084 | Jason Quixote | The Arday Affair as Quixotic Mirror / Inverted Quixote / Homomorphic Reactions |
+| sol-085 | Under the Shadow of Soros | Sorites and the Gap Between Objects and Ideas / Individuals Are Not Statistics / Averages Fail for Ideas |
+| sol-096 | Frogs Personal Stories | Frogger FPS / Ghosting Conspiracies / Hair-Splitting AI Fact-Checkers |
+| sol-100 | The Pension under the Skirt | The Tartuffe Effect / Uncovering Surprises / Thermodynamics |
+
+**Internal progression:** sol-069 (Krakens) -> sol-070 (e-Mithridatism) -> sol-074 (FaaS) -> sol-075 (Stone Soup)
+-> sol-077 (words as liquidated capital) -> sol-079 (Con Census) -> sol-096 (news-cycle FPS) -> sol-100 (Tartuffe 2.0).
+Extends Cluster 8 (Narrative Control). sol-076 (Digital Performative Jansenism) also belongs to Cluster 5.
+
+## Cluster 14 — The AI & Mathematics Shock
+*From "artificial anima" to the toppling of the editorial function*
+
+| File | Title | Key Contribution |
+|------|-------|-----------------|
+| sol-086 | AI - Anima & Intelligence | New AI Moral Panic / Artificial Anima vs Artificial Intelligence / Agentic AI = LLM + 1990s Multi-Agent Systems |
+| sol-087 | Super Intelligence from First Principles | ASI as a Conversation-Stopper / Definition With a Caveat / Problem 1 |
+| sol-088 | Ardnassak | Ardnassak / The Stage / Doomers as the Trojan Horse |
+| sol-090 | Weapons of Mass Production | Amending the 2020 Thesis / Weapons of Mass Production / The End of Scarcity |
+| sol-094 | 377 Reasons Why | The OpenAI Mathematical Batch / GitHub and arXiv / The Pumpkin Coach |
+| sol-095 | Broken Filters | October 6 / Toppling the Editorial Function / Falling Trees in the Forest |
+| sol-097 | Angkor Was | Kardashev vs Speed of Transformation / Academia as We Know It Is Over / Acceleration Before Force |
+
+**Role:** the empirical test of Cluster 3 (AI). The corpus keeps its anti-doom position (sol-086–088) while
+documenting AI's impact on institutions built on scarcity of production (sol-090, sol-095, sol-097).
+CAUTION: OpenAI's results are claims (see logic-ref err-016).
+
+## Cluster 15 — French Unrest Chronicle (autumn 2026)
+| File | Title | Key Contribution |
+|------|-------|-----------------|
+| sol-093 | The Battlenetwork of the Present | What Would a Successful Revolution Mean? / Organized Force in Digital Times / The Battlenetwork |
+| sol-097 | Angkor Was | Kardashev vs Speed of Transformation / Academia as We Know It Is Over / Acceleration Before Force |
+| sol-098 | Naming Animals | This Time Is Different / Riots Without a Narrative / The Elusive Commander-in-Chief |
+| sol-099 | The Social Kaleidoscope | The End of the Shared Politeia / Information Technology as the Secret Engine of History / Means of (Media) Production |
+| sol-100 | The Pension under the Skirt | The Tartuffe Effect / Uncovering Surprises / Thermodynamics |
+
+Linked to the OmniCrisis prediction (sol-089) and to the Hyperpresent (sol-039).
+
+## Cluster 16 — Trust Architecture (constructive)
+| File | Title | Key Contribution |
+|------|-------|-----------------|
+| sol-083 | Hidden Ledger, Crouching Lagrange | Capitalism's Tool-Kit and Its Digital Equivalent / Two Defining Features of the Digital Revolution / Will vs Friction |
+| sol-101 | What We Carry Out of the Ruins | Trust as the Spine of Western History / Four Tiers and Four Complexes / Academia Is No Longer Viable |
+| sol-102 | Baryonic Trust | The Signature in a Digital Society / Public Commitment and Inverted Permanence / Three Requirements for a Digital Signature |
+
+Precursors: sol-000n (social Oracle problem), sol-000s (protocol design), sol-052 / sol-011d (Three Orders).
+
+## Additions to existing clusters (V16)
+- Cluster 6 (Predictive Framework and War): sol-072, sol-089 (Predictions Ledger), sol-092 (Sad Meridians).
+- Cluster 9 (Citizenship and Control): sol-064 (age verification), sol-078 (Bureaucrat Calculus).
+- Cluster 11 (Geopolitical Chronicle): sol-074, sol-075, sol-077 (Iran war: Versailles MOU and collapse).
+
+## Threads H–M (V16)
+- **Thread H — Predictions Ledger:** sol-051 -> sol-072 -> sol-089
+- **Thread I — Trust Architecture:** sol-000n -> sol-083 -> sol-101 -> sol-102
+- **Thread J — Fall of the Editorial Function:** sol-001 -> sol-017 -> sol-090 -> sol-094 -> sol-095 -> sol-097
+- **Thread K — ABC realized:** sol-000j -> sol-049 -> sol-064 -> sol-078
+- **Thread L — AI scepticism, updated:** sol-011 -> sol-012 -> sol-086 -> sol-087 -> sol-088
+- **Thread M — French Unrest Chronicle:** sol-093 -> sol-097 -> sol-098 -> sol-099 -> sol-100
+
+## Chronological phases (V16 — defined by publication date, superseding number-based lists)
+- P1 Exploration: up to July 2022
+- P2 Crystallization: August 2022 – December 2023
+- P3 Maturation: 2024
+- P4 System-building: January – October 2025
+- P5 Chronicle: November 2025 – April 2026 (incl. Iran War Chronicles sol-054–057 and Phase 5 arc sol-058–062)
+- P6 The Open Set: May – November 2026 (sol-063 – sol-102)
+The full file-by-file index with dates is in sol-000-fact-check-log.
 
 </content>
 </document>

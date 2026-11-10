@@ -8,6 +8,7 @@
   <type>Conceptual_Observation</type>
   <source_url>https://spearoflugh.substack.com/p/the-first-will-be-last</source_url>
   <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
 
   <relations>
     <prerequisite>sol-002</prerequisite>
@@ -90,38 +91,39 @@
   <fibralist_connection>
     <bridge_to_fibralist>fib-002 (Fiber as non-empty community: the empty abundance of social media — finger-pointing without structured knowledge acquisition — is precisely what Fiber membership is designed to counter through deliberate, DHL-1-scale human interaction that produces genuine knowledge transmission rather than engagement metrics)</bridge_to_fibralist>
   </fibralist_connection>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2022-07-10); content block replaced by the verbatim post text.</item>
+    <item status="CORRECTION">Previous content was a reconstruction (~12% of the text). Full verbatim text restored.</item>
+    <item status="NOTE">The "Blackberry mass extinction" in the text refers to the disappearance of keyboard phones; BlackBerry stopped designing phones in-house in 2016 and ended its legacy OS services on 4 January 2022.</item>
+  </fact_check>
 </metadata>
 
 <content>
-The article opens with the Heraclitus/Parmenides paradox: a waterfall is always changing and
-always the same — a natural reconciliation of flux and stasis. Social media is the cultural
-version: infinite novelty in a structure that never changes.
 
-Three paradoxes identified:
+# The First will be Last
 
-CONVERGENT ARTEFACT / DIVERGENT CONTENT: hardware has converged (one smartphone replaces
-TV, radio, newspaper, magazine) while content has exploded into radical divergence. Before:
-many artefacts, one shared reality. After: one artefact, infinite private realities.
-"My Twitter is not your Twitter, yet we are both on Twitter." The opposite of what
-technological convergence should produce.
+Waterfalls, turbulences in the wake of a boat and Twitter have this in common: they are never the same, yet they are always the same. If you look attentively to a waterfall you can discern ever-changing, constantly evolving, shapes. If you take a step back, or look at it more loosely, you just see the same thing over time. It is like a natural reconciliation of Heraclitus  and Parmenides. Social media offer a man-made, say a cultural, version of this neverending flux in constant stasis. My thesis is that it changed our appreciation of knowledge acquisition and our view of how we are in the world.
 
-EMPTY ABUNDANCE: the feed refreshes faster than absorption capacity, yet three hours of
-engagement leave no structured memory trace. Montesquieu (1721, Persian Letters, Letter CIX)
-already diagnosed this for newspapers: "Idleness feels flattered in reading them." The
-promise of collective intelligence fulfilled as collective finger-pointing. Ergodic
-consequence (sol-001): time on social media cannot average into wisdom because the
-information stream is not ergodic — what one person sees over time is not what many people
-see at one moment.
+### Diversity and unicity
 
-UBIQUITY WITHOUT PRESENCE: digital universalism (Starlink, Facetime, Periscope) promises
-to make everyone everywhere at all times. The result: otakus, basement warriors, Zoom
-meetings. Tourists mediating their physical presence through smartphones. Staying still
-and moving look alike more and more. The negative dimension of the Topological Revolution
-(sol-024i): what becomes more distant when everything becomes apparently closer is genuine
-embodied presence.
+The dream of the unique city (or rather the global village as the wording was in the early 90's) has come to fruition. More and more crowds over the world are looking similar to one another. When entering a subway you nowadays find people absorbed in their smartphones. From Paris to Buenos Aires passing by New York or Helsinki. Even electronic artefacts have converged towards a unique shape. Compare with the diversity of electronic portable equipment pre Iphone. Blackberry tried to escape the mass extinction level event of phones with actual keys but didn't made it. Yet everyone is looking at different things. Before the avent of the digital society there were many different artefacts to get the news: TV, radio, newspapers, magazines... yet they were all more or less talking about the same reality. The contrast with our times could not be more striking. Who could have guessed that extreme polarization would have come as a result of using the same object? All the users of a social media sees a different world (have a different feed) than his co-social media user. My Twitter is not your Twitter, yet we are both on Twitter.
 
-"I don't know if it is due to the extreme youth of the digital culture or if it is a
-profound phenomenon that is here to last. Time will tell."
+### Empty abundance
+
+> "THERE is a species of book unknown to us in Persia, and which seems to me to be very fashionable here: these are the journals. Idleness feels flattered in reading them"
+>
+> Montesquieu - Persian Letters - Letter CIX
+
+When you are driving on the highway you have the paradoxical feeling that you are moving very slowly while you are driving at the fastest legal pace. This appears like the dual of social media. On social media the flux of novelty never ends. You can refresh your feed more quickly than you can absorb information. There will never be a shortage of new tweets. Yet, how much have you learn after a 3 hours binge session of tweeting? More often than not you cannot make a summary of what you have done, even less *learned*, during this time. You don't even have a structured representation of what happened in your memory. The idea that internet was better than TV because it involves the viewer was very popular during the 90s. Basically it was the web 2.0: you had reactions live etc. It turned out that it was a very naive idea. At least a TV news show is a structured show. It can have biases but it represents a work of abstraction. This work has completely vanished. It took me a lot of practice to notice this single idea.
+
+We were promised all the wisdom of the world the and we ended up just finger pointing.
+
+### Ubiquitiy and Stillness
+
+Another supposed social media promise was that it was going to erase geographical constraints. Here again the never ending cycles of “the new thing” on social media is at work. This is also linked to what I called the Topological Revolution. Facetime, Twitch, Periscope etc. allow you to broadcast to the whole world live the movie of your life. All you need is a smartphone and an access to internet which is more and more pervasive. Starlink is starting to develop and will offer a trully global coverage in a few years: being in the middle of a desert, of an ocean, or in a country at war won't be an unsurpassable obstacle anymore. Everyone thinks to be everywhere at everytime. The paradoxical result here is that this new technological universalim as led to a culture that produces otakus, basement warriors and zoom meetings. Of course the COVID-crisis have accelerated this trend out of proportion but it was already there. It is a phenomenon very close to the proliferation of experts on the current thing. From your universal window you can make quick searches to learn basic facts with relation to the topic of interests and start exchanging about it, or rather project feelings you already had on it. There is no longer any need to physically move to be everywhere yet you are nowhere at the same time.  Because as you can see it in the picture above XXI° tourists are all mediating their access to real life through the same artefact. You have this paradoxical situation that people sitting on their basement are stating solutions for world crises like the climate crisis or the insurections on Sri Lanka, while people who are actually travelling are witnessing their journey through smartphones.
+
+The global picture appears to me as the waterfall. Moving or staying quiet in your house are different things yet they tend to look alike more and more. It is changing without changing. I don’t know if it is due to the extreme youth of the digital culture or if it is a profound phenomenon that is here to last. Time will tell.
+
 </content>
 
 </document>

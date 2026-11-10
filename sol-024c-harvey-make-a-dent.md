@@ -3,11 +3,12 @@
 <metadata>
   <doc_id>sol-024c</doc_id>
   <title>Harvey Make a Dent</title>
-  <date>2024-05</date>
+  <date>2024-05-27</date>
   <cluster>AI and Technology</cluster>
   <type>Philosophical_Analysis</type>
   <source_url>https://spearoflugh.substack.com/p/harvey-make-a-dent</source_url>
   <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
 
   <relations>
     <prerequisite>sol-000h</prerequisite>
@@ -70,24 +71,37 @@
   <fibralist_connection>
     <bridge_to_fibralist>fib-009 (Sesqui-Theonomy: the Fiber's moral architecture is precisely the institutional counter to Alea — judgment grounded in tradition and transmitted through intergenerational covenant, not outsourced to the dice)</bridge_to_fibralist>
   </fibralist_connection>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2024-05-27); content block replaced by the verbatim post text.</item>
+  </fact_check>
 </metadata>
 
 <content>
-There is this strange character in the Batman universe that makes his decision depending on the flip of a coin: Harvey Dent. As the uses of AIs based on statistics are increasing, it is becoming an ever more compelling allegory of our society. Machine learning may appear as very complex but they are "just" applied statistics. You can imagine multiple coin flipping but fundamentally it is not that different. Is Alea the hidden goddess of modern times ?
 
-## Statistics and Probabilities
+# Harvey Make a Dent
+
+There is this strange character in the Batman universe that makes his decision depending on the flip of a coin: Harvey Dent. As the uses of AIs based on statistics are increasing, it is becoming an ever more compelling allegory of our society. Machine learning may appear as very complex but they are “just” applied statistics. You can imagine multiple coin flipping but fundamentally it is not that different. Is Alea the hidden goddess of modern times ?
+
+### Statistics and Probabilities
 
 Proba/Stat is this strange branch of mathematics that pretends to have an influence on the real world. When you think of it is very strange. Physics, as a theory, has also the pretention to tell something about the world. The difference is that what physics says can be verified through experiments. Mathematics is completely detached from the world: no experience in the world can invalidate Pythagora's theorem. Yet probability theory, the expected return formula for instance, claims to have something to say about the world. Ironically you have to use proba/stats to check whether proba/stats are correct with relation to their predictions about the world…
 
-Setting aside those interesting epistemic issues, lets concentrate on the subject of this post: the ever growing use of statistics by everyone, everywhere, everyday through the massification of AI use. Like Harvey Dent more and more people, and institutions, will use AI to "help" them to take decision. We all know how much lazyness is natural amongst humans. Before you know it "help" will turn into "do it for me". The deflection of accountability will also plays its role — "but the machine told me to do it".
+Setting aside those interesting epistemic issues, lets concentrate on the subject of this post: the ever growing use of statistics by everyone, everywhere, everyday through the massification of AI use. Like Harvey Dent more and more people, and institutions, will use AI to “help” them to take decision. We all know how much lazyness is natural amongst humans. Before you know it “help” will turn into “do it for me”. The deflection of accountability will also plays its role — “but the machine told me to do it”.
 
 There is a lot to be said about the technical hazards linked to a blind faith in probabilities. Fat tail distribution events for instance. You can expect large scale disasters to occur when people will follow AI blindly. When then mean can be impacted by a single event, then AI will make things worse. But it is not my angle here. What I find most intriguing is the philosophical aspect: why one would entrust his future to a rolling dice ? Unlike Harvey Dent, there are more than two faces to this question.
 
-## Equity
+### Equity
 
-The use of random selection to conduct the affairs of the city is ancient. There is this recent work by Y. Sintomer on the subject. One interesting point is that randomness is seldom used to take decisions. Random selection was rather used as a substitute for polls/votes to nominate who is in charge rather than directly taking decisions. If externalizing the choice is understandable when you are trying to put limits to power grabbing, it is less so when making a life changing decision. The war on will, free or not, is of course directly linked to this. A theological reading of the situation could be: God made humans in his image, meaning that humans are able of creating. To do so they have to use their wills. Refusing to use the will, and to rather entrust chance appears as a demonic move.
+The use of random selection to conduct the affairs of the city is ancient.  There is this recent work by Y. Sintomer on the subject. One interesting point is that randomness is seldom used to take decisions. Random selection was rather used as a substitute for polls/votes to nominate who is in charge rather than directly taking decisions. If externalizing the choice is understandable when you are trying to put limits to power grabbing, it is less so when making a life changing decision. The war on will, free or not, is of course directly linked to this. A theological reading of the situation could be: God made humans in his image, meaning that humans are able of creating. To do so they *have to* use their wills. Refusing to use the will, and to rather entrust chance appears as a demonic move.
 
-But there was a direct way to see how generative AIs have a warped sense of reality (supposedly this particular issue has been patched). The point being that from a statistical point of view the importance comes more from numbers rather than by intensity. The "yes" when you are getting married has not the same intensity than the "yes" when you click on cookie policies. Of course the very technology of "attention" at the root of the transformers technology is an attempt at tackling with this issue. But most of the glitches in the matrix of generative AIs come from this original sin. You can't outpatch this issue. It is going to resurface everywhere. I think that this is the source of this uncanny valley effect. The erasure of will always produce a smooth probability distribution. You never bathe in the same river twice was this Heraclitus remark. Life is strictly more than repeated throws of dice.
+But there was a direct way to see how generative AIs have a warped sense of reality (supposedly this particular issue has been patched). Here is an example by  that is now few months old (and things move fast);
+
+Now remind that you can see on an image produced by generative AI is a very good tool to have an intuitive sense of what happens in the space of discourse. Indeed our global conversation is held on social media and shaped by AIs.
+
+[Linked post: The Social Media Mental Landscape]
+
+From a statistical point of view the importance comes more from numbers rather than by intensity. The “yes” when you are getting married has not the same intensity than the “yes” when when you click on cookie policies.  Of course the very technology of “attention” at the root of the tranformers technology is an attempt at tackling with this issue. But most of the glitches in the matrix of generative AIs come from this original sin. You can’t outpatch this issue. It is going to resurface everywhere. I think that this is the source of this *uncanny valley* effect. The erasure of will always produce a smooth probability distribution. You never bathe in the same river twice  was this Heraclitus remark. Life is strictly more than repeated throws of dice.
+
 </content>
 
 </document>

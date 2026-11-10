@@ -3,11 +3,12 @@
 <metadata>
   <doc_id>sol-010h</doc_id>
   <title>Maps and Meaning — A Topological Perspective</title>
-  <date>2023-05</date>
+  <date>2023-05-10</date>
   <cluster>Foundational Theory</cluster>
   <type>Theoretical_Extension</type>
   <source_url>https://spearoflugh.substack.com/p/maps-and-meaning-a-topological-perspective</source_url>
   <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
 
   <relations>
     <prerequisite>sol-002</prerequisite>
@@ -112,32 +113,48 @@
   <fibralist_connection>
     <!-- No direct bridge — this article is foundational/theoretical, not constructive -->
   </fibralist_connection>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2023-05-10); content block replaced by the verbatim post text.</item>
+    <item status="VERIFIED">Tucker Carlson announced his show's move to Twitter on 9 May 2023, the day before this post.</item>
+  </fact_check>
 </metadata>
 
 <content>
-There is not an opening line when you look at a map. Contrary to a text, you can start to explore from any point on a globe. Maps also have this strange property that when they are digitally implemented you can shift scales effortlessly. I am sure that you experience it almost everyday if you are using GPS based applications like Google Maps, Waze, Apple Maps etc. This is an overlooked way to learn new things. Overlooked in the sense that it is practiced but not really noticed nor thought about. There are those seldom remarks that projection of the globes on plane are not correct, either because they don't respect surfaces (typically on a Mercator projection Africa is almost the same size as Groenland) or angles (Mercator projection does indeed respect angles and is useful for navigation)… It is not possible to make the world flat without losing *something*. This is similar to thinking that every knowledge has a linear structure. When you linearize a body of knowledge you lose something. The fact that the story is written, told, or capture as a theatrical play/video doesn't change that you have a beginning, a development and an end.
+
+# Maps and Meaning - A Topological Perspective
+
+There is not an opening line when you look at a map. Contrary to a text, you can start to explore from any point on a globe. Maps also have this strange property that when they are digitally implemented you can shift scales effortlessly. I am sure that you experience it almost everyday if you are using GPS based applications like Google Maps, Waze, Apple Maps etc. This is an overlooked way to learn new things. Overlooked in the sense that it is practiced but not really noticed nor thought about. There are those seldom remarks that projection of the globes on plane are not correct, either because they don’t respect surfaces (typically on a Mercator projection Africa is almost the same size as Groenland) or angles (Mercator projection does indeed respect angles and is useful for navigation)… It is not possible to make the world flat without losing *something*. This is similar to thinking that every knowledge has a linear structure. When you linearize a body of knowledge you lose something. The fact that the story is written, told, or capture as a theatrical play/video doesn’t change that you have a beginning, a development and an end.
 
 Social media changes that.
 
-## The never ending story
+### The never ending story
 
-The ongoing conversations on social media has new and interesting properties. This idea of being able to zoom/dezoom is exactly what takes place in the different format in which you can publish things on the internet. The first example that comes to mind is the Twitter/Substack dynamics. At least when they were not waging war on one another. The idea of having different levels to hold a conversation is very natural: from a tweet to an article, passing by a complete substack devoted to a particular subject (like this one). The time frame of the discussion is also more gradual: you can have direct interactions (like in Twitter spaces) or very polished rebuttals.
+I already thought about that: namely that internet communication is something like the end of the end:
+
+[Linked post: The End has no End]
+
+But there is more to what I had in mind. The ongoing conversations on social media has new and interesting properties. This idea of being able to zoom/dezoom is exactly what takes place in the different format in which you can publish things on the internet. The first example that comes to mind is the Twitter/Substack dynamics. At least when they were not waging war on one another. The idea of having different levels to hold a conversation is very natural: from a tweet to an article, passing by a complete substack devoted to a particular subject (like this one). The time frame of the discussion is also more gradual : you can have direct interactions (like in Twitter spaces) or very polished rebuttals.
 
 The recent appearing of LLMs on the scene is just a new modality to continue the conversation by other means. What is interesting is that LLMs allow you to interact with knowledge in a new way: it is like having a living book with which you can converse about a theme. It adds a lot in the interactive part of exploring knowledge.
 
-LLMs are the Google Maps of text. They allow you to navigate, zoom in and out in texts. Instead of moving fingers on a map you interact with prompts. Chat GPT-4 is like Google earth for exploring what has been published.
+LLM’s are the Google Maps of text. They allow you to navigate, zoom in and out in texts. Instead of moving fingers on a map you interact with prompts. Chat GPT-4 is like Google earth for exploring what has been published.
 
-## Co-editing
+### Co-editing
 
-If it is clearer by the day on the front of knowledge consumption, what does happen on the production side? Most researchers are still in the 15-pages phase of history. I am lucky to be old enough, and tenured, to be able to escape this old, never ending (!), academical rat race. Most of my production is through multi modal communications. Either arxiv, talks, podcasts or blog posts one form or another. Now if I take a step back and look at my "work" there are echoes in many directions, but the whole is a strange thing. Nothing like Balzac's "La Comédie Humaine" (talent aside of course).
+If it is clearer by the day on the front of knowledge consumption, what does happen on the production side ? Most researchers are still in the 15-pages phase of history. I am lucky to be old enough, and tenured, to be able to escape this old, never ending (!), academical rat race. Most of my production is through multi modal communications. Either arxiv, talks, podcasts or blog posts one form or another. Now if I take a step back and look at my “work” there are echoes in many directions, but the whole is a strange thing. Nothing like Balzac’s “La Comédie Humaine” (talent aside of course).
 
-This is a global trend. Lately I was reviewing CVs and resumes (to select people for an engineering school). What stands out are the CVs pointing to a github, or youtube channels. There is also this one that struck me because the candidate confessed enjoying listening to Billie Eilish — I mean why not? But why did he thought it would be relevant to apply for a computer science engineering school — but this is another story. Or not: our lives are more and more online and the boundaries, between personal life, work and studies, that we were used to are no longer the same?
+This is a global trend. Lately I was reviewing CVs and resumes (to select people for an engineering school). What stands out are the CVs pointing to a github, or youtube channels. There is also this one that struck me because the candidate confessed enjoying listning to Billie Eilish - I mean why not ? but why did he thought it would be relevant to apply for a computer science engineering school - but this is another story. Or not: our lives are more and more online and the boundaries, between personal life, work and stuides, that we were used to are no longer the same?
 
 A similar pattern can be seen on the MSM front. The cable news era are gone. Maybe this is what E. Musk saw/tried to implement when he bought Twitter. Things happen outside of the legacy media. The latest episode, the move from Fox towards Twitter by T. Carlson being just a visible event.
 
-## On the Outside
+[Embedded video]
 
-One of the great malpractice in journalism is to get things out of their context. With our new mediatic environment there are even deeper things than the context. It is almost like we could access things under the surface of the globe. New information technologies at the same time create a complex new world and help us to navigate this new world. It goes way beyond the replacement of world show bizz stars by niche internet celebrities. We are witnessing a cultural shift of epic proportions. I don't know if we can understand it well. Maybe it is too early to think and it is just time to observe.
+### On the Outside
+
+One of the great malpractice in journalism is to get things out of their context. With our new mediatic environment there are even deeper things than the context. It is almost like we could access things under the surface of the globe. New information technologies at the same time create a complex new world and help us to navigate this new world. It goes way beyond the replacement of world show bizz stars by niche internet celebrities. We are witnessing a cultural shift of epic proportions. I don’t know if we can understand it well. Maybe it is too early to think and it is just time to observe.
+
+[Embedded video]
+
 </content>
 
 </document>

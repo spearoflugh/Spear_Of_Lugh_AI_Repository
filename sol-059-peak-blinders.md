@@ -8,6 +8,7 @@
   <type>Political_Essay</type>
   <source_url>https://spearoflugh.substack.com/p/peak-blinders</source_url>
   <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
 
   <relations>
     <prerequisite>sol-002</prerequisite>
@@ -112,76 +113,62 @@
     The spring 2023 date is stated explicitly as the author's empirically observed cutoff —
     cross-referencing the Silicon Dome Genesis Arc (sol-003b → sol-013e → sol-042 → sol-053).
   </context>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2026-04-21); content block replaced by the verbatim post text.</item>
+  </fact_check>
 </metadata>
 
 <content>
 
 # Peak Blinders
 
-Horse blinders are not a recent invention; they were already in use during Antiquity. Their use
-expanded significantly with the development of carriages and road transport during the Middle Ages
-and the Renaissance, when controlling animals in crowded areas became crucial. "The more one can
-do, the more control mechanisms are required." We can see — pun intended — how this eternal truth
-is embedded in our digital culture by observing recent transformations in the social media landscape.
+Horse blinders are not a recent invention; they were already in use during Antiquity. However, their use expanded significantly with the development of carriages and road transport during the Middle Ages and the Renaissance, when controlling animals in crowded areas became crucial. It is a case of “the more one can do, the more control mechanisms are required.” We can see—pun intended—how this eternal truth is embedded in our digital culture by observing recent transformations in the social media landscape. This same duality is also evident in the evolving geopolitical scene—a classic interplay typical of the digital revolution. Let’s first examine this before concentrating our analyzis to the social media world.
 
-## The Opening of the Geopolitical World
+### The opening of the geopolitical world
 
-At the conclusion of World War II, things appeared to have been settled once and for all. The UN
-was established to resolve disputes, and a Westphalian order was intended to govern the world:
-states could do as they pleased within their borders, but forbidden from altering the global
-political map by force.
+At the conclusion of World War II, things appeared to have been settled once and for all. The UN was established to resolve disputes, and a Westphalian order was intended to govern the world. In short: states could do as they pleased within their borders, but they were forbidden from altering the global political map by force.
 
-This world order is now crumbling. The first major crack was the Russian invasion of Ukraine.
-Since then, "special military operations" and territorial claims — from Venezuela to Iran, along
-with threats regarding Greenland — have multiplied. The UN is losing any relevance in those
-conflicts. Pakistan, not the UN, mediates between Iran and the USA.
+This system functioned more or less effectively until recently. Notably, it meant that most conflicts became civil wars. Instead of invading and annexing new territories, the goal shifted toward the proliferation of new entities through wars of secession. Consider the Yugoslav Wars spanning the 1990s. There were also numerous post-colonial conflicts aimed at “refining” the maps inherited from decolonization, generally by splitting oversized entities. Examples include Sudan, which has been in a near-constant state of war since 1955; the rise of Bangladesh (formerly East Pakistan) in the 1970s; the Eritrean–Ethiopian conflicts from the 60s to the 90s; and Biafra’s attempt to secede from Nigeria in the late 60s.
 
-## The Closing of the Virtual World
+This world order is now crumbling before our eyes. The first major crack was the Russian invasion of Ukraine. Since then, “special military operations” and territorial claims—from Venezuela to Iran, along with threats regarding Greenland—have multiplied. It is in this sense that I analyze the geopolitical world as being more open today. The UN is losing any relevance in those conflicts and negotiations between Iran and the USA are held with the help of Pakistan. The UN administration is a spectator at best.
 
-Dually, the virtual world — once viewed as a "Wild West" during the 90s — is becoming increasingly
-enclosed. The Declaration of the Independence of Cyberspace was once a document that could be taken
-seriously. Unlike physical space, cyberspace arrived with the promise of absolute liberty.
+### The closing of the virtual world
 
-This is where the allegory of social media blinders becomes particularly insightful. Blinders are
-not merely passive tools. In the Peaky Blinders mythology, they represent the razor blades hidden
-in caps, used to literally slice through eyeballs. The first parallel that springs to mind is that
-of "AI slop" content: narratives synthesized by GPUs and deployed by robots to steer public
-discourse into a labyrinth of half-truths. Because the time required to debunk these falsehoods
-far exceeds the narrow window of the discussion itself, these narratives actively dismantle any
-attempt at a rebuttal.
+Dualy, the virtual world—once viewed as a “Wild West” during the 90s—is becoming increasingly enclosed. Remember the peak optimism of the **“**global village**”**? Back then, the *Declaration of the Independence of Cyberspace* was still a document that could be taken seriously. Unlike physical space, cyberspace arrived with the promise of absolute liberty: on the internet, there were no borders.
 
-When Elon Musk bought Twitter, it felt like a wind of change. Change did arrive, though not
-necessarily the kind heralded. The control mechanisms evolved to become better suited for the
-digital age: you could say whatever you wanted — freedom of speech, right? However, the real shift
-lay in the manipulation of the algorithm: controlling what you see and who sees you. Boosting and
-throttling are granular, gradual processes; they are not binary choices like "publish" or "censor."
-A striking paradox: as our world becomes more digital, what was once binary has become gradual.
+Well, that was then. If you didn’t experience the internet of the 1990s, the shift is as difficult to grasp as trying to imagine air travel before 9/11.
 
-My number of followers stagnated on Twitter since spring 2023 — cut as clearly and as sharply
-manicured as a French formal garden.
+This is where the allegory of social media blinders becomes particularly insightful. During the COVID crisis, a massive debate erupted surrounding free speech and cancel culture. At the time, censorship still retained the flavor of the written culture: it was essentially the erasure of content deemed inappropriate by the powers that be.
 
-## The Other Manifesto
+But blinders are not merely passive tools. In the *Peaky Blinders* mythology, they represent the razor blades hidden in caps, used to literally slice through eyeballs. The first parallel that springs to mind is that of **“**AI slop**”**content: narratives synthesized by GPUs and deployed by robots to steer public discourse into a labyrinth of half-truths.
 
-The Palantir Manifesto was published on April 18, 2026 and is currently making the rounds. Palantir
-is a digital giant that essentially offers global surveillance as a service to major global players.
-Nation-states are Palantir's clients, not the other way around. This is a clear manifestation of
-the crumbling Westphalian order and a vindication of the idea that modern power operates more like
-a distributed system than a traditional top-down hierarchy.
+Because the time required to debunk these falsehoods far exceeds the narrow window of the discussion itself, these narratives actively dismantle any attempt at a rebuttal. How can liberal democracies—which implicitly rely on the existence of an open marketplace of ideas—possibly survive this?
 
-Social media blinders allow you to see only a fraction of what is actually happening. The ultimate
-goal is control — and control is most effective when internalized rather than explicit.
+When Elon Musk bought Twitter, it felt like a wind of change. Change did arrive, though not necessarily the kind that had been heralded. The control mechanisms evolved to become better suited for the digital age. In concrete terms, it became true that you could say whatever you wanted—freedom of speech, right? However, the real shift lay in the manipulation of the algorithm: controlling what you see and who sees you. Boosting and throttling are granular, gradual processes; they are not binary choices like “publish” or “censor.” A striking paradox emerges here: as our world becomes more digital, what was once binary has become gradual. As it is by nature something felt rather than seen, it is very hard to measure outside of my lived experience. There are numbers like the evolution of the number of followers that I have on twitter that more or less stagnated since then. Same thing can be seen on this Substack. I can even see it on the graph of my number of followers: spring 2023. How exactly and why remains a mystery but the trend was cut as clearly and as sharply manicured as a French formal garden.
 
-## The Next Fall
+### The other Manifesto
 
-French formal gardens reached their peak at the end of the Ancien Régime. The French kings used
-those gardens to state three things: (1) Man's dominance over nature, tamed by human intelligence
-and will; (2) Political power and order — the ability to govern with iron discipline; (3) The
-staging of social rank — an open-air theater forcing visitors to follow precise paths revealing the
-splendor of the chateau.
+The fact that the Palantir Manifesto was published yesterday and is currently making the rounds on social media is no coincidence. Palantir is a digital giant that essentially offers global surveillance as a service to major global players. Nation-states are Palantir’s clients, not the other way around.
 
-Every resemblance with modern social media is not coincidental. The kings of the day — the internet
-mega-corporations — are trimming your timeline just like the Sun King ordered his gardeners. And
-we all know, at least all French, how the dynasty ended.
+This is a clear manifestation of the crumbling Westphalian order and a vindication of the idea that modern power operates more like a distributed system than a traditional top-down hierarchy. It also signals the convergence of the geopolitical and virtual spheres that I mentioned earlier. The Manifesto can be found here:
+
+[Embedded X post]
+
+This is sufficiently important to deserve its own rebuttal. While it addresses questions very similar to those tackled by Fibralism, the solutions it proposes are vastly different. Suffice it to say that this is the first evidence of digital corporations beginning to acknowledge their geopolitical influence. We are seeing only the beginning of the war between the “Deep State” and the “Deep Tech.” This conflict will only be partially kinetic; most battles will be fought in cyberspace using tools like social media blinders.
+
+Social media blinders allow you to see only a fraction of what is actually happening. The ultimate goal is control—and control is most effective when it is internalized rather than explicit. You don’t need to know the civil code by heart to function in society because most social norms are internal and exist below the level of explicit rules.
+
+What is striking is that in cyberspace, only words and symbols exist. How, then, can one implement a culture “below the explicit” when the medium itself is entirely composed of explicit data? Unlike physical reality, where non-verbal cues convey subtle messages, digital space lacks these layers. The solution found in “blinders” is to simply withhold content that you otherwise would have seen. For instance, on X, I follow a thousand accounts. When I visit my “Following” timeline, the stream of posts is pruned as precisely as a French formal garden again—it represents nowhere near the actual volume published by those accounts. It is being throttled. By how much? I don’t know, but the effect is undeniable.
+
+### The next fall
+
+French formal gardens reached their peak at the end of Ancien Régime. The french kings used those garden to state three things:
+
+1. **Man’s Dominance over Nature:** Unlike the English garden, which seeks to mimic wild nature, the French formal garden (*jardin à la française*) tames it. This demonstrates that human intelligence and will can subdue the elements.
+2. **Political Power and a Taste for Order:** For a nobleman or the King, possessing such a garden was proof of his ability to govern his estate with iron discipline. The perspective, often stretching to infinity, symbolizes boundless ambition and control over the territory.
+3. **The Staging of Social Rank:** These gardens served as open-air theaters for festivities, ballets, and receptions. They were designed to impress visitors, forcing them to follow precise paths that gradually revealed the splendor of the chateau.
+
+Every resemblance with modern days social media arena are not coincidental. The kings of the day, the internet mega corporation, are trimming your timeline just like the Sun King ordered his gardeners — and we all know, at least all french, how the dynasty ended.
 
 </content>
 

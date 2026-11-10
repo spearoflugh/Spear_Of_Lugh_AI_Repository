@@ -3,11 +3,12 @@
 <metadata>
   <doc_id>sol-011d</doc_id>
   <title>The Web and the Rack</title>
-  <date>2022-12</date>
+  <date>2022-12-13</date>
   <cluster>Institutional Diagnosis</cluster>
   <type>Synthetic_Framework</type>
   <source_url>https://spearoflugh.substack.com/p/the-web-and-the-rack</source_url>
   <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
 
   <relations>
     <prerequisite>sol-002</prerequisite>
@@ -117,30 +118,44 @@
     <bridge_to_fibralist>fib-002 (The Three Orders framework sketched here — Fighters/Priests/Tiers État — is the direct conceptual ancestor of the Fibralist social architecture; the Fiber operates in the Tiers État layer, now newly able to coordinate without the intermediary of Priests/media)</bridge_to_fibralist>
     <bridge_to_fibralist>fib-009 (Sesqui-Theonomy: the legitimacy vacuum identified here — "cost function vs citizen" — is what Sesqui-Theonomy attempts to fill with a non-statist source of legitimacy)</bridge_to_fibralist>
   </fibralist_connection>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2022-12-13); content block replaced by the verbatim post text.</item>
+    <item status="VERIFIED">Thierry Breton's tweet "In Europe, the bird will fly by our 🇪🇺 rules. #DSA" dates from 28 October 2022.</item>
+  </fact_check>
 </metadata>
 
 <content>
-The "Ancien Régime" social order was at the image of many ancient societies. There were three orders: the fighters, the priests and the rest that was called "le tiers état" — literally meaning "what's left". It appears that the social order of celtic societies of the iron age in europe were also organized along similar tiers. This should not come as a surprise. Fighters and Priests are dual of one another: they are both extremes of the relations between ideas and reality. A fighter is someone that imposes his will on his foes: war and fight are pure reifications of will. On the other hand, priests are the ones that give to material experiences a transcendantal and metaphysical meaning. In some sense fighters transform ideas into reality while priests work the other way around. Between those two extremes lie the rest of the society for which both ways exist to a lesser degree. Since the French Revolution™ the "tiers-état" has gradually eaten the rest of society. Fighters are subjected to the political power (and not the other way around) and organised/traditional religion is vanishing in the western world. I see it at the end point of the written culture. Along with the technological progresses of information dissemination: printing, telegraph, radio, tv broadcast, the society was framed around the control of information. The editorial function, essentially what can be said by who and on what medium, became the nerve center of the society. Internet as soon as it became pervasive changed that in less than half a generation.
 
-## Shifting gears
+# The Web and the Rack
 
-Smartphones changed everything in less than a decade. In addition to being a portal between ideas and reality, smartphones are also portals between scales. You can jump, back and forth, from statistics to the individual as easily as you can open an app. It is possible to access any database in the world, while at the same time filling databases with data. This is how GAFAM make their bread and butter: by collecting information on your habits and building huge dataset of human preferences, they can have targeted advertising and whatnot. Political class noticed and they had their first runs during the covid crisis. The new avatar of this are the propositions of CDBCs that flourish around the world with remarkable synchronicity. With such a programmable money you can switch from macro to micro in a split second. In the same way that green health QR-codes became mandatory to live a normal life in post covid China.
+The  “Ancien Régime” social order was at the image of many ancient societies. There were three orders : the fighters, the priests and the rest that was called “le tiers état” — litteraly meaning “what’s left”. It appears that the social order of celtic societies of the iron age in europe were also organized along similar tiers. This should not come as a surprise. Fighters and Priests are dual of one another: they are both extremes of the relations between ideas and reality. A fighter is someone that imposes his will on his foes: war and fight are pure reifications of will. On the other hand, priests are the ones that give to  material experiences a transcendantal and metaphysical meaning. In some sense fighters transform ideas into reality while priests work the other way around. Between those two extremes lie the rest of the society for which both ways exist to a lesser degree. Since the French Revolution™ the “tiers-état” has gradually eaten the rest of society. Fighters are subjected to the political power (and not the other way around) and organised/traditional religion is vanishing in the western world. I see it at the end point of the written culture. Along with the technological progresses of information dissemination: printing, telegraph, radio, tv broadcast, the society was framed around the control of information. The editorial function, essentially what can be said by who and on what medium, became the nerve center of the society. Internet as soon as it became pervasive changed that in less than half a generation.
 
-The problem is that you lose something when you switch between scales. When you zoom in, context may be lost. When you zoom out, abstraction may confound things up to a point of absurdity. Now, when you go back and forth it is like when you use an automated translator from french to english then to spanish then to turk then back to french again. In theory you should have the same text at the end that at the start…
+[Image caption: Automation of Doomsday]
 
-## Code is administration
+### Shitfing gears
 
-"Code is Law" was the title of an influential article written by L. Lessig at the beginning of the XXI°. Internet was already accessible to a large public but there was not social media as we know them today. Connections to the internet were not as pervasive, nor worldwide spread, as they are today. You had to sit in front of a computer that had to be physically linked to the network. This little fact changed everything. One of the major issue talked about in Lessig's article was the perceived threat that code was going to replace the judicial system. The fear was that Internet was going to develop outside of the realm of democracy:
+Smartphones changed everything in less than a decade. In addition to being a portal between ideas and reality, smartphones are also portals between scales. You can jump, back and forth, from statistics to the individual as easily as you can open an app. It is possible to access any database in the world, while at the same time filling databases with data. This is how GAFAM make their bread and butter: by collecting information on your habits and building huge dataset of human preferences, they can have targeted advertising and whatnot. Political class noticed and they had their first runs during the covid crisis. The new avatar of this are the propositions of CDBCs that flourish around the world with remarkable synchronicity. With such a programmable money you can switch from macro to micro in a split second. In the same way that green health QR-codes became mandatory to live a normal life (whatever that means) in post covid China.
 
-> "When the interests of government are gone, other interests take their place"
+The problem is that you lose something when you switch between scales. When you zoom in, context may be lost. When you zoom out, abstraction may counfound things up to a point of absurdity. Now, when you go back and forth it is like when you use an automated translator from french to english then to spanish then to turk then back to french again. In theory you should have the same text at the end that at the start…
 
-What happened was actually the complete opposite. State is now in every application. The recent buy of Twitter by Elon Musk was revelatory in this respect — Thierry Breton immediately tweeted: "In Europe, the bird will fly by our EU rules. #DSA". A decade ago the regulatory apparatus would have not even noticed such a thing.
+### Code is administration
 
-The digital revolution has been even more radical: nowadays the state is using the digital technologies to administrate its citizen to a degree that has never been seen in human history. The western world had a glimpse of it during the two first year of the covid, China has experienced the most of it under the 0-Covid policy of 2022. Not only the state is regulating the digital world, it now uses it heavily to administrate the objective world. Like bank account became, step by step, mandatory, every citizen will now have to have a digital identity (certified by the state) that will, literally, open the guarded doors that pop up everywhere. More and more you will have to display the right digital authorization to live your life.
+“Code is Law” was the title of an influential article written by L. Lessig at the beginning of the XXI°. Internet was already accessible to a large public but there was not social media as we know them today. Connections to the internet were not as pervasive, nor worldwide spread, as they are today. You had to sit in front of a computer that had to be physically linked to the network. This little fact changed everything. One of the major issue talked about in Lessig’s article was the perceived threat that code was going to replace the judicial system.  was that the virtual life was going to escape the reach of justice and pursue its own path. The fear was that Internet was going to develop outside of the realm of democracy:
 
-At the moment of writing the next social order doesn't look very appealing. It is not clear where the legitimacy originates from: is it coming from the citizen or from the optimization of some cost function? It is not even self evident that the so-called elites are choosing the cost function (hint: remember how the covid-crisis played out). The situation is even worse than lacking alternative models. The uber control model that has arisen in this early digital age doesn't even look like emanating from an explicit thinking process (say unlike marxism). The image that comes to mind is the one of a twig washed away by the waves.
+> *When the interests of government are gone, other interests take their place*
+
+What happened was actually the complete opposite. State is now in every application. The recent buy of Twitter by Elon Musk was revelatory in this respect:
+
+[Embedded X post]
+
+A decade ago the regulatory apparatus would have not even noticed such a thing. Do you remember any political leader of importance having referred to MySpace ? I don’t think so.
+
+The digital revolution has been even more radical: nowadays the state is using the digital technologies to administrate its citizen to a degree that has never been seen in human history. The western world had a glimpse of it during the two first year of the covid, China has experienced the most of it under the 0-Covid policy of 2022. Not only the state is regulating the digital world, it now uses it heavily to administrate the objective world. Like bank account became, step by step, mandatory, every citizen will now have to have a digital identity (certified by the state) that will, litteraly, open the guarded doors that pop up everywhere. More and more you will have to display the right digital authorization to live your life.
+
+At the moment of writing the next social order doesn’t look very appealing. It is not clear where the legitimacy originate from: is it coming from the citizen or from the optimization of some cost function? It is not even self evident that the so-called elites are choosing the cost functio (hint: remember how the covid-crisis played out). The situation is even worse than lacking alternative models. The uber control model that has arisen in this early digital age doesn’t even look like emanating from an explicit thinking process (say unlike marxism). The image that comes to mind is the one of a twig washed away by the waves.
 
 The Long Night is coming. Time is running out.
+
 </content>
 
 </document>

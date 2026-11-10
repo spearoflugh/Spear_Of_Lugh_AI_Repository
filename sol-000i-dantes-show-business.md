@@ -3,11 +3,12 @@
 <metadata>
   <doc_id>sol-000i</doc_id>
   <title>Dante's Show Business</title>
-  <date>2023-03</date>
+  <date>2023-03-14</date>
   <cluster>Institutional Diagnosis</cluster>
   <type>Pre_Foundational_Chronicle</type>
   <source_url>https://spearoflugh.substack.com/p/dantes-show-business</source_url>
   <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
 
   <relations>
     <is_precursor_of>sol-004</is_precursor_of>
@@ -59,38 +60,56 @@
   <fibralist_connection>
     <bridge_to_fibralist>fib-002 (Fibralist Manifesto: the collapse of the middleground is precisely the institutional gap that Fibralism proposes to fill — the Fiber as a scale-shifting institution that is neither state nor individual)</bridge_to_fibralist>
   </fibralist_connection>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2023-03-14); content block replaced by the verbatim post text.</item>
+    <item status="VERIFIED">Tucker Carlson aired previously unreleased January 6 Capitol footage on 6–7 March 2023, a week before this post (14 March 2023).</item>
+  </fact_check>
 </metadata>
 
 <content>
-I have always been struck by the opening verses of Dante's Inferno:
+
+# Dante's Show Business
+
+I have always been struck by the opening verses of Dante’s Inferno:
 
 > In the middle of the journey of our life I came to myself within a dark wood where the straight way was lost.
 >
 > Ah, how hard a thing it is to tell what a wild, and rough, and stubborn wood this was, which in my thought renews the fear!
 >
-> The very thought of it renews my fear! It is so bitter death is hardly more so.
+> The very thought of it renews my fear!  It is so bitter death is hardly more so.
 > But to set forth the good I found I will recount the other things I saw.
 >
-> How I came there I cannot really tell, I was so full of sleep when I forsook the one true way.
+> How I came there I cannot really tell, I was so full of sleep  when I forsook the one true way.
 
 Recent events have awaken me more than words can express. I expected that our institutions were going to topple down, just like in the story of Babel. I was not expecting that it would look like that though. It is one thing to apprehend events from an abstract/theoretical point of view, it is another thing to witness how it manifests itself in real life. My starting point was this one: new information technologies have an impact in our culture that goes more profoundly and powerfully than the one coming from the invention of the printing press. Our institutions are not fit for this new instance of humanity. It is not like the decrepitude of instutions is something new. It happens again and again in the Bible. Institutions are constantly crumbling before being rebuilt, before a new Alliance is formed. One way to interpret the Bible is to realize how this scheme (among others) is repeated as a fractal motive at every scale throughout the books. Just like Dante is suddenly awakened at the beginning of the Divine Comedy and is feeling lost, I have this feeling of finding myself in front of dark wood, with no straight way in front of me.
 
-## The Farce must go on
+### The Farce must go on
 
-The release of video footage of January 6 has struck me hard, and believe me I had low standard to start with regarding my trust in institutions. I don't really care about what T. Carlson said. As far as I know, no one, among all the rage that this release unleashed, accused the footages as being monitored or false. All the comments were more like lightning rods and about T. Carlson's interpretation of the facts. The point is not here. You can spin the things all the way you like but there are things you can see with your own eyes:
+The release of video footage of January 6 has struck me hard, and believe me I had low standard to start with regarding my trust in institutions. I don’t really care about what T. Carlson said. As far as I know, no one, among all the rage that this release unleashed, accused the footages as being monitored or false. All the comments were more like lightning rods and about  T. Carlson’s interpretation of the facts. The point is not here. You can spin the things all the way you like but there are things you can see with your own eyes:
 
 1. the horn guy is alone, not at the forefront of a crowd of insurectionists.
-2. He is escorted by dozens of police officers who don't make a single move to stop him. Instead it appears that they show him how to navigate inside the captiol (they try to open doors for him).
+2. He is escorted by dozens of police officers who don’t make a single move to stop him. Instead it appears that they show him how to navigate inside the captiol (they try to open doors for him).
 3. The guy got sentenced 41 months of jail.
 4. Those footages were not discussed during the trial.
 
-The point is not to judge whether things are good or bad. You just can't tell me that what has been released are the footages of a full blown insurrection, or something along the lines of "the worst thing since the civil war blabla". The depiction of the events by the mainstream media, the political class and even the department of justice is nothing short of a farce. As far as I am concerned this is the final nail in the coffin. I have no longer any trace of trust in the mainstream media. The straight line is lost. It is time to go deep in the dark wood.
+This is what a usual, usual as “once a week for months”, yellow vest riots looks like:
 
-## Distributed Guerillas
+[Embedded video]
 
-Mail and Twitter are two very different kind of social media. They are used for polar opposite things. Mail is like your home: this is the place where things are predictable and safe. Most of the time you know whou you are talking to and why. Twitter is more like the dark woods: this is a place where you can find treasures and monsters. In this landscape the mainstream median should occupy a middle ground: on one hand it is not as predictable as mail, but on the other hand it shouldn't be a place where you can find everything and its polar opposite versions. It should be a place of consensus, or at least where the consensus is built, on what is happening in the world. Now look at what has unravelled on the course of the last few years: traditional media have lost most of their market shares, mainly because of the development of social media. MSM had no other choice than to get money from other sources. It is even more pronounced and direct in Europe than in the US, but most of the income of large platforms is now coming from institutions. And guess what… are MSM going to bite the hand that feeds them? So gradually journalism has left the "questionning the institutions" stance in favour of becoming the new guards of the temple (fact checking, I am the science, I am the single source of truth etc.).
+The point is not to judge whether things are good or bad.
+
+You just can’t tell me that what has been released are the footages of a full blown insurrection, or something along the lines of  “the worst thing since the civil war blabla”.
+
+The depiction of the events by the mainstream media, the political class and even the department of justice is nothing short of a farce.
+
+As far as I am concerned this is the final nail in the coffin. I have no longer any trace of trust in the mainstream media. The straight line is lost. It is time to go deep in the dark wood.
+
+### Distributed Guerillas
+
+Mail and Twitter are two very different kind of social media. They are used for polar opposite things. Mail is like your home: this is the place where things are predictable and safe. Most of the time you know whou you are talking to and why. Twitter is more like the dark woods: this is a place where you can find treasures and monsters. In this landscape the mainstream median should occupy a middle ground: on one hand it is not as predictable as mail, but on the other hand it shouldn’t be a place where you can find everything and its polar opposite versions. It should be a place of consensus, or at least where the consensus is built, on what is happening in the world. Now look at what has unravelled on the course of the last few years: traditional media have lost most of their market shares, mainly because of the development of social media. MSM had no other choice than to get money from other sources. It is even more pronounced and direct in Europe than in the US, but most of the income of large platforms is now coming from institutions. And guess what… are MSM going to bite the hand that feeds them? So gradually journalism has left the “questionning the institutions” stance  in favour of becoming the new guards of the temple (fact checking, I am the science, I am the single source of truth etc.).
 
 It looks like we have reached a point where the middleground has disapeared. MSM cannot be trusted at all. They are neither the homes nor the woods, they have succeeded in combining the worst of both worlds. This is an issue because we need intermediary institutions: shifting scales while maintaining pertinence is the hardest job on earth.
+
 </content>
 
 </document>

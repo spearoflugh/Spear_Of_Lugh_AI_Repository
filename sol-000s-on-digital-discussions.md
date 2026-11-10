@@ -8,6 +8,7 @@
   <type>Pre_Foundational_Technical</type>
   <source_url>https://spearoflugh.substack.com/p/on-digital-discussions</source_url>
   <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
 
   <relations>
     <related_to>sol-003</related_to>
@@ -89,33 +90,40 @@
   <fibralist_connection>
     <bridge_to_fibralist>fib-004 (Fiber as protocol: the Lamfada question — should discussion structure be at the protocol or implementation level? — is answered in fib-004 where Fiber is designed as a human-scale protocol that includes community governance norms at the implementation layer, with only identity and publication at the protocol layer)</bridge_to_fibralist>
   </fibralist_connection>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2021-05-01); content block replaced by the verbatim post text.</item>
+    <item status="CORRECTION">The previous content block was a short reconstruction (~2% of the text). Full verbatim text restored.</item>
+    <item status="NOTE">"The End has no End" (9 March 2021) is revisited five years later in sol-063 (Closure and Leisure).</item>
+  </fact_check>
 </metadata>
 
 <content>
-Written in the context of the Lamfada project — a 2021 attempt at building a decentralized
-social media protocol — this article addresses the architectural question of whether digital
-discussion structure should be encoded at the protocol level or left to implementation.
 
-Key distinction: SMTP handles sender identity, recipient identity, and message text at the
-protocol level. Threading ("Re:" conventions) emerged as practice at the implementation level.
-The question: should social media protocols follow the same split?
+# On digital discussions
 
-Author's position: publication (the message, its timestamp, its author identity) belongs
-at the protocol level. Discussion structure (threading, reply hierarchies) belongs at the
-implementation level — too varied across communities to standardize. Moderation (shadow-banning
-vs deletion) belongs entirely outside the protocol and at the community discretion level.
+The key features of social media communication are that, in addition to the message, it is paramount to know *who* published the message and *when* it was published. The “when” part is actually needed to provide context: your opinions may change as you are gathering more information.  The most direct way to address this is to put a timestamp on the publication. The timestamp is an “absolute” information, something like the number of seconds since 1970 or the “Unix Time”. But we all know that the context on which a statement is published can also be relative to a conversation: when you are discussing and idea with someone, or a group, the sheer succession of arguments is more important than the exact instant when it was made. It is especially true in our digital society: more and more discussions are held online asynchronously and not locally. The aim of this essay is to think out loud about some aspects of digital discussions.
 
-Structural observation with lasting corpus relevance: the bad-faith/good-faith fight is
-asymmetric. A few trolls can derail many good-faith participants because destruction is
-cheaper than construction. Shadow-banning (rendering interventions invisible without removing
-them) is preferable to deletion (which creates martyrs) precisely because it preserves the
-protocol's neutrality while managing the asymmetry at the implementation layer.
+[Image caption: The maieutic technology to discover truth]
 
-Historical significance: earliest documented trace of the author's constructive impulse.
-The Lamfada project (discontinued) was the predecessor of The Fibralist Corner — both are
-attempts to build alternatives to the diagnosed failures of digital communication platforms.
-The diagnostic (Spear of Lugh) and constructive (Lamfada → Fibralist) threads were parallel
-from 2021, not sequential.
+I am writing this in the context of the Lamfada project. My concern is the following: are discussions an atomic part of social media? Shall there be something like a discussion, and if yes with what properties, at a protocol level? Or are discussions something that should be built on top of a publication protocol? If you take the raw SMTP protocol for instance there is nothing in it regarding how the conversation is conducted (what message is a reply to what message etc.). SMTP basically considers the identity of the sender, the identity of the recipient, and the text of the message.  Now, if you consider modern mail clients, they can organise messages as conversations using the “Re:” to sort out messages with relation to one another. It is a standard practice that emerged from the practice but that is not a part of the protocol itself.
+
+---
+
+When we think at the social media we do not only think at a set of publications but also at how those publications are related to one another. The links between publications can be person oriented (e.g. your friendship relations within the Facebook graph) or subject oriented (e.g. Twitter and the use of hashtags) or explicitly expressed within the publication itself (html links on a blog article for instance).  Those features are peculiar to digital conversations. Indeed, before the digital era, conversations were held live: the people participating to the conversation were present (and the conversation ended at some point). The closest thing approaching those kind of discussions were the very high level (in the sense that only a tiny elite was participating) discussions conducted through newspapers like the famous Dreyfus affair and “J’accuse” article of Emile Zola.
+
+[Image caption: Social Media - XIX° edition]
+
+Many solutions have been proposed in the digital era. From comments moderation of blog articles to retweet and muting/blocking of individuals. The scope of people allowed to intervene also: by default based on your friendship topology as in Facebook or wide open as in Twitter. A first problem appear because of the following clash of principles:
+
+1. Every publication is eternal and not mutable.
+2. You are the last ditch editor of your conversations.
+
+At the end of the day, being the editor of your discussion means that you can delete publication which is in clear opposition to the principle that published content becomes like an idea. This editing is required because of bad faith actors that can make conversations impossible. It is actually a very asymmetrical fight: a few trolls may derail conversations involving many more good faith actors. The only solution seems to be something like “muting” those bad faith actors. You do not prevent them from posting (freedom of publication must prevail) but shadow ban them: make their interventions irrelevant. There are many ways to do this and it is not clear at the time of writing if there is a canonical one. That is why I think it should be left outside of the protocol layer.
+
+I have roughly the same kind of arguments regarding how a conversation is structured: there are many ways to organize conversation and no way seem to be more fundamental than the other one. I am less convinced regarding this because reacting to a message is pretty clear and it is part of the social feedback that is paramount in social media. But it seems to be more at the level of best practice but it has to be facilitated at the protocol level. When you publish a content you should have tools to help you to know how it has been received, what are the reactions etc. Something like backlinks looks sensible. But how exactly (different kinds of backlinks? how do you indicate what reactions you think are not worthy etc.) will be the subject of further thinking.
+
+Do not hesitate to join the Lamfada forum if you want to participate in the Lamfada project by  talking about this subject and others linked to the set up of a protocol for a decentralized social media.
+
 </content>
 
 </document>

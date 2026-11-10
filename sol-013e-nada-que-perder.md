@@ -3,11 +3,12 @@
 <metadata>
   <doc_id>sol-013e</doc_id>
   <title>Nada que perder — Mirame Reir — Volvemeros a Salir</title>
-  <date>2023-02</date>
+  <date>2023-02-02</date>
   <cluster>Narrative Control</cluster>
   <type>Phenomenological_Analysis</type>
   <source_url>https://spearoflugh.substack.com/p/nada-que-perder-mirame-reir-volvemeros</source_url>
   <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
 
   <relations>
     <prerequisite>sol-010e</prerequisite>
@@ -117,38 +118,49 @@
   <fibralist_connection>
     <bridge_to_fibralist>fib-006 (Calendar as Memory / Keel: the physical hygiene prescription — unplugging as brushing teeth — is the individual-scale version of what the Keel does at the institutional scale: maintaining a non-digital anchor that resists attentional capture)</bridge_to_fibralist>
   </fibralist_connection>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2023-02-02); content block replaced by the verbatim post text.</item>
+  </fact_check>
 </metadata>
 
 <content>
+
+# Nada que perder - Mirame Reir - Volvemeros a Salir
+
 There is this zombie apocalypse movie in which zombies are mesmerized by fireworks. The heroes use the fireworks to attract the attention of zombies so they can do their stuff. Everything goes as planned until an exceptionally intelligent living-dead individual learns the trick, and all hell breaks loose.
 
 Any resemblance to real persons, living or dead, is not coincidental at this point. I am sure that you have noticed how the crowds have changed over the last decade. Gazes are lowered, heads are bowed, and hands are raised. Like the ring to bring them all, smartphones attract our attention as efficiently as blue lights hypnotize mosquitoes on their way to their electrifyed death.
 
-## Hypnosis as a service
+[Image caption: Fireworks]
 
-The medical definition of hypnosis is the following:
+### Hypnosis as a service
 
-> "A trance-like state in which a person becomes more aware and focused on particular thoughts, feelings, images, sensations, or behaviors."
+The medical definition of hypnosis is the following
 
-Now think of yourself paying more attention to the small screen in the palm of your hand than to the surrounding world. It's like all your mind is sucked into the smartphone. I'm sure you've already felt that feeling. We thought that smartphones were universal remote controls — from Uber (transportation) to Deliveroo (food), and Airbnb (shelter), this artifact can operate like a magic wand. By invoking an appropriate magic formula and having enough power (a bank account with sufficient funds), you can alter reality. It really sounds like magic: it indeed has all the markers of magic in literature. Magic comes with its lot of problems. Fantasia being one of the ways to illustrate how things can go awry faster than you think when you are playing way over your league without caution.
+> “A trance-like state in which a person becomes more aware and focused on particular thoughts, feelings, images, sensations, or behaviors.”
 
-It happens to me once in a while to wake up in the middle of my commute, like going off the hook. I can physically feel it. Then I realize how alone we are in modern crowds. The Matrix idea of going out of the virtual world using a phone is not really far from that ironically. It is a kind of dual version: it is by putting the phone down that you are disconnected from the network.
+Now think of yourself paying more attention to the small screen in the palm of your hand than to the surrounding world. It's like all your mind is sucked into the smartphone. I'm sure you've already felt that feeling. We thought that smartphones were universal remote controls - from Uber (transportation) to Deliveroo (food), and Airbnb (shelter), this artifact can operate like a magic wand. By invoking an appropriate magic formula and having enough power (a bank account with sufficient funds), you can alter reality. It really sounds like magic: it indeed has all the markers of magic in literature. Magic comes with its lot of problems. Fantasia being one of the ways to illustrate how can things can go awry faster than you think when you are playing way over your league without caution.
 
-This state of hypervigilance towards a single point of attention is the most powerful form of manipulation that has ever existed. The theory of mass formation is convincing, and the technological environment plays a major role that is underdiscussed. It provides the tools by which crowds can be led without even noticing it. After all, no one is forcing you to use a given app, or surf a given website, right? Because taking control over your attention is actually taking control over you. Once the attention is channelled it is relatively straightforward to set up constraints so that there are no real choices anymore. Does the expression "rat race" rings a bell? Welcome to the XXI°, the "rat race" is no longer limited to your life as a whole. It is true at the smallest level. It has become a multi-level "rat-race". Just like matryoshka mazes locked inside each other.
+It happens to me once in a while to wake up in the middle of my commute, like going off the hook. I can physically feel it. Then I realize how alone we are in modern crowds. The Matrix idea of going out of the virtual world using a phone is not really far from that ironically. It is a kind of dual version: it is by puting the phone down that you are disconnect from the network.
 
-## Unplugging
+This state of hypervigilance towards a single point of attention is the most powerful form of manipulation that has ever existed. The theory of mass formation is convincing, and the technological environment plays a major role that is underdiscussed. It provides the tools by which crowds can be led without even noticing it. After all, no one is forcing you to use a given app, or surf a given website, right? Because taking control over your attention is actually taking control over you. Once the attention is channelled it is relatively straightforward to set up constraints so that there are no real choices anymore. Does the expression “rat race” rings a bell? Welcome to the XXI°, the “rat race” is no longer limited to your life as a whole. It is true at the smallest level. It has become a multi-level “rat-race”. Just like matryoshka mazes locked inside each other.
 
-The truism that you need to write, hence use words, to think, is wrong. Maybe words are necessary if you want to crystalize your thoughts and communicate them to others. I am not even sure of that, you can communicate via shared experience, dance, moves… What is sure is that when you are interacting through social media you are using words. This aspect, in and of itself, cuts you off from the experience of the world. The world is not limited to words. So one way to break the spell is to unplug. Easy to say, harder to implement. Maybe we should understand that really unplugging from the network is like brushing teeth: a part of daily hygiene. It has to be something physical.
+### Unplugging
+
+The truism that you need to write, hence use words, to think, is wrong. Maybe words are necessary if you want to crystalyze your thoughts and communicate them to others. I am not even sure of that, you can communicate via shared experience, danse, moves… What is sure is that when you are interacting through social media you are using words. This aspect, in and of itself, cuts you off from the experience of the world. The world is not limited to words. So one way to break the spell is to unplug. Easy to say, harder to implement. Maybe we should understand than really unplugging from the network is like bruhsing teeths: a part of daily hygiene. It has to be something physical.
 
 A walk in the park, nowadays, is not as easy as the expression.
 
-## Serendipity
+### Serendipity
 
 The last micro event of the Twitter sphere, the fact that if you set your profile as private it appears that your reach is less limited, adds a new layer to the issues discussed in this essay.
 
-Not only are you hypnotised by the new information technologies, it turns out that this hypnotic artefact is also tailored to your profile and interactions. You may well know that your access to the world is mediated via an Artificial Intelligence, it is easy to forget that it is the same for everyone else. It is invisible in a very basic way: you can't see what would the world have been if it were not tweaked. The fact that intuitively many users have felt that the algorithm changed might be seen as the remaining errors on images generated by AI: you have a wrong number of fingers etc. But this proves that changing how information is spread actually changes the discussion, which is what is at the heart of this essay: you don't need to force people to direct their thoughts and speech. Just by tinkering a bit about their perception of the world is more than enough. I suspect that even the sequence of tweets (for the same set of tweets) has an influence: seeing A then B is not the same as seeing B then A on your TL. On individual tweets it may appear very slight. The recent Twitter events have shown that it matters much more than I expected.
+[Embedded X post]
 
-The Global Guerrillas long night promises to be accompanied by a long nightmare.
+Not only are you hypnotised by the new information technologies, it turns out that this hypnotic artefact is also tailored to your profile and interactions. You may well know that your access to the world is mediated via an Artificial Intelligence, it is easy to forget that it is the same for everyone else. It is invisible in a very basic way: you can’t see what would the world have been if it were not twicked. The fact that intuitively many users have felt that the algorithm changed might be seen as the remaining errors on images generated by AI: you have a wrong number of fingers etc. But this proves that changing how information is spread actually changes the discussion, which is what is at the heart of this essay: you don’t need to force people to direct their thougts and speech. Just by tinkering a bit about their perception of the world is more than enough. I suspect that even the sequence of tweets (for the same set of tweets) has an influence : seing A then B is not the same as seing B then A on your TL. On individual tweets it may appear very slight. The recent Twitter events have shown that it matters much more than I expected.
+
+The   long night promises to be accompanied by a long nightmare.
+
 </content>
 
 </document>

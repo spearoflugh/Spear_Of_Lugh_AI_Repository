@@ -8,6 +8,7 @@
   <type>Political_Chronicle</type>
   <source_url>https://spearoflugh.substack.com/p/omniconvergence</source_url>
   <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
 
   <relations>
     <prerequisite>sol-002</prerequisite>
@@ -118,76 +119,60 @@
     is cited (printing press era ending 2026, dawn of autonomous non-living entities).
     The article opens the Iran War Chronicles cluster (sol-054 → sol-055 → sol-056 → sol-057).
   </context>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2026-03-17); content block replaced by the verbatim post text.</item>
+  </fact_check>
 </metadata>
 
 <content>
 
 # Omniconvergence
 
-The war in Iran is entering its third week. Despite a marked absence of free discussion on
-social media regarding the conflict — with fake AI videos being the most prominent trend —
-many important lessons can already be drawn.
+The war in Iran is entering its third week. Despite a marked absence of free discussion on social media regarding the conflict—with fake AI videos being the most prominent trend—many important lessons can already be drawn. Of course, the war is not over yet, and the fog of war remains as thick as ever. However, taking a broader perspective, recent events suggest that we are approaching the end of a civilizational arc. Take, for instance, this Tweet by
 
-Taking a broader perspective, recent events suggest that we are approaching the end of a
-civilizational arc. The printing press era is ending in 2026, and we are witnessing the dawn
-of autonomous non-living entities. Physical reality increasingly mirrors the characteristics
-of early digital life, and vice-versa.
+To his timeline I would add two data points : the printing press era ending in 2026, and the dawn of autonomous non-living entities.
 
-## Net and Navigation Neutrality
+The first point is about the fact that we are entering the digital age and the second comes from the pairing of robotics and AI. Autonomous taxis are the most visible manifestation of this trend.
 
-Freedom of navigation in international waters has been taken for granted since the end of WWII.
-This system functioned because the US Navy ruled the seas, as the Royal Navy did before it.
-Under British hegemony, flying the Red Ensign was necessary for White Ensign protection —
-freedom of navigation was not neutral, it required paying UK taxes. After 1945, the US extended
-protection to all, securing the reserve currency status in exchange, and shipowners simply chose
-the country with the fewest constraints (flags of convenience).
+The end of one era signals the dawn of another. As the final data point suggests, we are moving past the age of inanimate, non-autonomous objects. The most salient feature of this transition is that physical reality increasingly mirrors the characteristics of early digital life and vice-versa. Lets examine few examples.
 
-Everything has shifted: Iran has moved to shut down the Strait of Hormuz selectively — Chinese,
-Indian, and vessels not linked to the US or Israel may pass. Neutrality has been shattered, and
-we have returned to credential-based access on the physical commons.
+[Image caption: Navigation neutrality implementation]
 
-The irony is that this is a copycat of what occurred in virtual space. The battle for net
-neutrality was fierce during the early days of the internet — discussions began in 1996. Thirty
-years later, internet access is largely dependent on ZIP code, among many other factors. The
-surging use of VPNs is the digital flag of convenience.
+### Net and navigation neutrality
 
-## Mutually Assured Dronization
+Freedom of navigation in international waters has been taken for granted since the end of WWII. This system functioned because the US Navy ruled the seas, much like the Royal Navy did before it. A side effect of US neutrality regarding maritime transit was the development of entire fleets under flags of convenience. Why bother paying taxes when a Bahamian flag offered the same level of protection as a European one?
 
-The Samson Option is Israel's doctrine of existential nuclear deterrence. But the onset of the
-war in Iran demonstrates that deterrence can now operate at the tactical level without nukes.
-Despite their undisputed military supremacy, the USA has been unable to reopen the Strait of
-Hormuz. With relatively modest tools — drones or mines — the threat to commercial vessels is
-simply too high.
+During the era of British hegemony, you had to fly the Red Ensign to be protected by the White Ensign. Pirates knew better than to mess with Red Ensign ships if they wanted to avoid being hunted by the world’s most powerful navy. Freedom of navigation was not neutral; it was in your best interest to pay UK taxes to ensure protection.
 
-Nation-states can no longer control the world as they once did. Power is increasingly behaving
-like a distributed system. Faced with such threats, insurance companies withdraw their coverage,
-and no one dares cross the strait. Iran has succeeded in blocking 20% of global oil exports using
-a handful of Shaheds, each costing less than a standard SUV. Nation-states can no longer, by
-themselves, guarantee the safety of the commons. Peace has become the result of a distributed
-system involving a wide array of non-state actors.
+Everything changed after 1945 when the US took over. This wasn’t ‘for free,’ as they secured the status of the world’s reserve currency in the process. The unintended consequence was that, since everyone was implicitly covered by the US Navy, shipowners simply chose the country with the fewest constraints.
 
-## Discretization of the World
+However, everything has shifted in the last two weeks. Iran has moved to shut down the Strait of Hormuz—though not entirely. In fact, according to their latest statements, Chinese, Indian, and any vessels not linked to the US or Israel may pass. Neutrality has been shattered, and we have returned to a far more complex geopolitical landscape on the high seas.
 
-The concept of a front line is vanishing in the digital age. This conflict makes that reality
-clear: we are witnessing a war between three nations that do not share a single kilometer of border.
+The irony is that this is copycat of what occurred in virtual space. The battle for net neutrality was fierce during the early days of the internet. Discussions surrounding this concept began in 1996—thirty years ago. At the time, it seemed crucial that “Internet service providers (ISPs) must treat all Internet communications equally, offering users and online content providers consistent transfer rates regardless of content, website, platform, application, type of equipment, source address, destination address, or method of communication” (from Net Neutrality wikipedia page). Thirty years later, you know as well as I do that your internet access is largely dependent on your ZIP code, among many other factors. Have you noticed the surging use of VPNs lately? A kind of digital flags of convenience…
 
-Furthermore, it is a war that is simultaneously hyper-localized and widespread. Because strikes
-have never been this precise, combat takes the form of "bursts" — a missile or drone strike
-followed by immediate destruction, then silence. Contrast this with Guderian's Panzer divisions
-sweeping across Northern France during WWII, or the 2003 US invasion of Iraq: wars of movement
-and continuous presence. This is a war of distributed blows — but with paradoxically global
-impacts: the explosion of a drone on a tanker made the price of oil cross $100.
+### Mutually Assured Dronization
 
-Now what happens when the White House or the Ayatollah tweets a message? It is an isolated,
-small event that can lead to global effects.
+The Samson Option is the name given to Israel’s doctrine regarding the use of nuclear warheads: if Israel is threatened with annihilation, it will destroy its enemies along with itself—much like Samson pulling down the temple pillars upon the Philistines and himself. This is a doctrine of existential deterrence, not a tactical one.
 
-## Omniconvergence
+However, the onset of the war in Iran demonstrates that deterrence can now operate at the tactical level as well and without nukes. This new form of deterrence is made possible through the use of drones and semi- or fully autonomous weapons. Despite their undisputed military supremacy, the USA has been unable to reopen the Strait of Hormuz. Indeed, even with relatively modest tools like drones or mines, the threat to commercial vessels is simply too high.
 
-The digital convergence once limited to the virtual space has become the omniconvergence.
-The Trinity posits three hypostases of the same substance: the Father as pure spirit, the Son
-as incarnate matter, the Holy Spirit as the mediating force — digital technologies — between them.
-The virtual and the real are converging towards the unification of both.
-The collapse and rebirth of Trinity.
+Here, we can observe a second major impact of the digital era: nation-states can no longer control the world as they once did. As I have previously discussed in these columns, power is increasingly behaving like a distributed system. This translates into a concrete reality: faced with such threats, insurance companies simply withdraw their coverage, and no one dares to cross the strait. From a functional standpoint, Iran has succeeded in blocking 20% of global oil exports using a handful of Shaheds, each costing less than a standard SUV. In other words, nation-states can no longer, by themselves, guarantee the safety of commons. Instead, peace has become the result of a distributed system involving a wide array of non-state actors. Even the most powerful army in the history of humanity can’t.
+
+### Discretization of the world
+
+Another intriguing turn this war has taken is how closely it mimics the logic of social media messaging. Let me explain. As I have previously noted, the concept of a front line is vanishing in the digital age. This conflict makes that reality clear: we are witnessing a war between three nations that do not share a single kilometer of border.
+
+Furthermore, it is a war that is simultaneously hyper-localized and widespread. Because strikes have never been this precise, the action is no longer focused on a traditional battlefield; instead, it can occur anywhere. Rather than a sustained battle of attrition or a melee, combat now takes the form of ‘bursts’—a missile or a drone strike followed by immediate destruction, then silence.
+
+Contrast this with Guderian’s Panzer divisions sweeping across Northern France during the opening phases of WWII, or even the 2003 US invasion of Iraq. Those were wars of movement and continuous presence; this is a war of distributed blows. But paradoxically global impacts: the explosion of a drone on a tanker made the price of oil to cross the 100$. So you have very precise strikes leading to worldwide consequences.
+
+Now what happens when you, or the White House or the Ayatollah in chief of the Iranian regime,  tweet a message? It is an isolated, small, event that can lead to global effects.
+
+We are at the cusp of a new book of human history. It is this strange period of time when things end and others begin at the same time. Once you see it, you spot the pattern everywhere. You could take the isolated event as being peculiarities but I would enjoin you to think deeper about them.
+
+### Omniconvergence
+
+The digital convergence once limited to the virtual space has become the omniconvergence. The Trinity posits three hypostases of the same substance : the Father as pure spirit, the Son as incarnate matter, the Holy Spirit as the mediating force —the digital technologies— between them. The virtual and the real are converging towards the unification of both. The collapse and rebirth of Trinity.
 
 </content>
 

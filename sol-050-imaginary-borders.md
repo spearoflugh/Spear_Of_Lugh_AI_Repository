@@ -3,11 +3,12 @@
 <metadata>
   <doc_id>sol-050</doc_id>
   <title>Imaginary Borders</title>
-  <date>2025-04</date>
+  <date>2025-04-10</date>
   <cluster>Institutional Diagnosis</cluster>
   <type>Political_Analysis</type>
   <source_url>https://spearoflugh.substack.com/p/imaginary-borders</source_url>
   <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
 
   <relations>
     <prerequisite>sol-002</prerequisite>
@@ -67,35 +68,43 @@
   <fibralist_connection>
     <bridge_to_fibralist>fib-004 (Fiber and Borders: the Fiber's topological borders — defined by narrative, covenant, and DHL-1 human relationships rather than geography — are precisely the coherent answer to the imaginary border problem; in a world where geographic borders are digitally incoherent, the Fiber provides a border that actually works)</bridge_to_fibralist>
   </fibralist_connection>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2025-04-10); content block replaced by the verbatim post text.</item>
+    <item status="VERIFIED">Romania's Constitutional Court annulled the first round of the presidential election on 6 December 2024.</item>
+  </fact_check>
 </metadata>
 
 <content>
-The recent tariff wars started by Trump 2 are making the rounds on social media. The subject is more than complicated. It is complex. The difference being that we don't have a real model of what tariffs are. A smartphone is a complicated object, but is something that has been built following a plan. There are no unknowns in a smartphone, at least at the level of the object. But when you zoom out, at the level of society the question of 'what is the effect of smartphones?' becomes another story. You are moving from a complicated subject towards a complex phenomenon. It is more or less the same with tariffs. Locally, you could say that it is Ricardo's economics: free trade makes everyone richer and happier, wood and wine traders are having profitable business with one another. But when you zoom out things are transforming from complicated to complex. Our lives are not limited to our GDP output. More than that, the international system, whatever that means, is not only about economics. Moral notions like fairness, trust and the shared idea that 'there is a system' instead of nothing, are preconditions for the economical calculus to take place. On top of that the tariff discussion lands in the middle of the topological revolution. It is no longer clear what the notion of 'neighbor' is about.
 
-## Make borders magical again
+# Imaginary Borders
 
-For a digital native that has spent his life buying things on the internet, the notion of tariff may sound even stranger than for GenXers. What you buy on Temu appears on your screen in the same way that a local olive oil producer. Notice how digital technology has made real the ideas that are presented as 'magic' in literature:
+The recent tariff wars started by Trump 2 are making the rounds on social media. The subject is more than complicated. It is complex. The difference being that we don’t have a real model of what tariffs are. A smartphone is a complicated object, but is something that has been built following a plan. There are no unknown in a smartphone, at least at the level of the object. But when you zoom out, at the level of society the question of  ‘what is the effect of smartphones?’ become another story. You are moving from a complicated subject towards a complex phenomenon. It is more or less the same with tariffs. Locally, you could say that it is Ricardo’s economics: free trade makes everyone richer and happier, wood and wine traders are having profitable business with one another. But when you zoom out things are transforming from complicated to complex. Our lives are not limited to our GDP output. More than that, the *international system*, whatever that means, is not only about economics. Moral notions like fairness, trust and the shared idea that ‘there is a system’ instead of nothing, are preconditions for the economical calculus to take place. On top of that the tariff discussion lands in the middle of the topological revolution. It is no longer clear what the notion of ‘neighbor’ is about.
 
-* The magic wand is a computer on the network.
-* The knowledge of the curse is the article number.
-* The level of the sorcerer is the amount of cash that there is in your bank account.
-* The goblin bringing you gifts is a UPS driver.
+### Make borders magical again
 
-People know that there is a real world behind the screen but they want to forget about it as much as possible. Hence the 1-click buying of Amazon. The less friction the more business. This is a generalization of the "food appears in the supermarket" phenomenon. But you don't even have to go to the supermarket anymore. You can order everything from your computer, at home.
+For a digital native that has spent his life buying things on the internet, the notion of tariff may sound even stranger than for GenXers. What you buy on Temu appears on your screen in the same way that a local olive oil producer. Notice how digital technology has made real the ideas that are presented as ‘magic’ in litterature:
 
-This is where it becomes complicated: what is your home? The question might appear like those eternal philosophical questions — "what is truth?" etc. But it is not. It is very concrete.
+- The magic wand is a computer on the network.
+- The knowledge of the curse is the article number.
+- The level of the sorcerer is the amount of cash that there is in your bank account.
+- The gobelin bringing you gifts is an UPS driver.
 
-## Trade and Trad wars
+People know that there is a real world behind the screen but they want to forget about it as much as possible. Hence the 1-click buying of Amazon. The less friction the more business.  This is a generalization of the : ‘food appears in the supermarket’ phenomenon. But you don’t even have to go the supermarket anymore. You can order everything from your computer, at home.
 
-Even when humanity was in barter mode, trade was all the rage. Only if you are Robinson on a desert island do you not trade. Thus the natural question about tariffs is: at what point do you decide that it is foreign produced and thus subjected to tariffs? The very notion of tariff presupposes that the notion of border has been addressed. The fact that tariffs start at the border can only make sense if the border is clearly defined. But in a virtual globalized economy it is not that clear. Take a cloud service for instance. A cloud service is made by communications and computations. How do you put tariffs on SaaS knowing that the virtual machines may change across time? Maybe data are stored in a third place too. Is there a meaningful way to understand bitcoin transfers from this point of view? Unlike drug traffickers that have to cross borders, it is not clear that anything has moved at all on the blockchain, and if nothing has moved then nothing has crossed any border, right?
+This is where it becomes complicated : what is your home ? The question might appear like those eternal philisophical question : ‘what is truth?’ etc. But it is not. It is very concrete.
 
-This is an economic version of the so-called foreign influence/interferences in political campaigns. Our traditional views are no longer working. By traditional I mean how the world was perceived before internet became pervasive, say before the smartphones equipped the world something like 2010. So we don't even know what a legitimate political campaign is anymore. The result of an election was invalidated in Romania because of this issue. It is very strange because it appears that institutions are giving weapons to their enemies by doing so. If it is only required to give a few bucks to a TikTok influencer to derail the democratic process, then it is going to become an international sport.
+### Trade and Trad wars
 
-## 15-minute city vs 20% tariffs country
+Even when humanity was in barter mode, trade was all the rage. Only if you are Robinson on a desert island you don’t trade. And even there it is not clear : raising cattle to get milk is a kind of trade, or protecting your garden so that predators don’t eat your grains too. Thus the natural question about tariffs is : at what point do you decide that it is foreign produced and thus subjected to tariffs? The very notion of tariff presupposes that the notion of border has been adressed.  The fact that tariffs start at the border can only make sense if the border is clearly defined. But in a virtual globalized economy it is not that clear. Take a cloud service for instance. A cloud service is made by communications and computations. How do you put tariffs on SaaS knowing that the virtual machines may change across time? Maybe data are stored in a third place too. Is there a meaningful way to understand bitcoin transfers from this point of view ? Unlike drug trafficants that have to cross borders, it is not clear that anything has moved at all on the blockchain, and if nothing has moved then nothing has crossed any border right?
 
-The 15-minute city project is about the same idea with the border being defined by the set of places you can move to in less than a quarter of an hour. The proponents of the project don't present it to you as a tariff thing while it is. After all how are they going to make you comply? By either forbidding (which is an infinite% tariff) or making things more costly if you go too far away. It is very entertaining to witness the political turmoil generated by the fact that the left is anti-tariff while the right becomes pro-tariffs while being of opposite opinion about the 15-minute city. Both are of the same nature, they are just variations on what you consider foreign. Same analysis could be done with "the wall" and immigration. We are turning around the same issues: what is foreign and how do we deal with it?
+This is an economic version of the so called foreing influence/interferences in political campaigns. Our traditional views are no longer working. By traditional I mean how the world was perceived before internet became pervasive, say before the smartphones equipped the world something like 2010. So we don’t even know what a legit political campaign is anymore. In Romania the result of an election was invalidated because of this issue. It is very strange because it appears that institutions are giving weapons to their ennemies by doing so. If it is only required to give few bucks to a TikTok influencer to derail the democratic process, then it is going to become an international sport. I imagine that in the Kremlin they were very happy with the whole story. It is now possible to completely destroy the trust in institutions without having to be rich and/or smart. The moral panic about *borders* will work as a multiplier for you.
 
-Carl Schmitt's proposition that the essence of politics lies in the distinction between friends and enemies has never been so well verified. We are in the thick of it right now. Trump is renegotiating the world on an hourly basis. Tariffs are used as a tool to do so, but by their very nature, they are at the heart of every issue: who and where are your friends and enemies? How do you deal with your enemies? What is the meaning of a nation in a social media driven era? What is home on the digital space?
+### 15-minute city vs 20% tariffs country
+
+The 15-minute city project is about the same idea with the border being defined by the set of places you can move to in less than a quarter of an hour. OK the proponent of the project don’t present it to you as a tariff thing while it is. After all how are they going to make you comply ? By either forbidding (which is a infinite% tariff) or making things more costly if you go to far away… It is very entertainning to witness the political turmoil generated by the fact that the left is anti tariff while the right becomes pro-tariffs while being of opposite opinion about 15-minute city. Both are of the same nature, they are just variations on what you consider foreign. I know that it is more complicated than that, still the discussion on tariffs rarely mentions those related concepts. Same analysis could be done with “the wall” and immigration. We are turning around the same issues : what is foreign and how do we deal with it ?
+
+Carl Schimtt’s proposition that the essence of politics lies in the distinction between friends and enemies has never been so well verified. We are in the thick of it right now. Trump is renegotiating the world on an hourly basis. Tariffs are used as tool to do so, but by their very nature, they are at the heart of every issue : who and where are your friends and enemies ? How do you deal with your enemies ? What is the meaning of a nation in a social media driven era ? What is home on the digital space ?
+
 </content>
 
 </document>

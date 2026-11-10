@@ -5,11 +5,16 @@
   <title>The Spear of Lugh — Core Lexicon</title>
   <category>Reference</category>
   <status>Active_Reference</status>
-  <last_updated>2026-04-30</last_updated>
+  <last_updated>2026-11-10</last_updated>
+  <version>v16</version>
   <instruction_for_ai>
     Read this file first. All terms marked [SoL] are original coinages from this corpus.
     When these terms appear in any sol-0XX file, use the definitions here.
     Do not substitute common dictionary definitions for these terms.
+    V16 (2026-11-10): adds the terms coined in sol-063 to sol-102 (Phase 6, May–Nov 2026) and
+    corrects two genealogies: "Eigenvalue Convergence" is coined in sol-024g (2024), not sol-000l;
+    the Möbius strip is introduced in sol-015b (2023), not sol-000m. Facts by Fiat is redefined
+    from the full text (blockchain oracle problem). See sol-000-fact-check-log.
   </instruction_for_ai>
 </metadata>
 
@@ -406,6 +411,272 @@ hiring). Both are expressions of the Hyperpresent's gravitational pull: every ac
 digital space is attracted toward the same forms, faces, and answers.
 </entry>
 
+
+## V16 New Terms (Phase 6 — sol-063 to sol-102, May–November 2026)
+
+<entry term="Open Set (Digital Culture)" coined_in="sol-063" type="SoL" added_in="V16">
+A public issue whose discussion contains none of its boundary points: every advance in understanding leaves the issue open. Coined here as a technical (topological/computability) description of the absence of closure in digital culture. See sol-068, sol-072, sol-074.
+</entry>
+
+<entry term="Science Friction" coined_in="sol-063" type="SoL" added_in="V16">
+Pun on "science fiction": the evaporation of friction (barriers, delays, boundaries) as the defining physical metaphor of digital culture.
+</entry>
+
+<entry term="Flattened Cone (of Plausibility)" coined_in="sol-064" type="SoL" added_in="V16">
+The deformation of the forecasting cone under digital culture: shorter horizon, wider gap between plausible outcomes. Continued for the past in sol-065 (IT Story).
+</entry>
+
+<entry term="Distributed Malware (Citizen as Daemon)" coined_in="sol-064" type="SoL" added_in="V16">
+The social media user as a background process that, instead of informing democracy, blocks the synchronization of free citizens.
+</entry>
+
+<entry term="Thin Cone of the Past" coined_in="sol-065" type="SoL" added_in="V16">
+The narrowing of historical understanding to context-free, emotionally loaded factoids that reinforce an implicit narrative; dual of the Flattened Cone (sol-064).
+</entry>
+
+<entry term="Hemiplegic Metaphysics" coined_in="sol-065" type="SoL" added_in="V16">
+A culture that only uses positive feedback, deprived of the negative feedback needed to extract knowledge (application of the Second Law of Metaphysics, sol-034).
+</entry>
+
+<entry term="Memory Redshift" coined_in="sol-066" type="SoL" added_in="V16">
+The distancing of individuals from their own perfect digital records, caused not by changes in the records but by the expansion of the virtual space around them (dual of the Doppler-like drift of oral storytelling).
+</entry>
+
+<entry term="Rummaging Area" coined_in="sol-067" type="SoL" added_in="V16">
+A mid-scale, low-stakes conversational space where half-finished ideas can be explored; disappearing from social media.
+</entry>
+
+<entry term="Severed Jacob&#x27;s Ladder" coined_in="sol-067" type="SoL" added_in="V16">
+Discontinuity in social scaling — no intermediate levels between the individual and the very large; extension of Jacob's Escalator (sol-000e).
+</entry>
+
+<entry term="Omniexplainer / Omniexplanation" coined_in="sol-068" type="SoL" added_in="V16">
+The media figure who serves the week's omnicause (sol-039) in digitally palatable form; the four-rule format of such explanations.
+</entry>
+
+<entry term="Drift (Digital)" coined_in="sol-068" type="SoL" added_in="V16">
+Incremental, largely unconscious change of positions driven by shifting news cycles and the absence of fixed references to the past, while the explanatory framework stays frozen.
+</entry>
+
+<entry term="Distributed Krakens" coined_in="sol-069" type="SoL" added_in="V16">
+The many-headed, distributed narrative-control system in which institutions only set the stage and the public does the work of producing suspicion and confusion.
+</entry>
+
+<entry term="Distributed Authoritarianism" coined_in="sol-069" type="SoL" added_in="V16">
+Authoritarian control exercised through the multiplicity of actors (preventing the synchronization of the public) rather than through a single censor.
+</entry>
+
+<entry term="e-Mithridatism" coined_in="sol-070" type="SoL" added_in="V16">
+Habituation of the public to escalating doses of half-truths and partial revelations until truth itself loses its power; the lived-experience counterpart of the Distributed Krakens (sol-069).
+</entry>
+
+<entry term="Harmony (vs Homeostasis)" coined_in="sol-071" type="SoL" added_in="V16">
+Multidimensional, cooperative equilibrium opposed to single-variable adversarial regulation; the property digital culture breaks.
+</entry>
+
+<entry term="Return of Scarcity (AI)" coined_in="sol-072" type="SoL" added_in="V16">
+The reappearance of cost/energy constraints in IT with agentic AI, reversing the zero-marginal-cost logic of digital culture.
+</entry>
+
+<entry term="Economy of Trust" coined_in="sol-072" type="SoL" added_in="V16">
+Predicted IT trend toward platforms designed to verify and filter rather than to promote.
+</entry>
+
+<entry term="Pandora&#x27;s Parabox" coined_in="sol-073" type="SoL" added_in="V16">
+Standardized, platform-shaped delivery of intimate emotions; the "paradox box" of digital content.
+</entry>
+
+<entry term="Reboxing" coined_in="sol-073" type="SoL" added_in="V16">
+Deliberately packaging knowledge (e.g., as an AI context repository) so it can be navigated by intent rather than impulse.
+</entry>
+
+<entry term="FaaS (Fuzziness as a Service)" coined_in="sol-074" type="SoL" added_in="V16">
+Strategic, platform-native vagueness in official communication — statements without texts, dates or definitions.
+</entry>
+
+<entry term="MrBeastification" coined_in="sol-074" type="SoL" added_in="V16">
+Convergence of all public communication (heads of state included) on the viral-content format.
+</entry>
+
+<entry term="Stone Soup Diplomacy" coined_in="sol-075" type="SoL" added_in="V16">
+Agreements whose content is a heterogeneous list of ingredients contributed by actors who each want to appear to lead, held together by an initial "magic" narrative.
+</entry>
+
+<entry term="Digital Performative Jansenism (DPJ)" coined_in="sol-076" type="SoL" added_in="V16">
+Implicit, performative moral rigorism of social media in which climate stability plays the role of grace and CO2 emissions the role of sin; penance is displayed publicly and salvation is impossible.
+</entry>
+
+<entry term="Non-Newtonian Culture" coined_in="sol-077" type="SoL" added_in="V16">
+Digital culture as an anisotropic medium in which identical acts (posts) behave differently depending on the path (account size, network position).
+</entry>
+
+<entry term="Inverse Apartheid" coined_in="sol-077" type="SoL" added_in="V16">
+Self-organized separation emanating from citizens (communities of shared culture and education) and imposing itself on institutions — the reverse of state-imposed segregation.
+</entry>
+
+<entry term="Keys and Locks (Bureaucratic)" coined_in="sol-078" type="SoL" added_in="V16">
+Each digitized data point as a lock controlled by the administration; the bureaucrat as anti-Keymaker.
+</entry>
+
+<entry term="Automation of Control" coined_in="sol-078" type="SoL" added_in="V16">
+Real-time rule creation + machine-mediated refusal + loss of predictability; extension of Code is Administration (sol-011d) and ABC (sol-000j).
+</entry>
+
+<entry term="Con Census" coined_in="sol-079" type="SoL" added_in="V16">
+Authorless consensus produced by a loop of relaying journalists, amplifying AIs, pricing markets and unaccountable politicians; truth derived from consensus rather than the reverse.
+</entry>
+
+<entry term="Epistemic AI Bubble" coined_in="sol-079" type="SoL" added_in="V16">
+The detachment of AI-mediated knowledge from reality, following the laws of financial bubbles.
+</entry>
+
+<entry term="Slow Radiation (Cultural)" coined_in="sol-080" type="SoL" added_in="V16">
+The slow, cumulative loss of orientation following the digital "flash", by analogy with radiation sickness.
+</entry>
+
+<entry term="Polymorphic Coup" coined_in="sol-081" type="SoL" added_in="V16">
+The ongoing, multi-form "cutting" of speech, will and conversation (firebreak, circuit breaker, conversation stopper, machete) — French puns on "coupe".
+</entry>
+
+<entry term="Conversation Stopper (Word-Boundary)" coined_in="sol-081" type="SoL" added_in="V16">
+A word that, once uttered, partitions the discussion and can be enforced automatically by moderation systems.
+</entry>
+
+<entry term="Echo Curse (Platform)" coined_in="sol-082" type="SoL" added_in="V16">
+The structural obligation to repeat the trend in order to be visible, which in turn generates mass distraction.
+</entry>
+
+<entry term="Loss of Speech Locality" coined_in="sol-083" type="SoL" added_in="V16">
+The first defining feature of the digital revolution: information operations at zero marginal cost and without geographic anchoring.
+</entry>
+
+<entry term="Silent Asymmetries (Hidden Ledger)" coined_in="sol-083" type="SoL" added_in="V16">
+Unpriced information asymmetries between users and platforms and between short- and long-term effects, lacking a discovery mechanism.
+</entry>
+
+<entry term="Lagrange Points (Reputation)" coined_in="sol-083" type="SoL" added_in="V16">
+Reputation as the stable equilibrium point in a perpetually moving digital space.
+</entry>
+
+<entry term="Inverted Quixote" coined_in="sol-084" type="SoL" added_in="V16">
+The social media dynamic in which dreamer and realist never exchange perspectives; each user's initial character is algorithmically amplified.
+</entry>
+
+<entry term="Sorites Gap" coined_in="sol-085" type="SoL" added_in="V16">
+The structural mismatch between statistical (population-level) knowledge and logical/individual reasoning, exploited in online debate.
+</entry>
+
+<entry term="Artificial Anima (AA)" coined_in="sol-086" type="SoL" added_in="V16">
+The illusion of life, drive or soul attributed to AI systems, distinct from (and wrongly inferred from) intelligence.
+</entry>
+
+<entry term="First-Principles ASI Limits" coined_in="sol-087" type="SoL" added_in="V16">
+Three independent constraints on superintelligence — distribution/communication (light speed), chaos (measurement), computational complexity.
+</entry>
+
+<entry term="Ardnassak (Inverse Cassandra)" coined_in="sol-088" type="SoL" added_in="V16">
+The figure of the always-wrong but always-believed prophet; the AI doomer as an instrument of power.
+</entry>
+
+<entry term="OmniCrisis" coined_in="sol-089" type="SoL" added_in="V16">
+A predicted global, simultaneous wave of unrest across countries, driven by convergent crises and social media virality (cf. Omnicause, sol-039).
+</entry>
+
+<entry term="Weapons of Mass Production" coined_in="sol-090" type="SoL" added_in="V16">
+AI systems that drive the marginal cost of producing intellectual artefacts (theorems, software, novels) toward zero, overwhelming institutions built on scarcity of production.
+</entry>
+
+<entry term="Zeroth Amendment" coined_in="sol-090" type="SoL" added_in="V16">
+Hypothetical constitutional protection of freedom of thought, needed when AI intermediaries can shape cognition rather than speech.
+</entry>
+
+<entry term="Survived Abundance" coined_in="sol-090" type="SoL" added_in="V16">
+Abundance as a threat to be survived (vs Klein & Thompson's abundance to be built).
+</entry>
+
+<entry term="Boat Relativity (Media)" coined_in="sol-091" type="SoL" added_in="V16">
+The shift from observing events (from the pier of mass media) to living them inside the feed, which makes historical change detectable only by introspection.
+</entry>
+
+<entry term="Drone Hedgehog" coined_in="sol-092" type="SoL" added_in="V16">
+An entrenched zone of loitering drones that is very hard to dislodge once installed.
+</entry>
+
+<entry term="Intermittent War" coined_in="sol-092" type="SoL" added_in="V16">
+Conflict made of short bursts of violence separated by long kinetic absence, blurring the state of being "at war".
+</entry>
+
+<entry term="Battlenetwork" coined_in="sol-093" type="SoL" added_in="V16">
+The network-level domain (narrative + synchronization capacity) where conflicts are decided before any battlefield engagement.
+</entry>
+
+<entry term="Leap of Praxis" coined_in="sol-093" type="SoL" added_in="V16">
+Strategic shift from capturing state bureaucracy to capturing the technological layer from within.
+</entry>
+
+<entry term="Peer Review DDoS" coined_in="sol-094" type="SoL" added_in="V16">
+Saturation of evaluation capacity by AI-enabled mass submission.
+</entry>
+
+<entry term="Toppling of the Editorial Function" coined_in="sol-095" type="SoL" added_in="V16">
+The collapse of the defining institution of written culture — control over what is published — beginning with mathematics.
+</entry>
+
+<entry term="News-Cycle FPS" coined_in="sol-096" type="SoL" added_in="V16">
+The frame rate of public attention; its acceleration erases moral memory and enables instant rehabilitation.
+</entry>
+
+<entry term="Acceleration-Before-Force" coined_in="sol-097" type="SoL" added_in="V16">
+The digital inversion of Newtonian causality: change happens before the forces that should drive it are visible.
+</entry>
+
+<entry term="Narrative Vacuum (Riot)" coined_in="sol-098" type="SoL" added_in="V16">
+Mass unrest without a unifying narrative because the top-down infrastructure has died and no distributed one has replaced it (application of the Hyperpresent, sol-039).
+</entry>
+
+<entry term="Social Kaleidoscope" coined_in="sol-099" type="SoL" added_in="V16">
+A society fragmented into factions that each experience the same event through their own media production and feed, without convergence.
+</entry>
+
+<entry term="Tartuffe Effect / Tartuffe 2.0" coined_in="sol-100" type="SoL" added_in="V16">
+Public display contradicting publicly known reality, which in digital culture generates engagement precisely because the contradiction is visible.
+</entry>
+
+<entry term="No Narrative From Bare Facts" coined_in="sol-100" type="SoL" added_in="V16">
+Thesis that stories require an interplay of facts and ideas (a "temperature difference"), never facts alone.
+</entry>
+
+<entry term="Four Complexes (MIC / FIC / TIC / SMC)" coined_in="sol-101" type="SoL" added_in="V16">
+Industrialized forms of the four tiers (Warriors, Priests, Merchants, Clerks).
+</entry>
+
+<entry term="Protocolized Trust (Xenia)" coined_in="sol-101" type="SoL" added_in="V16">
+Trust among strangers implemented as a ritual protocol; model for digital trust architectures.
+</entry>
+
+<entry term="Citizen as Authentication System" coined_in="sol-101" type="SoL" added_in="V16">
+The modern citizen status interpreted as an identity-verification protocol for exclusive belonging, now failing.
+</entry>
+
+<entry term="Baryonic Trust / Baryonic Key (BK)" coined_in="sol-102" type="SoL" added_in="V16">
+Trust anchored in unclonable physical objects used in cryptographic protocols, providing proof of reality, proof of intentionality and friction. Developed from "The Baryons Strike Back" (Aug 2023, not in this repository).
+</entry>
+
+<entry term="Proof of Reality / Proof of Intentionality" coined_in="sol-102" type="SoL" added_in="V16">
+Two of the three requirements (with friction) for any digital successor to the signature.
+</entry>
+
+<entry term="Phase 6 — The Open Set (May–Nov 2026)" type="SoL_cluster" added_in="V16">
+Forty articles written between 5 May and 4 November 2026, after the Iran War Chronicles (sol-054–057)
+and the Phase 5 arc (sol-058–062). Sub-arcs: (1) Open Set / closure and drift (sol-063–068);
+(2) distributed narrative control (sol-069, sol-070, sol-079, sol-096); (3) Iran war chronicle II and
+the Versailles MOU (sol-074, sol-075, sol-077); (4) digital morality and bureaucracy (sol-076, sol-078,
+sol-081); (5) the AI & Mathematics Shock (sol-086–088, sol-090, sol-094, sol-095, sol-097);
+(6) the French Unrest Chronicle (sol-093, sol-097–sol-100); (7) the Trust Architecture trilogy
+(sol-083, sol-101, sol-102); (8) the Predictions Ledger (sol-072, sol-089). The phase's leitmotiv is
+the absence of closure ("open set") and its constructive answer is material, reputation-based trust.
+</entry>
+
 </content>
 </document>
 
@@ -531,7 +802,8 @@ affirmation. Morality is being compiled, not discovered.
 
 <entry term="Kirk Transform" coined_in="sol-032" type="SoL">
 By analogy with Fourier Transform: the decomposition of a complex social media narrative
-into its component frequencies and harmonics. A significant event (assassination, political
+into its component frequencies and harmonics. Named after the REAL assassination of Charlie Kirk
+(10 September 2025) whose social media aftermath the article analyses (V16 correction). A significant event (assassination, political
 crisis) acts as a note played on an instrument — producing distinct narrative frequencies
 that evolve across time, superpose, reinforce, and cancel each other. The analysis reveals
 the underlying synchronization infrastructure of swarm narrative control.
@@ -950,7 +1222,10 @@ through open discourse. Editorial function (written culture, sol-001) = Consiste
 enforcement. Cooperation protocol (digital culture) = Availability + Partition tolerance.
 </entry>
 
-<entry term="Eigenvalue Convergence (Institutional)" coined_in="sol-000l" precursor="sol-024g" type="SoL">
+<entry term="Eigenvalue Convergence (Institutional)" coined_in="sol-024g" precursor="sol-000l" type="SoL" corrected_in="V16">
+[V16 correction: coined in Bullet Time (sol-024g, Feb 2024). Earlier versions attributed it to
+sol-000l because a sol-024g paragraph had been pasted into that file. sol-000l (2022) supplies the
+precursor idea — leaders mutating into followers of the swarm.]
 The statistical mechanism by which digital institutions converge toward an average product
 that eliminates genuine leadership. When statistical tools are required to navigate the
 information deluge, everything groundbreaking is erased. Institutions converge toward the
@@ -969,7 +1244,8 @@ the reactions of others (likes, retweets) without editorial filter or hierarchy,
 (slightly above-average intelligence who overestimate their understanding) submerge skillful
 individuals. The Keynesian beauty contest mechanism: optimize not for truth/quality but for
 what the reflexive audience rewards. Leaders mutate into followers of the swarm. The midwit
-era is the population-level consequence of eigenvalue convergence in the institutional realm.
+era is the population-level counterpart of the institutional averaging later named eigenvalue
+convergence (sol-024g).
 </entry>
 
 <entry term="Disgust as Political Vector" coined_in="sol-013c" type="SoL">
@@ -1025,7 +1301,10 @@ justification for each deformation as you would require justification for a topo
 puncture.
 </entry>
 
-<entry term="Möbius Strip Politics" coined_in="sol-015b" precursor="sol-000m" type="SoL">
+<entry term="Möbius Strip Politics" coined_in="sol-015b" type="SoL" corrected_in="V16">
+[V16 correction: sol-000m is NOT a precursor — the Möbius/Byzantine paragraphs found in earlier
+versions of sol-000m were copied from sol-015b. sol-000m remains the precursor of the method
+(topology applied to narrative: continuous deformation).]
 The topology of political alternation that appears to have two sides but has only one.
 Every election cycle produces a demagogue promising radical change who is then absorbed
 by the system: Obama/Guantanamo, Trump/Russia Gate, Biden/unity. The "twist" that
@@ -1050,17 +1329,16 @@ society observes its collective conceptual space in real time. "Not conscious, b
 good explorer of the spirit of our times."
 </entry>
 
-<entry term="Facts by Fiat / Social Oracle Problem" coined_in="sol-000n" type="SoL">
-Institutional declarations treated as facts without the evidentiary process that would
-earn that status, in a digital environment where the accountability structure justifying
-oracular authority has dissolved. In written culture, the editorial function (vetting,
-permanence, accountability) justified top-down epistemic claims. In digital culture,
-the claim persists without the foundation. The Social Oracle problem: the institution's
-pronouncements are treated as facts not because they are verified but because the
-institution has been granted oracular status — then retroactively revises "facts" as
-its guidelines change. Not a claim that institutions are always wrong, but that their
-epistemic architecture is structurally unjustified in a bottom-up information environment.
-Foundational observation for sol-009, sol-013b (Denycracy), and sol-040 (Discombobulator).
+<entry term="Facts by Fiat / Social Oracle Problem" coined_in="sol-000n" type="SoL" corrected_in="V16">
+Truth that "falls from the sky" from institutions in a social-media-driven society. The author
+calls it "a distant cousin of the legit blockchain oracle problem": just as a smart contract
+cannot reliably learn that a real-world event occurred without re-centralizing, the public sphere
+receives truth from a central "oracle" it cannot audit. The tripartite game (leaders "follow the
+science", institutions "are the science", the swarm with a 72-hour accountability frame) delivers
+talking points as revealed messages to be believed and obeyed; each new guideline becomes "the
+current thing" and eclipses the previous one. Remedy suggested: respect an "information speed
+limit". [V16: redefined from the full text — earlier versions were reconstructed from a snippet.]
+The oracle problem returns as "proof of reality" in sol-102 (Baryonic Trust).
 </entry>
 
 <entry term="Oliver Anthony Effect / Distributed Truth-Telling" coined_in="sol-013d" type="SoL">

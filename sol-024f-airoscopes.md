@@ -3,11 +3,12 @@
 <metadata>
   <doc_id>sol-024f</doc_id>
   <title>AIroscopes</title>
-  <date>2024-12</date>
+  <date>2024-12-19</date>
   <cluster>AI and Technology</cluster>
   <type>Empirical_Observation</type>
   <source_url>https://spearoflugh.substack.com/p/airoscopes</source_url>
   <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
 
   <relations>
     <prerequisite>sol-000g</prerequisite>
@@ -66,22 +67,31 @@
   <fibralist_connection>
     <bridge_to_fibralist>fib-006 (Calendar as Memory and Keel: the Fiber's internal culture — its transmitted stories, its rites, its history — is precisely what cannot be reduced to bullet points without destruction; the Keel is the AIroscope-resistant core of identity)</bridge_to_fibralist>
   </fibralist_connection>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2024-12-19); content block replaced by the verbatim post text.</item>
+  </fact_check>
 </metadata>
 
 <content>
+
+# AIroscopes
+
 Two years have passed since the release of ChatGPT in late November 2022. We have not experienced the feared singularity, but rather incremental amelioration. The situation is not without reminding the rise of Google search in the early 2000s. Suddenly the large public was having an intuitive and efficient access to the internet. Of course the first searches were centered around the individual: you typed your name in the search bar to see what comes out. Same thing is happening with AI today. It can be witnessed at each new feature/version release.
 
-## The Magic Mirror
+### The Magic Mirror
 
-Social Media act as a multi-faceted magic mirror. Selfies are those virtual mirror reflections that are shared, not without a lot of editing, for reassurance. The question "who am I?" strikes like vertigo when thought in isolation of the societal context. Social Media adds this layer: you are not alone, the "like" and "impression" numbers are here to save you from falling into a recursive rabbit hole. The advent of generative AIs have added this new level: you can request the AI to describe who you are based on your posts. Grok, the X AI, can gather your recent posts, presumably to build a context, and produce a result. It is the ultimate version of the horoscope. Each user has its own tailored product. An AIroscope.
+Social Media act as a multi-faceted magic mirror. Selfies are those virtual mirrors reflection that are shared, not without a lot of editing, for reinsurance. The question “who am I?” strikes like vertigo when thought in isolation of the societal context. Social Media adds this layer: you are not alone, the “like” and “impression” numbers are here to save you from falling into a recursive rabbit hole.  The advent of generative AIs have added this new level: you can request the AI to describe who you are based on your posts. Grok, the X AI, can gather your recent posts, presumably to build a context, and produce a result. It is the ultimate version of the horoscope. Each user has its own tailored product. An AIroscope. Here is an example about my X account :
 
-It was one of my first uses of Grok. The possibility to make a synthetic view of an account based on its posts is new and interesting. It is very hard to navigate months, years, of posting to have an idea of who is behind an account. It is especially interesting because the track record of posting is the only proxy we have to judge whether or not an account is not a robot or a troll. The absence of contact in the physical world was difficult to tackle with. All visual cues, and social ones too, are non existent in an online conversation. Using AIs to have an equivalent, via an analysis of posts, could help in this regard. The problem being that no mirror is perfect, each one comes with its own imperfections, and thus distortions, of the reflected image.
+It was one of my first use of Grok. The possibility to make a synthetic view of an account based on its posts is new and interesting. It is very hard to navigate months, years, of posting to have an idea of who is behind an account. It is especially interesting because the track record of posting is the only proxy we have to judge whether or not an account is not a robot or a troll. The absence of contact in the physical world was difficult to tackle with. All visual cues, and social ones too, are non existent in an online conversation. Using AIs to have an equivalent, via an analysis of posts, could help in this regard. The problem being that no mirror is perfect, each one comes with its own imperfections, and thus distortions, of the reflected image.
 
-## United Standards
+### United Standards
 
-It is still very early but trends start to emerge on how AI is adopted by the population. In academic life the results are here: students are using them extensively not necessarily to produce but to ingest information. It is no longer efficient to read Nietzsche, just ask the AI to make you an executive report of "So Spoke Zarathustra" in whatever number of bullet points you prefer and you are done. This is, without any doubt, an impoverishment of thinking. Like when you take your car instead of walking. The fact that what is important is to think to get the results rather than the results is lost. Prepare yourself for intellectual obese people who can't move around without electric wheelchairs.
+It is still very early but trends start to emerge on how AI is adopted by the population. In academic life the results are here: students are using them extensively not necessarily to produce but to ingest information. It is no longer efficient to read Nietzsche, just ask the AI to make you an executive report of “So Spoke Zarathustra” in whatever number of bullet points you prefer and you are done. This is, without any doubt, an impoverishment of thinking. Like when you take your car instead of walking. The fact that what is important is to think to get the results rather than the results is lost. Prepare yourself for intellectual obese people who can’t move around without electric wheelchairs.
 
-From a purely information theory point of view it is clear: by definition you lose something when you reduce the space so much. What you obtain is a standardized culture. Something like a bullet point culture that goes beyond the corporate world. Sloth is a mortal sin. The society is going to tell itself shitty stories where all nuances have been either disappeared or standardized, sanitized, via AI meddling. You have to remind yourself that AIs are just applied statistics. What you get will be, at best, a sort of sophisticated average. Brilliance and excellence are filtered out by construction. There are no bright stars in horoscopes. Individuality is lost in translation. Yet astrology claims that it is inspired by stars. I can't find a better allegory of AIroscopes.
+From a purely theory information point of view it is clear: by definition you lose something when you reduce the space so much. What you obtain is a standardized culture. Something like a bullet point culture that goes beyond the corporate world. Sloth is a mortal sin. But here follows a 3 screens executive summary of the bible done by Grok2:
+
+Those last three pictures are much more representative of the dangers that AIs present than anything coming from Terminator. The funny thing is that people will reuse those bullet points as prompts to get the stories back. The result will remind you what you obtained in the 90s using automatic translators when translating from english to french then to spanish then back to english… The society is going to tell itself shitty stories where all nuances have been either disappeared or standardized, sanitized, via AI meddling. You have to remind yourself that AIs are just applied statistics. What you get will be, at best, a sort of sophisticated average. Brilliance and excellence are filtered out by construction. There are no bright stars in horoscopes. Individuality is lost in translation. Yet astrology claims that it is inspired by stars. I can’t find a better allegory of AIroscopes.
+
 </content>
 
 </document>

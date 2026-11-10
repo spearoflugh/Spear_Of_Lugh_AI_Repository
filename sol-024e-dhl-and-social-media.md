@@ -3,11 +3,12 @@
 <metadata>
   <doc_id>sol-024e</doc_id>
   <title>DHL and Social Media</title>
-  <date>2024-11</date>
+  <date>2024-11-19</date>
   <cluster>Foundational Theory</cluster>
   <type>Conceptual_Extension</type>
   <source_url>https://spearoflugh.substack.com/p/dhl-and-social-media</source_url>
   <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
 
   <relations>
     <prerequisite>sol-003</prerequisite>
@@ -62,43 +63,54 @@
   <fibralist_connection>
     <bridge_to_fibralist>fib-004 (Fiber and Borders: the Fiber is explicitly designed to operate at DHL-1 to DHL-2 — the scale at which direct relationship is possible. The DHL framework confirms that Fibralism is not a failure of ambition but a structural match to the cognitive limits of human social organization)</bridge_to_fibralist>
   </fibralist_connection>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2024-11-19); content block replaced by the verbatim post text.</item>
+  </fact_check>
 </metadata>
 
 <content>
-The idea behind the Dunbar's number is that there are biological cognitive limits to the number of stable relationship that an individual can have. I think it is possible to spend whole lives talking about the most accurate value of the number but it is not that important. The idea appears compelling. Lets use 150 as the Dunbar's number in this post. Starting from here I propose the concept of DHL: Dunbar Hierarchy Level. The idea is to define tiers of social institutions by the number of individuals of the said institution. Let's define
+
+# DHL and Social Media
+
+The idea behind the Dunbar’s number is that there are biological cognitive limits to the number of stable relationship that an individual can have. I think it is possible to spend whole lives talking about the most accurate value of the number but it is not that important. The idea appears compelling. Lets use 150 as the Dunbar’s number in this post. Starting from here I propose the concept of DHL: Dunbar Hierarchy Level. The idea is to define tiers of social institutions by the number of individuals of the said institution. Let’s define
 
 > **DHL(institution) = ln( number of people(institution))/ln(150)**
 
-To give an intuitive idea:
+To give an intuitive idea
 
-* DHL 0: 150⁰=1. It is the individual level tier.
-* DHL 1: 150¹=150. It is the level at which a human can have a direct relationship with all members of the group.
-* DHL 2: 150²= 22 500. It is the small city level.
-* DHL 3: 150³=3 375 000. It is the level of large cities like Paris, New York.
-* DHL 4: 150⁴=506 250 000. It is the level of large countries.
-* DHL 5: 150⁵=75 937 500 000. The whole of humanity.
+- DHL 0: 150⁰=1. It is the individual level tier.
+- DHL 1: 150¹=150. It is the level at which a human can have a direct relationship with all members of the group.
+- DHL 2: 150²= 22 500. It is the small city level.
+- DHL 3: 150³=3 375 000. It is the level of large cities like Paris, New York
+- DHL 4: 150⁴=506 250 000. It is the level of large countries.
+- DHL 5: 150⁵=75 937 500 000. The whole of humanity.
 
-Societies, civilizations, are build with many institutions that work at different tiers of the DHL scale. The representative in parliaments are typically in the DHL 2.3 to 2.7 range (see for instance in France, UK and US). Heads of state (president, prime ministers) are closer to DHL 3.5 to 4 (depending on the size of the country). The main role of the institutions is to allow smooth communications between DHL tiers.
+Societies, civilizations, are build with many institutions that work at different tiers of the DHL scale. The representative in parliaments are typically in the DHL 2.3 to 2.7 range (see for instance in France, UK and US). Heads of state (president, prime ministers) are closer to DHL 3.5 to 4 (depending on the size of the country). The main role of the insitutions is to allow smooth communications between DHL tiers.
 
 Social media are new kind of institutions in which DHL are mixed in new ways. Usually you had institutions helping the transition between DHL tiers: the local mayor, the priest (head of one church building that is few hundreds so a little bit larger than DHL 1) etc. The new phenomenon that are brought with social media is the possibility to jump between DHL tiers very easily.
 
-## DHL tiers on X
+### DHL tiers on X
 
-A typical account on X has 700 followers. My X account falls in this category. Something like DHL 1.3. But accounts can go up to tier 4. For instance on X:
+A typical account on X has 700 followers. My X account falls in this category. Something like DHL 1.3. But accounts can go up to tier 4. For instance on X :
 
-* DHL 2: @eigenrobot is DHL 2.25
-* DHL 3: @bretweinstein is DHL 2.75
-* DHL 4: @elonmusk is DHL 3.8
+- DHL 2: @eigenrobot is DHL 2.25
+- DHL 3: @bretweinstein is DHL 2.75
+- DHL 4: @elonmusk is DHL 3.8
 
-My intuition is that an important attribute of conversations is the range of the DHL tiers in which the participants belong. I remarked that even if it appears that a conversation is possible from DHL-0 to DHL-4 it doesn't work. This was the experiment done by Musk when he acquired Twitter. He thought that "Vox populi, vox dei" was going to work.
+My intuition is that an important attribute of conversations  is the range of the DHL tiers in which the participants belong. In
 
-The problem is that I, as a particular, can post a direct answer to an Elon Musk post. But messaging from DHL 1 towards DHL 4 does not work the same way as messaging from DHL 4 towards lower DHLs. Even the aggregate of voices — using polls — is not working as discussion. This is very much one way. Most of the discussions are held inside a DHL tier.
+[Linked post: Jacob's Escalator]
 
-This discrepancy between DHL tiers can be noted also in the number of people that you follow vs your own DHL. There are concentric circles of DHL centered on you. The strange thing is that accounts that are high in the DHL scale appear as "close" to you because you see their post a lot, but those are rarely symmetrical accounts with which you can exchange. This is maybe another thing to analyze: how accounts relate with relation to different DHL tiers? It may give interesting information on the account that I am not sure are used by current versions of AI (for instance when Grok is used to analyse the color of an account).
+I remarked that even if it appears that a conversation is possible from DHL0 to DHL4 it doesn’t work. This was the experiment done by Musk when he acquired Twitter. He thought that '“Vox populi, vox dei” was going to work.
 
-## DHL and Social Media Algo
+The problem is that I, as a particular, can post a direct answer to an Elon Musk post. But messaging from DHL 1 towards DHL 4 doest not work the same way as messaging from DHL 4 towards lower DHLs. Even the aggregate of voices —using polls— is not working as discussion. This is very much one way. Most of the discussions are held inside a DHL tier.
 
-The job of social media platforms is to provide you "interesting" content. Indeed those platforms do not create any content but organize them so that you are not drowned under too much irrelevant information. I don't think that the DHL tool is used to calibrate the generation of threads. I think it could be interesting to integrate from the start, even if I am certain that some ideas can be "found again" by other means. Maybe making the DHL explicit (in colors for instance) could help? The aim is to provide users tools to help them to behave correctly. Knowing where the participants of a discussion are on the DHL scale could help in this regard.
+This discrepancies between DHL tiers can be noted also in the number of people that you follow vs your own DHL. There are concentric circles of DHL centered on you. The strange thing is that accounts that are high in the DHL scale appears as “close” to you because you see their post a lot, but those are rarely symetrical accounts with which you can exchange. This is maybe another thing to analyze : how accounts relate with relation to different DHL tiers ? It may give interesting informations on the account that I am not sure are used by current versions of AI (for instance when Grok is used to analyse the color of an account).
+
+### DHL and Social Media Algo
+
+The job of social media platforms is to provide you “interesting” content. Indeed those platforms do not create any content but organize them so that you are not drown under too much irrelevant information. I don’t think that the DHL tool is used to calibrate the generations of threads. I think it could be interesting to integrate from the start, even if I am certain that some ideas can be “found again” by other means. Maybe making the DHL explicit (in colors for instance) could help ? The aim is to provide users tools to help them to behave correctly. Knowing where are participant of a discussion on the DHL sacle could help in this regard.
+
 </content>
 
 </document>

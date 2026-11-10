@@ -3,11 +3,12 @@
 <metadata>
   <doc_id>sol-033</doc_id>
   <title>Katechon, Acceleration and All That</title>
-  <date>2025</date>
+  <date>2026-02-23</date>
   <cluster>Philosophical Depth</cluster>
   <type>Theological_Political_Analysis</type>
   <source_url>https://spearoflugh.substack.com/p/katechon-acceleration-and-all-that</source_url>
   <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
 
   <relations>
     <prerequisite>sol-000b</prerequisite>
@@ -46,10 +47,63 @@
   <fibralist_connection>
     <bridge_to_fibralist>fib-001 (Leibniz's Nightmare: direct prerequisite) AND fib-009 (Sesqui-Theonomy: the fibralist framework operates as a human-designed but culturally-grounded Katechon — slowing the dissolution without claiming divine authority)</bridge_to_fibralist>
   </fibralist_connection>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2026-02-23); content block replaced by the verbatim post text.</item>
+    <item status="CORRECTION">Date was "2025"; the article was published on 23 February 2026.</item>
+    <item status="VERIFIED">Marc Andreessen's "Techno-Optimist Manifesto" was published on 16 October 2023.</item>
+  </fact_check>
 </metadata>
 
 <content>
-This post is a direct iteration on "Leibniz’s Nightmare." While it can be read as a standalone piece, the context is significant and non-trivial. Therefore, contrary to my usual practice, I recommend that the motivated reader first examine that prerequisite. (Alternatively, you might ask an AI to provide an executive summary, which would be quite fitting given the subject matter.) In my previous post I was making the distinction between the concepts of Antéchrist and Antichrist. The distinction being that Anté is the one that comes before (eg John the Baptist) and Anti is the opposite. The subtlety is that for the second coming of Christ there will be both Antés and an Anti. My point was to show that the computer, and the AI, act as an Anté rather than the Anti. This post is about those asbtruse theological considerations and their relation with the development of the new information technologies. It is about adopting a theological lens to understand how our world is transformed by those technologies. The Weakening of the Katechon I will keep this as self-contained as possible, but some theological background is necessary. The notion of the Katechon is central to the idea of progress embedded within Christianity. Paradoxically—at least at first glance—the Katechon is that which withholds or delays the evolution toward the Revelation. The concept was also central to Carl Schmitt’s political vision . Though complex and, admittedly, somewhat opaque, the idea is described as: “the power that prevents the long-overdue apocalyptic end of times from already happening now” — Beschleuniger , C. Schmitt Schmitt used the idea mostly as a justification of earthly powers. A move that had been made countless times before him. My point here is slightly different. Without getting too deep into the weeds, the general principle is that humanity progresses toward the end of time, but must not move too quickly. Here, another theological concept comes into play: the Katechon exists not to forbid the End Times, but to ensure they occur only when humanity is ready. In theological terms, it provides humanity with the time to amend itself. This creates a tension: the Katechon is inherently “good” in that it grants us time to set things right, yet it cannot remain indefinitely, as that would obstruct the fulfillment of human destiny. The question of whether specific institutions are beneficial or merely overly restrictive with relation to this issue is as old as Christianity itself. My thesis is this : we should view techno-accelerationism—exemplified by works like Marc Andreessen’s “ Techno-Optimist Manifesto ”—as a force external to humanity that is actively weakening the Katechon. Beyond Human’s Hands The inherent issue with the Katechon is that if it is left to human institutions, they risk attempting to hold onto their power indefinitely. If one views political institutions as the only thing separating us from chaos, those institutions will naturally find it difficult to let go. We witness this daily: the repetitive mantras about “protecting democracy” are a prime example. In more trivial terms, EU cookie policies are the everyday translation of this impulse. In the name of protecting democracy and human rights and blabla, we are asked to spend half our lives clicking through “accept” buttons for policies that no one reads anyway. Once you recognize this pattern, it appears everywhere—from recent proposals to abolish anonymity on social media to various regulations implemented “for the good of humanity.” It is clear that these institutions are hoarding their power like Uncle Scrooge is holding his gold coins. On the other hand, the progress of digital technology, including AI, has moved beyond their control. More precisely—and this is the central thesis of this Substack—the general trajectory of these technologies is leading us away from a written culture. This is the reason behind the structural defiance of institutions towards any kind of accelerationism. Under these lenses, the forces driving the development of these technologies might be interpreted as a necessary artifact to free humanity from itself. Now a natural question remains: what is the right speed limit? Chasing one own’s shadow The short answer is: we have no way of knowing the correct “speed limit.” It would be too easy otherwise, wouldn’t it? But we can offer a more subtle answer: we cannot know the right speed limit. Why? Because of the inextinguishable human urge to “game” any system. This is displayed daily by the “powers that be,” who attempt to justify their authority by any means necessary. The circus surrounding the Epstein files and the daily deluge of revelations regarding how the system is rigged in favor of its beneficiaries make this clear. “Whatever works” has become the motto. It is, therefore, necessary that the means by which the End of Times arrives remain somehow outside of human hands. AI appears to be a strong candidate. It exists at the intersection of the mind and objective reality. Consider this: AI is actively assisting in the development of even more advanced AIs—a first in the history of human invention. However, there are objective limits—for instance, in terms of power consumption and the raw materials required to build data centers. These points of friction are beyond human control and external to the inherent “needs” of AI systems. They provide the necessary opposition to ensure we do not achieve too much speed too quickly. Here, the dialectic of spirit and matter is at full play. Observe that it is the same thing as the proof-of-work in blockchains. A kind of proof-of-wisdom? That sounds about right in the context of the Katechon…
+
+# Katechon, Acceleration and all that
+
+This post is a direct iteration on "Leibniz’s Nightmare." While it can be read as a standalone piece, the context is significant and non-trivial. Therefore, contrary to my usual practice, I recommend that the motivated reader first examine that prerequisite. (Alternatively, you might ask an AI to provide an executive summary, which would be quite fitting given the subject matter.)
+
+[Linked post: Leibniz's Nightmare]
+
+In my previous post I was making the distinction between the concepts of Antéchrist and Antichrist. The distinction being that Anté is the one that comes before (eg John the Baptist) and Anti is the opposite. The subtlety is that for the second coming of Christ there will be both Antés and an Anti. My point was to show that the computer, and the AI, act as an Anté rather than the Anti. This post is about those asbtruse theological considerations and their relation with the development of the new information technologies. It is about adopting a theological lens to understand how our world is transformed by those technologies.
+
+### The Weakening of the Katechon
+
+I will keep this as self-contained as possible, but some theological background is necessary. The notion of the Katechon is central to the idea of progress embedded within Christianity. Paradoxically—at least at first glance—the Katechon is that which withholds or delays the evolution toward the Revelation.
+
+The concept was also central to Carl Schmitt’s political vision. Though complex and, admittedly, somewhat opaque, the idea is described as:
+
+> “the power that prevents the long-overdue apocalyptic end of times from already happening now”
+>
+> — *Beschleuniger*, C. Schmitt
+
+Schmitt used the idea mostly as a justification of earthly powers. A move that had been made countless times before him. My point here is slightly different.
+
+Without getting too deep into the weeds, the general principle is that humanity progresses toward the end of time, but must not move too quickly. Here, another theological concept comes into play: the Katechon exists not to forbid the End Times, but to ensure they occur only when humanity is ready. In theological terms, it provides humanity with the time to amend itself.
+
+This creates a tension: the Katechon is inherently “good” in that it grants us time to set things right, yet it cannot remain indefinitely, as that would obstruct the fulfillment of human destiny. The question of whether specific institutions are beneficial or merely overly restrictive with relation to this issue is as old as Christianity itself.
+
+My thesis is this**:** we should view techno-accelerationism—exemplified by works like Marc Andreessen’s “Techno-Optimist Manifesto”—as a force *external to humanity* that is actively weakening the Katechon.
+
+### Beyond Human’s Hands
+
+The inherent issue with the Katechon is that if it is left to human institutions, they risk attempting to hold onto their power indefinitely. If one views political institutions as the only thing separating us from chaos, those institutions will naturally find it difficult to let go.
+
+We witness this daily: the repetitive mantras about “protecting democracy” are a prime example. In more trivial terms, EU cookie policies are the everyday translation of this impulse. In the name of protecting democracy and human rights and blabla, we are asked to spend half our lives clicking through “accept” buttons for policies that no one reads anyway.
+
+Once you recognize this pattern, it appears everywhere—from recent proposals to abolish anonymity on social media to various regulations implemented “for the good of humanity.” It is clear that these institutions are hoarding their power like Uncle Scrooge is holding his gold coins.
+
+On the other hand, the progress of digital technology, including AI, has moved beyond their control. More precisely—and this is the central thesis of this Substack—the general trajectory of these technologies is leading us away from a written culture. This is the reason behind the structural defiance of institutions towards any kind of accelerationism.
+
+Under these lenses, the forces driving the development of these technologies might be interpreted as a necessary artifact to free humanity from itself. Now a natural question remains: what is the right speed limit?
+
+### Chasing one own’s shadow
+
+The short answer is: we have no way of knowing the correct “speed limit.” It would be too easy otherwise, wouldn’t it? But we can offer a more subtle answer: we *cannot* know the right speed limit. Why? Because of the inextinguishable human urge to “game” any system.
+
+This is displayed daily by the “powers that be,” who attempt to justify their authority by any means necessary. The circus surrounding the Epstein files and the daily deluge of revelations regarding how the system is rigged in favor of its beneficiaries make this clear. “Whatever works” has become the motto.
+
+It is, therefore, necessary that the means by which the End of Times arrives remain somehow outside of human hands. AI appears to be a strong candidate. It exists at the intersection of the mind and objective reality. Consider this: AI is actively assisting in the development of even more advanced AIs—a first in the history of human invention.
+
+However, there are objective limits—for instance, in terms of power consumption and the raw materials required to build data centers. These points of friction are beyond human control and external to the inherent “needs” of AI systems. They provide the necessary opposition to ensure we do not achieve too much speed too quickly. Here, the dialectic of spirit and matter is at full play. Observe that it is the same thing as the proof-of-work in blockchains. A kind of proof-of-wisdom? That sounds about right in the context of the Katechon…
+
 </content>
 
 </document>

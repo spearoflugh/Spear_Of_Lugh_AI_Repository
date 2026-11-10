@@ -8,6 +8,7 @@
   <type>Essay</type>
   <source_url>https://spearoflugh.substack.com/p/speaker-of-the-house</source_url>
   <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
 
   <relations>
     <prerequisite>sol-000b</prerequisite>
@@ -110,71 +111,48 @@
     Rosset philosophical framework and deepens sol-036 (Disposable Stories) with the
     narrative expropriation mechanism.
   </context>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2026-04-19); content block replaced by the verbatim post text.</item>
+  </fact_check>
 </metadata>
 
 <content>
 
 # Speaker of the House
 
-There is a new trend on social media: accounts dedicated entirely to separating true images from
-fakes. In itself, this is strange. As Clément Rosset explored in 'Reality and its Double,'
-photographs are already a kind of "fake." They were long used as the final arbiters of truth
-because they were perceived as a perfect record of reality. Of course, the famous doctored
-photograph of Stalin and Trotsky proves that the truth was never quite so simple.
+There is a new trend on social media: accounts dedicated entirely to separating true images from fakes. In itself, this is strange. As Clément Rosset explored in *Reality and its Double*, photographs are already a kind of ‘fake.’ They were long used as the final arbiters of truth because they were perceived as a perfect record of reality—a flawless recollection of what occurred. Of course, the famous doctored photograph of Stalin and Trotsky proves that the truth was never quite so simple.
 
-Rosset's parallel with ancient Greek oracular myths — where the hero is told his future and, in
-trying to escape it, only succeeds in fulfilling the prophecy (think Oedipus) — is brilliant.
-I wonder what he would have made of the additional layer of "doubling" introduced by AI-generated
-images and videos in our current digital culture.
+​Rosset’s parallel with ancient Greek oracular myths—where the hero is told his future and, in trying to escape it, only succeeds in fulfilling the prophecy (think Oedipus)—is brilliant. I wonder what he would have made of the additional layer of ‘doubling’ introduced by AI-generated images and videos in our current digital culture.
 
-## Doctored News
+### Doctored news
 
-The raison d'être of statistics is to filter the signal from the noise. Paradoxically, it is also
-a fundamental feature of human memory to forget. AI, as understood today, is essentially applied
-statistics — a machine producing statistics on demand, in real-time. It is worth remembering that
-Jesus was born in a stable because of a census. Even from a theological perspective, statistics
-are not merely a neutral mathematical tool; there is something Promethean about them. Historically,
-computing statistics was a grueling task of major political importance: the ability to levy taxes
-or raise an army was what was at stake. Today, anyone with a smartphone possesses more detailed
-statistics than Quirinius ever did.
+​The *raison d’être* of statistics is to filter the signal from the noise. Paradoxically, it is also a fundamental feature of human memory to forget. The problem of being submerged by data is not limited to social media timelines; it is pervasive. The perfection of computer memory and the processing power of modern machines have fundamentally altered this landscape.
 
-Yet AI also brings the possibility of editing records and manipulating data. During the last 45 days
-of war with Iran, the Trump presidency has stated 28 times that the war was won and over. Conversely,
-the Iranian regime produces endless deceptions, memes, and short videos. In the middle, the average
-social media user has no idea what is actually happening. I know less about this war than I did about
-the first Iraq War 35 years ago.
+​AI, as understood today, is essentially applied statistics—a machine producing statistics on demand, in real-time. It is worth remembering that Jesus was born in a stable because of a census. Thus, even from a theological perspective, statistics are not merely a neutral mathematical tool; there is something Promethean about them. Historically, computing statistics was a grueling task of major political importance: the ability to levy taxes or raise an army was what was at stake. Today, anyone with a smartphone possesses more detailed statistics—and of far higher quality—than Quirinius ever did. You know more about your own time than a Roman emperor could ever have dreamed.
 
-In short: we have acquired the power to bend the narrative, and in doing so, to free ourselves
-from reality.
+​Yet AI also brings the possibility of editing records and manipulating data. The issue of ‘cheating’ is already well-established in chess, a domain where computers reached superhuman levels over 25 years ago. The ability to generate text and successfully pass trivial versions of the Turing Test is more recent, unraveling at a breakneck pace since the public launch of ChatGPT in late 2022.
 
-## The Unbearable Heaviness of Reality
+​Much like the Fruit of Knowledge, the rise of AI can be seen as a Fall from the Garden of Eden. Before the digital age, news was perceived as self-evidently true. While this was not factually the case, it was felt that way by most. Today, we have access to more data than ever, yet less trust than ever before. The first move made by Adam and Eve after eating the forbidden fruit was to protect their newly visible vulnerability. Does this translate into people protecting their worldviews by retreating into the cognitive dissonance of social media ‘chitchat’? It is a compelling interpretation.
 
-For Rosset, it is precisely because the real is so difficult to endure that humans require a "double."
-Reality is unbearable for one specific reason: it is what it is, and nothing else. No hidden message,
-no depth, no destiny.
+​During the last 45 days of war with Iran, the Trump presidency has stated 28 times that the war was won and over. Conversely, the Iranian regime produces endless deceptions, memes, and short videos. In the middle, the average social media user has no idea what is actually happening. I know less about this war than I did about the first Iraq War 35 years ago—at least, that is my intuitive perception of the information environment. That conflict also marked a new era in media history: the birth of ‘news as a commodity’ with the rise of CNN and cable news.
 
-Here, enters AI — and the Second Fall. In the biblical narrative, the human state before consuming
-the forbidden fruit is defined by a lack of moral differentiation and an absence of self-consciousness.
-Social media users are now consciously abandoning their self-awareness. They apply moral judgment to
-bend narratives, favoring stories that mitigate the cognitive dissonance sparked by the unexpected
-unraveling of world events since 2016. But while this begins as a conscious choice, it structurally
-slips into the digital hands of algorithms and opaque boosting policies.
+​In the time since, as quantity has increased, quality has dwindled in a peculiar way. I have access to professional-grade 4K video all day long—more than my waking hours allow. I could spend several lifetimes ‘doom-scrolling.’ I can also choose my own editorial line: is Israel being plundered by hypersonic missiles, or are Mullahs being buried alive under rubble? With a few clicks and some strategic ‘follows,’ I can tinker with my timeline in any direction. In short: we have acquired the power to bend the narrative, and in doing so, to free ourselves from reality.
 
-## Its Story
+### The unbearable heaviness of reality
 
-Human memory is not built through the exhaustive collection of data. To remember, humans tell stories.
-History is also "his story" — that of the narrator. Weaving facts into a narrative is not optional
-for humans; it is essential, much like the need for intimacy. The "fig leaf" of the Fall represents
-the stories we need to make sense of the world.
+For Rosset, it is precisely because the real is so difficult to endure that humans require a ‘double.’ Reality is unbearable for one specific reason: it is what it is, and nothing else. The absence of meaning**:** For Rosset, reality has no ‘depth,’ no hidden message, and no destiny. Here, however, enters AI—and the Second Fall.
 
-Increasingly, AI is robbing you of this work by feeding you "trends." Some companies even propose
-using AI to replace a pet or impersonate a deceased family member. In reality, the machine is
-robbing you of the grieving process. In the same way, trends and timelines relieve you of the
-burden of constructing a cogent story from the deluge of data — both real and synthetic.
+​In the biblical narrative of Genesis, the human state before consuming the forbidden fruit is defined by a lack of moral differentiation and an absence of self-consciousness. Observe the duality introduced by digital technologies: social media users are now consciously abandoning their self-awareness. Instead, they apply moral judgment to bend narratives, favoring stories that mitigate the cognitive dissonance sparked by the unexpected unraveling of world events since 2016. But while this begins as a conscious choice, it structurally slips into the digital hands of algorithms and opaque boosting policies.
 
-If you want a picture of the future, imagine a bot spitting stories onto a social media timeline —
-forever. Don't be afraid of "paperclip maximizing." It is what is — or more importantly, what is
-not — written on the paper that should scare you.
+### Its Story
+
+Human memory is not built through the exhaustive collection of data. To remember, humans tell stories. History is also ‘his story’—that of the narrator. The work of historians mimics, at a societal level, the process I described regarding individual memory. Weaving facts into a narrative is not optional for humans; it is essential, much like the need for intimacy. The ‘fig leaf’ of the Fall represents the stories we need to make sense of the world.
+
+​Increasingly, AI is robbing you of this work by feeding you ‘trends.’ Some companies even propose using AI to replace a pet or impersonate a deceased family member. This is cringe as hell and goes deeper than meets the eye. By doing this, people are supposedly ‘relieved’ of their burdens: cleaning the cat’s litter is a chore, and the memory of a lost parent is painful. So, why not take the AI pill?
+
+​In reality, the machine is robbing you of the grieving process. In the same way, trends and timelines relieve you of the burden of constructing a cogent story from the deluge of data—both real and synthetic. In many ways, the future is exactly as forecasted in those late-60s Sci-Fi movies where people lived on pills. ‘Gym bros’ do this literally to optimize their protein intake. At least with them, the pathology is visible on their bodies. It’s called ‘looksmaxxing,’ I guess—with two Xs, because on X alone, you are already being fed synthetic stories.
+
+​If you want a picture of the future, imagine a bot spitting stories onto a social media timeline—forever. Don’t be afraid of ‘paperclip maximizing.’ It is what is—or more importantly, what is not—written on the paper that should scare you. A kind of perfection of messy living—something like a clockwork orange.
 
 </content>
 

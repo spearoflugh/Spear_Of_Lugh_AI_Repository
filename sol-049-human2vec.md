@@ -3,11 +3,12 @@
 <metadata>
   <doc_id>sol-049</doc_id>
   <title>Human2Vec</title>
-  <date>2025-07</date>
+  <date>2025-07-08</date>
   <cluster>Institutional Diagnosis</cluster>
   <type>Predictive_Confirmation</type>
   <source_url>https://spearoflugh.substack.com/p/human2vec</source_url>
   <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
 
   <relations>
     <prerequisite>sol-000j</prerequisite>
@@ -76,32 +77,42 @@
   <fibralist_connection>
     <bridge_to_fibralist>fib-002 (Fibrizen rights: the Fibrizen is defined precisely as the counter to ABC/HAP — high-data identity built on covenant and mutual recognition rather than authorization checkpoints; the Fiber makes HAP structurally harder to implement by replacing the isolated digital asset with a relational node that has institutional standing)</bridge_to_fibralist>
   </fibralist_connection>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2025-07-08); content block replaced by the verbatim post text.</item>
+    <item status="VERIFIED">REAL ID enforcement for US domestic flights began on 7 May 2025.</item>
+  </fact_check>
 </metadata>
 
 <content>
-The REAL ID act passed by congress in 2005 is a sequel of 9/11. It is a federal law aimed at establishing minimum security standards of state-issued IDs. It came back, or not, to the news cycle recently. Starting last may the 7th 2025, a REAL ID-compliant ID (or an alternative like a US passport) is required for domestic air travel and entry to certain federal facilities like nuclear power plants. Ironically it was the exact example that I used in my previous post about ABC:
 
-The direct quote is:
+# Human2Vec
 
-> The normal state of affairs is that you don't have to give any authorization to live your life unless you want to do something very specific like entering in a nuclear plant
+The REAL ID act passed by congress in 2005 is a sequel of 9/11. It is a federal law aimed at establishing minimum security standards of state-issued IDs. It came back, or not, to the news cycle recently. Starting last may the 7th 2025, a REAL ID-compliant ID (or an alternative like a US passport) is required for domestic air travel and entry to certain federal facilities like nuclear power plants. Ironically it was the exact example that I used in my previous post about ABC :
 
-Listening to the last Darkhorse podcast episode about Real ID has made me realized that things have, unfortunately, progressed as exactly as I had expected/feared. The echoes of my ABC essay sound in the whole episode of the podcast. I wrote it 4 years ago. What happened?
+[Linked post: ABC - Authorization Based Citizenship]
 
-## Natural Language Processing
+The direct quote is
 
-NLP is a sub-field of computer science. After WWII people thought that, as they were able to break cryptosystems (like Enigma), they were able to crack automatic translation. After all from an English speaking perspective Russian might be seen as a cryptosystem. It turned out that things were more complex than originally thought. Many very bright researchers tried many clever things for decades without achieving much. Everything changed with Big Data.
+> The normal state of affairs is that you don’t have to give any authorization to live your life unless you want to do something very specific like entering in a nuclear plant
 
-I remember during the early 2000s: as the access to internet was becoming mainstream, more and more data was available to perform heavy statistical things on natural languages. I thought at the time that it was a shame for all those bright people who spent their lives trying to solve a problem that finally ended up by being solved using raw computation power. A whole branch of research had been devitalized by statistics.
+Listening to the last Darkhorse podcast episode about Real ID, has made me realized that things have, unfortunately, progressed as exactly as I had expected/feared. The echoes of my ABC essay sound in the whole episode of the podcast. I wrote it 4 years ago. What happened?
 
-Then, in the 2010s, the statistical approach to NLP produced new breakthroughs: first the Word2Vec algorithm representing words as vectors, followed by transformers architecture which are at the root of the AI mania that we are experiencing now.
+### Natural Language Processing
 
-Maybe you haven't yet made the link with the introduction, and surely it is going to shock you when both subjects are going to be linked in your mind. Indeed one of the untold aims of the REAL ID initiative is to make the flesh and the digital worlds converge. Once it will be done, if you liked NLP, then you will love HAP, Human Automated Processing…
+NLP is a sub-field of computer science. After WWII people thought that, as they were able to break cryptosystems (like Enigma), they were able to break automatic translation. After all from an English speaking perspective Russian might be seen as a cryptosystem. It turned out that things were more complex than originally thought. Many very bright researchers tried many clever things for decades without achieving much. Everything changed with Big Data.
 
-## Human Automated Processing
+I remember during the early 2000s: as the access to internet was becoming mainstream, more and more data was available to perform heavy statistical things on natural languages. I thought at the time that it was a shame for all those bright people who spent their lives trying to solve a problem that finally ended up by being solve using raw computation power. A whole branch of research had been devitalized by statistics.
 
-The year is 2037. REAL ID is now checked at every instant of your life in order to check whether or not you are authorized to do something. The topological revolution has produced its effects: now the jail is outside the walls, in the wild. You can't lift a finger without having first your privilege checked across the networks. The key is the REAL ID. Do you remember how they used to be sure of the uniqueness of each prisoner in concentration camps? They put the number under the skin, in a tattoo. Now they have inverted the scheme and put the skin in the numbers. It is called biometrics. For instance REAL ID-compliant IDs must include a digital photograph of the applicant. This photo needs to comply with international standards (like ICAO 9303 "biometric data interchange formats"), making it compatible with facial recognition technology. The concentration camp has become a dilution camp. Instead of concentrating people in a camp, you let them in the wild. The society is now constituted by a cloud of dust. Each individual is facing a distributed system of power. Each one alone in his own island. Once again it was the novelists that were spot on. "The possibility of an island" by Houellebecq captures well this evolution at the difference that in our reality people are not physically separated. The separation is done through the digital networks. And the REAL ID is this portal transforming each human into a digital asset that can be remotely studied and controlled. The second part is the fact that the powers that be will push for the universal acceptance of such devices. It is one thing to have tech enthusiasts ready to implant a chip under their skin in order to pay with their hands (which is stupid anyway because a ring would do the job but it is not about that). It is another thing when it becomes mandatory and to be pointed at if you don't have the magic pass.
+Then, in the 2010s, the statistical approach to NLP produced new breakthrough : first the Word2Vec algorithm representing words as vectors, followed by transformers architecture which are at the root of the AI mania that we are experiencing now.
 
-You thought that the situation was dire because now you are interacting more with bots than with humans on social media? Get ready to have to face the machine first, before being allowed to do anything. In some sense this is the endgame of the written society in which the editorial control is taking over everything. The ones who control the bits will control the world. But it can only work if the real world submits to the virtual world. The REAL ID cards don't have any actual power over the objective. It is only if we grant it that it is going to work. Just like during the COVID crisis: everyone became a victim and an executioner. You had to have the vaccine pass, but you also were the ones checking the validity of passes using government approved applications and scanning QR-codes to enforce the policies. Maybe the ultimate distributed version of public-private partnership…
+Maybe you haven’t yet made the link with the introduction, and surely it is going to shock you when both subjects are going to be linked in your mind. Indeed one of the untold aim of the REAL ID initiative is to make the flesh and the digital worlds to converge. Once it will be done, if you liked NLP, then you will love HAP, Human Automatized Processing…
+
+### Human Automatized Processing
+
+The year is 2037. REAL ID is now checked at every instant of your life in order to check whether or not you are authorized to do something. The topological revolution has produced its effects: now the jail is outside the walls, in the wild. You can’t lift a finger without having first your privilege checked across the networks. The key is the REAL ID. Do you remember how they used to be sure of the uniqueness of each prisoners in concentration camps? They put the number under the skin, in a tattoo. Now they have inverted the scheme and put the skin in the numbers. It is called biometrics. For instance REAL ID-compliant IDs must include a digital photograph of the applicant. This photo needs to comply with international standards (like ICAO 9303 "biometric data interchange formats"), making it compatible with facial recognition technology. The concentration camp has become a dilution camp. Instead of concentrating people in a camp, you let them in the wild. The society is now constituted by a cloud of dust. Each individual is facing a distributed system of power. Each one alone in his own island. Once again it was the novelists that were spot on. “The possibility of an island” by Houellebecq captures well this evolution at the difference than in our reality people are not physically separated. The separation is done through the digital networks. And the REAL ID is this portal transforming each human into a digital asset that can be remotely studied and controlled. The second part is the fact that the powers that be will push for the universal acceptance of such devices. It is one thing to have tech enthusiasts ready to implant a chip under their skin in order to pay with their hands (which is stupid anyway because a ring would do the job but it is not about that). It is another thing when it becomes mandatory and to be pointing at if you don’t have the magic pass.
+
+You thought that the situation was dire because now you are interacting more with bots than with humans on social media? Get ready to have to face the machine first, before being allowed to do anything. In some sense this is the endgame of the written society in which the editorial control is taking over everything. The ones who control the bits will control the world. But it can only work if the real world submit to the virtual world. The REAL ID cards don’t have any actual power over the objective. It is only if we grant it that it is going to work. Just like during the COVID crisis : everyone became a victim and an executioner. You had to have the vaccine pass, but you also were the ones checking the validity of passes using government approved applications and scanning QR-codes to enforce the policies. Maybe the ultimate distributed version of public-private partnership…
+
 </content>
 
 </document>

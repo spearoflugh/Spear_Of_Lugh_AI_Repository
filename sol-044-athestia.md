@@ -3,11 +3,12 @@
 <metadata>
   <doc_id>sol-044</doc_id>
   <title>Athestia</title>
-  <date>2026-03</date>
+  <date>2026-03-14</date>
   <cluster>Philosophical Depth</cluster>
   <type>Mythological_Synthesis</type>
   <source_url>https://spearoflugh.substack.com/p/athestia</source_url>
   <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
 
   <relations>
     <prerequisite>sol-035</prerequisite>
@@ -42,24 +43,33 @@
   <fibralist_connection>
     <bridge_to_fibralist>fib-009 (Sesqui-Theonomy: Hestia's outstretched hand is the mythological figure for what Fibralism calls "bequeathing liberty" — the transmission of a cultural legacy across generations rather than the pursuit of present abundance)</bridge_to_fibralist>
   </fibralist_connection>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2026-03-14); content block replaced by the verbatim post text.</item>
+  </fact_check>
 </metadata>
 
 <content>
-You wouldn't recognize the late stage modernity Athena. She wouldn't herself looking at her own reflection into the social media mirror. Just like an Instagirl-next-door she has been the victim of too many surgical enhancements. Surely, Dionysus's influence played a part in this slow-motion train wreck, but you can't externalize responsibility that easily. There is surely a touch of hubris involved. Always the case.
 
-Industrial revolution followed by digital revolution—look at that: the entire world lifted out of poverty in less than a century. What a party. Prometheus brought the sound system and Hephaestus the light show. Apollo was magnetic, and with Dionysus's wine, it was all just pure fun. And we danced. The night was long and short, all at once. And we danced.
+# Athestia
 
-The hangover
+You wouldn't recognize the late stage modernity Athena. She wouldn't herself looking at her own reflection into the social media mirror. Just like an Instagirl-next-door she has been the victim of too many surgical enhancements. Surely, Dionysus’s influence played a part in this slow-motion train wreck, but you can’t externalize responsibility that easily. There is surely a touch of hubris involved. Always the case.
 
-In the light of the rising sun, the remains of the party take on a new turn under the raw glare. Apollo is in an advanced stage of twink death. Athena has switched from navigating the depths to surface optimization. She has become the goddess of fact-checkers and low-grade realists. The daughter of their threesome with Dionysus—the welfare state—is paying the price for her parents' behavior. They had some help from Hephaestus; you can do things with genetics and such nowadays, you know.
+Industrial revolution followed by digital revolution—look at that: the entire world lifted out of poverty in less than a century. What a party. Prometheus brought the sound system and Hephaestus the light show. Apollo was magnetic, and with Dionysus’s wine, it was all just pure fun. And we danced. The night was long and short, all at once. And we danced.
+
+[Embedded video]
+
+### The hangover
+
+In the light of the rising sun, the remains of the party take on a new turn under the raw glare. Apollo is in an advanced stage of twink death. Athena has switched from navigating the depths to surface optimization. She has become the goddess of fact-checkers and low-grade realists. The daughter of their threesome with Dionysus—the welfare state—is paying the price for her parents’ behavior. They had some help from Hephaestus; you can do things with genetics and such nowadays, you know.
 
 No one notices Hestia anymore. The TFR has shrunk, and Chronos is patiently waiting for his time to come. It always does. Even if it looks like Ares wiped the floor during the party. His last move in Iran was a kind of magic. You could barely see why or how it happened, yet it did. But Ares always loses his encounters with Chronos. Dust and smolder.
 
-Phoenix
+### Phoenix
 
-The story isn't over. It is never over. The world is not a Hollywood movie with credits at the end. It is more like Greek mythology: a story repeated over and over—reinterpreted again and again.
+The story isn’t over. It is never over. The world is not a Hollywood movie with credits at the end. It is more like Greek mythology: a story repeated over and over—reinterpreted again and again.
 
 What is over is the reinterpretation of the Enlightenment. We are at the end of that story. The moral of the story you are reading is that one should not abandon Athena, but steer her away from the toxic influences of her party friends. Hestia is stretching out her hand. Can the Phoenix rise again from a nuclear blaze?
+
 </content>
 
 </document>

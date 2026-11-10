@@ -8,6 +8,7 @@
   <type>Empirical_Chronicle</type>
   <source_url>https://spearoflugh.substack.com/p/social-media-wars</source_url>
   <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
 
   <relations>
     <prerequisite>sol-000f</prerequisite>
@@ -103,40 +104,59 @@
   <fibralist_connection>
     <bridge_to_fibralist>fib-007 (Defense and Fibers: the OSINT problem — signal vs noise when everything is published — is addressed in fib-007 through the concept of distributed human intelligence networks that operate at DHL-1/2 scale where signal-to-noise is manageable because the community is small enough to assess credibility directly)</bridge_to_fibralist>
   </fibralist_connection>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2022-04-16); content block replaced by the verbatim post text.</item>
+    <item status="CORRECTION">Previous content was a reconstruction (~11% of the text). Full verbatim text restored.</item>
+    <item status="VERIFIED">Ukraine's Air Force acknowledged on 30 April 2022 that the "Ghost of Kyiv" was a collective myth; the Washington Post reported Ukraine's use of Clearview AI on dead Russian soldiers (April 2022).</item>
+  </fact_check>
 </metadata>
 
 <content>
-Written April 16, 2022 — seven weeks into the Russian invasion of Ukraine — as empirical
-follow-up to the author's February 21, 2022 prediction: "We are on the verge of the first
-post social media era major war."
 
-Key observations from the first post-social-media major war:
+# Social Media Wars
 
-MEME BLITZKRIEG: Ukrainian propaganda established the information field before conventional
-media editorialized. Ghost of Kyiv, Snake Island, sunflower seed grandma — all narrative
-units (sol-036) that formed a swarm before journalists arrived. "Memes directed the public
-discourse, not the other way around." The swarm achieved in hours what diplomatic coordination
-used to take days — Western unanimity and sanctions enacted before laws were voted.
+At the beginning of the conflict between Ukraine and Russia I was wondering what role the new information technologies were going to play in it. Here is what I tweeted three days before the invasion (it was already clear given the speech of V. Putin that it was going to happen).
 
-SWARM WITHOUT SELF-AWARENESS: the Ukraine support swarm had no self-preservation instinct,
-no thought process beyond the next 10 minutes, yet structurally controlled state-level
-decisions. Paradox: control without direction. Escalation has no natural ceiling on social
-media — from preferred pronouns to demanding no-fly zones against a nuclear power follows
-the same structural logic.
+[Embedded X post]
 
-OSINT: operational secrecy is structurally impossible when every soldier carries a camera.
-The response: flood the information field rather than restrict it. The smartphone as
-sniper-magnet: switching it on in combat gives minutes before artillery arrives. Future
-AI challenge: sorting signal from noise in a saturated battlefield information space.
+A month and a half after the start of this war, we can draw some insight about what is going on in this virtual theater of confrontation.
 
-PSYCHOLOGICAL WARFARE DIGITIZED: facial recognition on dead soldiers + social media = direct
-family contact. Targeted SMS destabilization. The Stalingrad radio trolling extended to
-bidirectional, personalized, real-time scale. The same technology used to broadcast is
-used to target (Sesame Two-Way Street — sol-030).
+### Memes and trolls
 
-Conclusion: "Things will never be like before. Forget about WWII, Midway, El-Alamein kind
-of struggle. If you don't want to prepare for the previous you need to think about these
-new evolutions."
+The meme war started as soon as the invasion took place. It was a blitzkrieg from the Ukrainian point of view. As there were no ambiguities on who is attacking who - you can make all the comment you want at a high historical/geostrategic level there is no way around the fact that Russia is the agressor here - it was easier to produce all kinds of information (true, false, misleading etc.) that stick and take ground on social media from the Ukrainian point of view. Russians are supposed to master the hybrid wars but they were completely crushed here. It started with heroic stories of the Ghost of Kyiv and the Snake Island (volume 1) or the sunflower seed grandma. It was usual propaganda but wrapped in a XXI° way of being delivered. The importance of such stories cannot be underestimated. It is hard to measure but it play an important role both internally and internationnally. The usual Twitter world covered itself with Ukrainian flags (replacing the masks and synringes) almost instantly. It initiated the swarm that was so instrumental in how the West responded.
+
+What is impressive here is the speed and level of unanimity and sanctions of the West reached in a matter of hours. It has to be noted that most of the rest of the world remained neutral (India and China, but also latin america and Africa). Is it linked to the heatmap of social media users (I am thinking at Twitter and Facebook mostly here)?
+
+Another important point: news broadcaster were lagging here. The memes directed the public discourse, and not the other way aroud. The rare cautions (fog of war, we don’t really know etc.) emitted by specialists did not took any significant ground. The swarm formed by this meme war was in *control*.
+
+[Image caption: Snake Island - Vol. 1]
+
+### The Swarm
+
+This propaganda blitzkrieg on the social media created a swarm. This allegory by John Robb is very useful to think what happened. Many actors, from individual up to nation-states (even alliances of nation-states) passing by corporations all aligned instantly along very simple lines: Russia is evil, we must support Ukraine whatever the cost. Indeed an evil adeversary was identified and it became impossible to have a nuanced conversation. Even simply acknowledging that if you want to end this war you need someone to talk to was inaudible.
+
+[Embedded X post]
+
+The important point here is that the escalation knows no limit on social media. It is very easy to be absolutist in such an environment. Actually it is worse than that: you have to be an absolutist. It is very much in line with “you don’t want to kill grandma do you ?” kind of argumentation for vaccine mandates but during a war and against a nuclear power… It is a strange phenomenon because it looks like the swarm has a life on its own, and at the same time the swarm is not self-aware. There is no self preservation instinct, or anything remotely close to a thought process that goes beyond the next 10 minutes. So it is misleading to write that the swarm is in control, because it does not even control itself, but at the same time the rethoric of the POTUS and many important actors have been influenced by this swarm. Many companies have acted on behalf of the swarm before sanctions were voted or even decided. How will it end remains an open question at the time of writing. But this escalatory mecanism is typical of social media where you don’t have to directly deal with reality. Usually it is about preferred pronouns, but here it is about enforcing a no fly zone or other very heavy strategic things.
+
+### OSINT
+
+Social media completely turned the information warfare. In France the pseudo of the army is “la grande muette” (the big mute). But as every soldier and civilian is equiped with a camera and a communication device, the secrecy, that has always been a huge part of war, cannot be maintained. What we have witnessed is that soldiers don’t even try to control the flow of information by restraining it. It is an almost impossible task to complete. They adopted the strategy of overflowing the information field with all kind of informations. This is a major future issue to resolve, and a huge challenge for Aritficial Intelligence: how can you sort the wheat from the chaff ?
+
+The fighters have also quickly noticed that smartphones can be carelessly used. They can act as a XXI° version of the cigarette red dot that was used by snipers to eliminate careless smokers. In 2022 if you switch on your phone you have few minutes at best to prepare for the artillery deluge that is coming over you.
+
+### The psychologocial front
+
+Psychological warfare has always existed and adapted to the information technologies. During the Stalingrad battle Soviets were alreading trolling Germans troops on their frequencies by sending messages like this famous one repeated in a never ending loop:
+
+> Every seven seconds a German soldier dies - Stalingrad is a mass grave.
+>
+> 1…2…3…4…5…6…7
+
+Social media have added a new dimension. Ukraine reportedly used facial recognition of dead soldiers to directly contact the family of the dead and captured soldiers. Social media was instrumental at both end: first as a source to identify the soldiers, and the target to communicate directly with family members. Another XXI° kind of action was the use of text messages to destabilise the enemy. Both Russia and pro-Ukraine have used this tactics.
+
+The battlefield has changed and it is only the beginning. It has expanded to the virtual world. What can be done and how far this can have implications in the conflict will be analyzed later. But things will never be like before. Forget about WWII, Midway, El-Alamein, kind of struggle. If you don’t want to prepare for the previous you need to think about these new evolutions. Seriously think about them.
+
 </content>
 
 </document>

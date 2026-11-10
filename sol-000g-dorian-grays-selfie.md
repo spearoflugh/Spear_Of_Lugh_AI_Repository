@@ -3,11 +3,12 @@
 <metadata>
   <doc_id>sol-000g</doc_id>
   <title>Dorian Gray's Selfie</title>
-  <date>2021</date>
+  <date>2021-03-20</date>
   <cluster>Foundational Theory</cluster>
   <type>Philosophical_Foundation</type>
   <source_url>https://spearoflugh.substack.com/p/dorian-grays-selfie</source_url>
   <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
 
   <relations>
     <is_foundation_of>sol-042</is_foundation_of>
@@ -40,22 +41,29 @@
   <fibralist_connection>
     <!-- No direct bridge — pre-foundational article predating the Fibralist Corner -->
   </fibralist_connection>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2021-03-20); content block replaced by the verbatim post text.</item>
+  </fact_check>
 </metadata>
 
 <content>
-There is something deep, on which I haven't been able to put the finger on it yet, that makes the new information technologies invert things. The last instance of this general idea that came to my mind is the myth of Dorian Gray. There are many layers to this myth. Lets just consider the surface level: the picture of Dorian Gray keeps getting uglier in parallel with Dorian Gray bad behavior in its "real" life. It is easy to see how it is the perfect dual of what happens on social media. On social media you expose only the best part of your life (holliday pictures, nice meals etc.) , and sometimes you cheat a little (instagram filters on pictures etc.). The fact that some users are self-reflexively humoristic about their life doesn't change the idea: at the bottom of it, you are chosing to expose what you think is "good" about you (be it being very critic of yourself). This is this very act of choosing that is central. Any resemblance with the constant drama around gender fluidity etc. is not fortuitous…
 
-Free will as gone awry
+# Dorian Gray's Selfie
 
-Why is it that having access to a virtual world makes things go so awry? I don't have a definitive answer but my hunch is that it is because exercising free will in the objective world is not the same thing as exercising free will in the virtual world. In the objective world you judge actions after having done them. The portrait of Dorian Gray becomes uglier after each mistep. It is not the same in the virtual world : first in your ideas there are no other limits than the boundaries you set up yourself. Maybe you limit yourself to a vision of the universe and this vision includes fantasy ideas (e.g. I am the strongest person of the world) but you still have to obey laws of physics in your dreams. In short you choose the rule of the game, contrary to what happen in the objective world (the world in which gambling does not amount to winning). The portrait, from this point of view, is a part of the objective world: it is ultimately linked to causality as we usually understand it. On the other hand, in the virtual world you can choose your appearance before any interaction. It looks like a kind of reversed causality: you instantiate your will (you take a selfie until you are satisfied with the result, modify it using filters …) before it exists (meaning before it is published on a social media which is the equivalent of an event of the objective world).
+There is something deep, on which I haven’t been able to put the finger on it yet, that makes the new information technologies invert things. The last instance of this general idea that came to my mind is the myth of Dorian Gray. There are many layers to this myth. Lets just consider the surface level: the picture of Dorian Gray keeps getting uglier in parallel  with Dorian Gray bad behavior in its “real” life. It is easy to see how it is the perfect dual of what happens on social media. On social media you expose only the best part of your life (holliday pictures, nice meals etc.) , and sometimes you cheat a little (instagram filters on pictures etc.).  The fact that some users are self-reflexively humoristic about their life doesn’t change the idea: at the bottom of it, you are chosing to expose what you think is “good” about you (be it being very critic of yourself). This is this very act of choosing that is central. Any resemblance with the constant drama around gender fluidity etc. is not fortuitous…
 
-Abrahamic stories and the call for adventure
+#### Free will as gone awry
+
+Why is it that having access to a virtual world makes things go so awry? I don’t have a definitive answer but my hunch is that it is because exercising free will in the objective world is not the same thing as exercising free will in the virtual world. In the objective world you judge actions after having done them. The portrait of Dorian Gray becomes uglier *after*each mistep. It is not the same in the virtual world : first in your ideas there are no other limits than the boundaries you set up yourself. Maybe you limit yourself to a vision of the universe and this vision includes fantasy ideas (e.g. I am the strongest person of the world) but you still have to obey laws of physics in your dreams. In short you choose the rule of the game, contrary to what happen in the objective world (the world in which gambling does not amount to winning). The portrait, from this point of view, is a part of the objective world: it is ultimately linked to causality as we usually understand it. On the other hand, in the virtual world you can choose your appearance before any interaction. It looks like a kind of reversed causality: you instantiate your will (you take a selfie until you are satisfied with the result, modify it using filters …) before it exists (meaning before it is published on a social media which is the equivalent of an event of the objective world).
+
+#### Abrahamic stories and the call for adventure
 
 When seeing things through this dualistic point of view there is another striking thing that comes to mind. You can interpret the abrahamic stories as a call to adventure: in the real world you have to move your ass off, fight the adversity and the unknown in the hope of a future brighter than the present. But what is a blessing (call of God) in the objective world may become a curse in the virtual world. Because you have no boundaries, you can get lost pretty easily in your ideas. There is no objective feedback to remind you that you are not superman. And even if you dream that you can fly (that you can change your gender swapping fingers, or moving fingers on a keyboard would be more appropriate), jumping through the window is at your own risk.
 
-More generally: the very fact that virtual world and objective world interact transforms the moral landscape. Before new information technologies there was nothing similar. In our tradition this kind of problem was severly limited and was basically reduced to this question: is Jesus God? Basically this is the question of adequation between the ideas (God being the allegory of the world of ideas) and the objective world (Jesus is a real person I can talk to). Are they equal, different, what does it mean to be the son of yourself etc. ? So historically the domain of these troubling thoughts was severly limited (yet it led to the geopolitical map of today because people had different ideas on this very abstract question which led a to schism in christianity). But nowadays, thanks to the digitalized portal, the mysteries of the incarnation and of the ascent to sky are available to anyone.
+More generally: the very fact that virtual world and objective world interact transforms the moral landscape. Before new information technologies there was nothing similar. In our tradition this kind of problem was severly limited and was basically reduced to this question: is Jesus God? Basically this is the question of adequation between the ideas (God being the allegory of the world of ideas) and the objective world (Jesus is a real person I can talk to). Are they equal, different, what does it mean to be the son of yourself etc. ? So historically the domain of these troubling thoughts was severly limited (yet it led to the geopolitical map of today because people had different ideas on this very abstract question which led a to schism in christianity). But nowadays, thanks to the digitalized portal,  the mysteries of the incarnation and of the ascent to sky are available to anyone.
 
-This situation creates a messy moral environment for which traditionnal wisdoms don't give ready made answers. It is not because you can do something that you can think clearly about it. No one has produced any Artificial Intelligence approaching human level, yet anyone on earth knows how to create a new intelligent creature: you just need to have a baby, which is the simplest thing on earth to do. Our wisdom has not yet caught up with the powers that have been delivered to us via the new information technologies.
+This situation creates a messy moral environment for which traditionnal wisdoms don’t give ready made answers. It is not because you can do something that you can think clearly about it. No one has produced any Artificial Intelligence approaching human level, yet anyone on earth knows how to create a new intelligent creature: you just need to have a baby, which is the simplest thing on earth to do. Our wisdom has not yet caught up with the powers that have been delivered to us via the new information technologies.
+
 </content>
 
 </document>

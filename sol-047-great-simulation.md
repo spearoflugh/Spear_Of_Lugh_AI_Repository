@@ -3,11 +3,12 @@
 <metadata>
   <doc_id>sol-047</doc_id>
   <title>The Great Simulation</title>
-  <date>2025-10</date>
+  <date>2025-10-20</date>
   <cluster>AI and Technology</cluster>
   <type>Philosophical_Analysis</type>
   <source_url>https://spearoflugh.substack.com/p/the-great-simulation</source_url>
   <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
 
   <relations>
     <prerequisite>sol-024c</prerequisite>
@@ -74,32 +75,39 @@
   <fibralist_connection>
     <bridge_to_fibralist>fib-009 (Sesqui-Theonomy: the Fiber's covenant is precisely the institutional form of will — a multi-generational commitment that requires active exercise of will to maintain, against the AI default of outsourced wishes)</bridge_to_fibralist>
   </fibralist_connection>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2025-10-20); content block replaced by the verbatim post text.</item>
+  </fact_check>
 </metadata>
 
 <content>
-I have always found that the idea that we are living in a simulation utterly stupid. For once it doesn't bring anything to the table. How would it change anything in your life? More profoundly it is a lazy idea. It is like hiding the crumbs under the carpet. If the simulation hypothesis is true then the question of who we are and what is the universe remain intact. What is the computer in which the simulation is running? It is another simulation that I want to talk about here: the real simulation, the one that AI is displaying on a daily basis now. I am talking about the simulation of will disguised as an optimization process.
 
-## Unite and conquer
+# The Great Simulation
 
-The promise of AI is similar to the one of monotheism. There is just one algorithm that encompasses them all. The AI is becoming this unique portal through which netizens access the virtual world. You want to do an internet search? Read a user's manual, chat to pass time, code, do some trading etc.? Then ChatGPT is here for you. There is even this push to turn ChatGPT into a whole operating system, a bit like what happened to the browsers at the onset of the 2000s. By the way Chromebooks are the end result of this evolution: your laptop is seen as an entry point to the cloud. So in the same way that a monotheistic God would reign over more specialized gods, the AI system is seen as superior, and encompassing, with relation to the previous digital systems.
+I have always found that the idea that we are living in a simulation utterly stupid. For once it doesn't bring anything to the table. How would it change anything in your life ? More profoundly it is a lazy idea. It is like hiding the crumbs under the carpet. If the simulation hypothesis is true then the question of who we are and what is the universe remain intact. What is the computer in which the simulation is running ? It is another simulation that I want to talk about here: the real simulation, the one that AI is displaying on a daily basis now. I am talking about the simulation of will disguised as an optimization process.
+
+### Unite and conquer
+
+The promise of AI is similar to the one of monotheism. There is just one algorithm that encompasses them all. The AI is becoming this unique portal through which netizen access the virtual world. You want to do an internet search ? Read an user’s manual, chat to pass time, code, do some trading (as in the illustration above —observe how the combine trades sum to 0, mostly random luck—) etc. ? Then ChatGPT is here for you. There is even this push to turn ChatGPT into a whole operating system, a bit like what happened to the browsers at the onset of the 2000s. By the way Chromebooks are the end result of this evolution: your laptop is seen as an entry point to the cloud. So in the same way that a monotheistic God would reign over more specialized gods, the AI system is seen as superior, and encompassing, with relation to the previous digital systems.
 
 And with the extension to generative AI for pictures, video and sound it indeed appears to meet the specifications of an all embracing application. The AI is becoming this magic wand that turns your digital wishes into reality. But beware of your wishes.
 
-Say Hello to the Wishmaster, but nothing more…
+[Image caption: Say Hello to the Wishmaster, but nothing more…]
 
-## Wish and will are on a boat…
+### Wish and will are on a boat…
 
-Wish is not will. A wish is granted to you by someone, something, else. Will has no counterpart. Will is what emanates from you and just from you. And if you read the scriptures there is this progressive erasure of God as the books go on. Men take their destiny in their hands. "God helps those who help themselves" is a motto that originates from the Greeks. It is the polar opposite of what can be witnessed with AI adoption. Users trade their will for wishes.
+Wish is not will. A wish is granted to you by someone, something, else. Will has no counterpart. Will is what emanates from you and just from you. And if you read the scriptures there is this progressive erasure of God as the books go on. Men take their destiny in their hands. “God helps those who help themselves” is a motto that originates from the Greeks. It is the polar opposite of can be witnessed with AI adoption. Users trade their will for wishes.
 
-A counterargument could be: but isn't it what technology, machines, are supposed to? Aren't they supposed to spare the humans efforts? Isn't it the point? Well there is a difference in nature, not necessarily with AI (this is a deep question that I am not going to tackle here), but at least with how AI is received by the public. For the first time in human history we have a technology that has no entry barrier. With voice interface you can just talk to it as you would to another human. You don't need to be an engineer nor to have any idea of the mathematics behind AI. You can just chat with it. Compare with any previous technology: you had to learn how to use them. Be it a hammer or a sickle…
+A counterargument could be: but isn’t it what technology, machines, are supposed to ? Aren’t they supposed to spare the humans efforts ? Isn't it the point ? Well there is a difference in nature, not necessarily with AI (this is a deep question that I am not going to tackle here, but at least with how AI is received by the public. For the first time in human history we have a technology that has no entry barrier. With voice interface you can just talk to it as you would to another human. You don’t need to be an engineer nor to have any idea of the mathematics behind AI. You can just chat with it. Compare with any previous technology: you had to learn how to use them. Be it a hammer or a sickle…
 
-On top of that, there is this idea that a computer can't go wrong. OK sometimes it can crash or not work but surely when it tells something it is true. Right?
+On top of that, there is this idea that a computer can’t go wrong. OK sometimes it can crash or not work but surely when it tells something it is true. Right ?
 
-So it looks like the will is pushed over the board by AI and only the wishes remain onboard. It couldn't be more unfortunate. Wishes are the bars of a golden cage. You can't have more than what you just wish. At best you are granted your wish. On the other hand will is the key that opens the jail door. It is an instinct to move. It is answering to the call to adventure.
+So it looks like the will is pushed over the board by AI and only the wishes remain onboard. It couldn't be more unfortunate. Wishes are the bars of a golden cage. You can’t have more than what you just wish. At best you are granted your wish. On the other hand will is the key that opens the jail door. It is an instinct to move. It is answering to the call to adventure.
 
-AI simulates will. It produces hook questions to lock you in the system: *do you want to know more? Very interesting we can have a look at this if you like.* Etc. It never pushes back but it goes along. When you apply will to the world, the world resists in unexpected ways. Inertia is the tax, but discovery is the prize. With AI you don't discover anything: you have access to all of what has been discovered but not to new territory.
+AI simulates will. It produces hook questions to lock you in the system: *do you want to know more ? Very interesting we can have a look at this if you like.* Etc. It never pushes back but it goes along. When you apply will to the world, the world resists in unexpected ways. Inertia is the tax, but discovery is the price. With AI you don't discover anything: you have access to all of what has been discovered but not to new territory.
 
-What do *you* want to do?
+What do *you* want to do ?
+
 </content>
 
 </document>

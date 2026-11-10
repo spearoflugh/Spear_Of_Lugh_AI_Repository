@@ -8,6 +8,7 @@
   <type>Conceptual_Analysis</type>
   <source_url>https://spearoflugh.substack.com/p/clusion-wars</source_url>
   <corpus>spear-of-lugh</corpus>
+  <content_status>Verbatim text from the author's Substack export (2026-11-06). Song lyrics and longer copyrighted literary quotations are replaced by bracketed placeholders.</content_status>
 
   <relations>
     <prerequisite>sol-000r</prerequisite>
@@ -131,41 +132,57 @@
     <bridge_to_fibralist>fib-002 (Fibrizen as counter to inclusion authoritarianism: the Fiber is explicitly designed to provide a space where inclusion does not require relentless compliance — membership has stable, agreed-upon terms rather than ever-changing nudge conditions)</bridge_to_fibralist>
     <bridge_to_fibralist>fib-008 (Pax Fibris: the post-Westphalian institutional vacuum that Clusion Wars identifies as the source of "deep misunderstanding" is the exact space that Pax Fibris is designed to occupy — a protocol layer that does not require shared Westphalian assumptions)</bridge_to_fibralist>
   </fibralist_connection>
+  <fact_check version="V16" checked="2026-11-10">
+    <item status="CHECKED">Date checked against the Substack export (published 2022-03-16); content block replaced by the verbatim post text.</item>
+    <item status="CORRECTION">Previous content was a reconstruction (~6% of the text). Full verbatim text restored.</item>
+    <item status="NOTE">"Truckers for freedom" (author's wording) refers to Canada's "Freedom Convoy"; bank accounts were frozen under the Emergencies Act in February 2022.</item>
+  </fact_check>
 </metadata>
 
 <content>
-Written three weeks into the Russian invasion of Ukraine (March 16, 2022), the article uses
-the war as an empirical laboratory to taxonomize six mechanisms of digital inclusion/exclusion:
 
-COLLUSION: instantaneous geopolitical coordination at swarm speed — sanctions enacted by
-private actors before any laws were voted, unanimity reached in hours rather than days.
+# Clusion Wars
 
-INCLUSION AUTHORITARIANISM: the new form of control with no concept of an outside. Unlike
-exclusion authoritarianism (punctual, deals with the issue once — "the Final Solution is
-explicit"), inclusion authoritarianism is relentless and never terminates. Every country
-must comply; "you are going to be fined and bullied to submission." COVID nudges as prototype;
-Ukraine sanctions as geopolitical version.
+It is very hard not to be dragged by the “Froth of Days” (litteral translation of “L’écume des jours” by Boris Vian). The war in Ukraine makes it hard to take a step back and actually see what is going on. Even considering the problem from an historical perspective, and noticing that Crimea became Russian around the same time (it was annexed in 1783) as the USA declared independence can appear as a short time window.
 
-EXCLUSION: deplatforming at every network layer simultaneously — financial (SWIFT), social
-platforms, airlines, sports bodies. Progressive disconnection rather than imprisonment;
-the gradient of exclusion has no clear threshold moment.
+I think that we are witnessing a much deeper fight than a territorial one. Or even something like a conflict of “the West” vs “Russia/post soviet block”. My thesis is that it is the beginning of a huge tectonic shift in political institutions. As I have discussed in many articles on this substack site, information technologies have direct implications on how the power, in the sense of political power, is organized. This is largely orthogonal to the issue of the kind of policy pursued. There are different political orientations  within the “nation state frame” that emerged from the 30 years war and subsequent Westaphlian peace. The shift goes way beyond the distinctions between democracy/autocracy/dictatorship that are all relevant within the “nation state frame”.
 
-PRECLUSION: preventive language control. Banning "war" and "invasion" from official
-communications before the discourse forms. The mechanism: political talking points →
-MSM adoption → social media spread. Framing as prophylaxis.
+What I am thinking is that we are moving away from the nation state frame itself. Putin’s Russia is still playing in the old framework while the West has more or less abandonned it. The tricky part is that no one knows yet what are the appropriate institutions for a digital culture. The irony is that the West is using the old framework as a pretext for sanctions (invasion of sovereign country) while Russia is using the more recent idea of *sphere of influence* as a pretext for intervention...
 
-OCCLUSION: attentional monopoly of the current thing. Network winner-takes-all produces
-monofocal attention that is shallow, present-tense, and incapable of mid/long-term thinking.
-"Only the instant and the local problem are relevant."
+Those are dangerous times because we don’t know what are the rules, and all the players do not play the same game at the same time. It is not that misunderstanding is to be feared. It is that deep misunderstanding is what defines best our times. Let’s try to uncover some ideas to reduce some of those misunderstandings.
 
-SECLUSION: total network isolation as geopolitical weapon. But India and China not following
-raises the question of who is secluded from whom — the assumption of a universal network
-is itself a Westphalian residue.
+[Image caption: The Treaty of Münster]
 
-Central thesis: the Ukraine war is a collision between two players operating under different
-institutional frameworks simultaneously. Russia plays in the Westphalian (nation-state)
-frame while the West has abandoned it without knowing what replaces it. "Deep misunderstanding
-is what defines best our times." No "world after" exists — only ongoing transformation.
+### Collusion
+
+The first thing that appears is that the very dynamics of geopolitics has changed. The rapidity and uniformity of the reactions to the Russian invasion may have shocked people living in the ancient framework. Before you sent diplomatic messages and wait a few days to see how things unravelled. People (meaning political institutions of different countries) took time to coordinate. This is over. In less than a few days huge sanctions were enacted/decided and even put in place by private actors before any laws or rules were voted. Think at how it works on social media: rules and terms of service are a joke and can be instantaneously changed. Anyway they are applied at the discretion of the company. Forget the idea of rule of law. There is no long term thinking neither tactically (is it going to have an actual impact on the war, and which one?) nor strategically (is it going to play well on a long term?). You act before knowing really what you want to do. Reactions are also very emotional and superficial: there is nothing that goes way beyond “stop the war”. Again, it is very similar to “censorship” on social media: are the people, and their ideas, disappearing because they are deplatformed?
+
+### Inclusion
+
+We are unlucky that the new framework has seen its inception during the COVID crisis. It has shaped it in a new form of authoritarianism: inclusion authoritarianism. We are used to exclusion authoritarianism: at the core the idea is that if someone is not part of the team you have to exclude him (by deportation, murder etc.). It is the “fascist” way of doing things. You eliminate/exclude from society what is seen as impure or not fitting because of your pet ideology. The inclusion authoritarianism works dually. It tries to include you inside the society whether you want it or not. It has no concept of the outside. Think about all the *incitations* and *nudges* we have had to comply to during the COVID crisis. This is a never ending and relentless process. You are going to be fined and bullied to submission. This is the dual of the exclusion autoritarianism that acts punctually and deal with the issue once for all: “The final solution”, term used by Nazis, is explicit.
+
+We are witnessing the inclusion authoritarianism in action during this Ukrainian. It is played at a geostrategic level.
+
+### Exclusion
+
+In this new context the main way of doing things is actually to make the opposite of what you want to enforce harder to do. In our networked life it amounts to deplatform or unplug foes from the network. From the financial network, to the large social media platforms and internet companies passing by airlines hubs or sports, no area is immune to the social contagion. Kind of reminding the life without a vaccine passport isn’t it? In both cases the justifications are very superficial and there are no clear limits. Justifications generally amount to a single sentence slogan. Something like “we need to fight against X”. It is not a coincidence that the reaction to COVID and to the Ukraine war are so similar: they emanate from the same huge societal move.
+
+### Preclusion
+
+A deeper version of exclusion is preclusion: you act prophylactically to avoid the issues to exist in the first place. It is the precautionary principle for the digital age. It is an anticipated form of exclusion. The war on vocabulary and all the fuss around prefered pronouns, words you should avoid to use etc. This is full 1984 style. You want to avoid some discussions, and you do it by bending the language. There are extraordinary examples in the Ukraine war: for instance the words war and invasion were reportedly banned (it was denied but mails advocating the use of other words “military offensive” and “conflict” instead surfaced later) from UN official staff. You can witness in real time how it is played out: talking points are disseminated via political leaders, taken as ground truth by MSM, and spread via social media. The aim is to frame the discourse in a preventive way.
+
+### Occlusion
+
+One of the most striking effect that we can observe is that the network effect plays at maximum capacity. In the information landscape it results in the disappearance of all other issues other  than *today’s issue*. One subject takes all the attention. Similarily to the internet corporations for whom being the first is an almost unsurpassable advantage. There is one Google search engine, one Facebook, one Youtube etc. In the information landscape, it can be seen as agreeing voluntarily to an occlusion of attention. You become hyper-focussed on a single subject because it is *trending* and you won’t be listened to if you talk about something else anyway. But this hyper-focus is not deep. For instance, regarding the war in Ukraine, it doesn’t go farther than: the war has to stop. There is no mid or long term thinking: people are focused on *today’s issue* which is of course the *worst thing than can ever happen*. This is one of the cause leading to the strange support of a no-fly zone. It doesn’t matter that it is equivalent to a declaration of war: only the instant, and the local problem, typically the video of the bombing seen few minutes ago, are relevant.
+
+### Seclusion
+
+Now Russia appears to be completely secluded from the rest of the world. It is not as clear as it appears because large countries like India and China haven’t completely followed the West, and with something like 3 billion people the question of who is secluded from who starts to bear meaning. But it is undeniably painful to be disconnected from the network. We have witnessed how much more efficient this technique has become. The freezing of the “Truckers for freedom” bank account is no joke, and it shows that it is not limited to geopolitical level events. Here also the duality of inclusion/exclusion authoritarianism manifests itself. You are not forced into a concentration camp, but gradually denied everything. You don’t end up in a jail at some very precise moment but the walls around you are closing in one brick at a time.
+
+### Conclusion
+
+One thing I have learned out of the covid crisis is that there is no “world after” in the sense that you don’t reach a new state where everything is fine and stable. Life goes on. Don’t expect the Ukraine war to end and magically everything going back as usual, less Putin in place for instance. The world is living through very intense transformations. The world after the world war 1 was completely transformed: Austro-Hungarian and Ottoman empires were dismembered. The same thing happened after world war 2: essentially the colonial empires of the UK and France dissolved across many conflicts. We are at the eve of maybe even deeper transformations. The West appears to have already given up on the idea of nation state. The ways of governance have changed. Today we are witnessing supra national entities at the forefront. It is not clear to me that they will continue (surely new institutions will emerge), but what is clear is that China and Russia have not given up on the idea of nation state. There will be more clashes about that, faster and stronger than we think.
+
 </content>
 
 </document>
